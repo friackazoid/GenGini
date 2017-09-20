@@ -1,0 +1,10 @@
+H1: low ratio between GDP (PPP corrected) and GINI index (income) create conditions where education is of great importance for acquiring higher social status.
+Low ratio of GDP (PPP corrected) and GINI correlate with high PISA.
+H0: no correlation between PISA and GDP (PPP corrected) and GINI ratio
+
+
+Tasks:
+-	2000-2015 PISA, save in csv: Zhenya
+-	How to calculate ratio btw GDP and GINI: everyone
+-	csv from worldbank (gini: Katya, gdp corrected for ppp: Alina)
+- understand what's in cssv files:everyone
