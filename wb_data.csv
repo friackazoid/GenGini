@@ -1,0 +1,4489 @@
+iso_code	country	date	gdp	gini
+1A	Arab World	2016-01-01	16716	28.96
+1A	Arab World	2015-01-01	16281	28.96
+1A	Arab World	2014-01-01	15911	28.96
+1A	Arab World	2013-01-01	15526	28.96
+1A	Arab World	2012-01-01	15090	28.96
+1A	Arab World	2011-01-01	14429	28.96
+1A	Arab World	2010-01-01	14051	28.96
+1A	Arab World	2009-01-01	13559	28.96
+1A	Arab World	2008-01-01	13661	28.96
+1A	Arab World	2007-01-01	12965	28.96
+1A	Arab World	2006-01-01	12373	28.96
+1A	Arab World	2005-01-01	11574	28.96
+1A	Arab World	2004-01-01	10861	28.96
+1A	Arab World	2003-01-01	9897	28.96
+1A	Arab World	2002-01-01	9494	28.96
+1A	Arab World	2001-01-01	9496	28.96
+1A	Arab World	2000-01-01	9314	28.96
+S3	Caribbean small states	2016-01-01	15080	28.96
+S3	Caribbean small states	2015-01-01	15300	28.96
+S3	Caribbean small states	2014-01-01	15207	28.96
+S3	Caribbean small states	2013-01-01	14959	28.96
+S3	Caribbean small states	2012-01-01	14545	28.96
+S3	Caribbean small states	2011-01-01	14199	28.96
+S3	Caribbean small states	2010-01-01	13850	28.96
+S3	Caribbean small states	2009-01-01	13557	28.96
+S3	Caribbean small states	2008-01-01	14026	28.96
+S3	Caribbean small states	2007-01-01	13610	28.96
+S3	Caribbean small states	2006-01-01	12900	28.96
+S3	Caribbean small states	2005-01-01	11733	28.96
+S3	Caribbean small states	2004-01-01	11028	28.96
+S3	Caribbean small states	2003-01-01	10328	28.96
+S3	Caribbean small states	2002-01-01	9535	28.96
+S3	Caribbean small states	2001-01-01	9082	28.96
+S3	Caribbean small states	2000-01-01	8744	28.96
+B8	Central Europe and the Baltics	2016-01-01	27139	28.96
+B8	Central Europe and the Baltics	2015-01-01	26135	28.96
+B8	Central Europe and the Baltics	2014-01-01	25036	28.96
+B8	Central Europe and the Baltics	2013-01-01	23960	28.96
+B8	Central Europe and the Baltics	2012-01-01	22944	28.96
+B8	Central Europe and the Baltics	2011-01-01	22156	28.96
+B8	Central Europe and the Baltics	2010-01-01	20755	28.96
+B8	Central Europe and the Baltics	2009-01-01	19520	28.96
+B8	Central Europe and the Baltics	2008-01-01	19519	28.96
+B8	Central Europe and the Baltics	2007-01-01	17631	28.96
+B8	Central Europe and the Baltics	2006-01-01	15884	28.96
+B8	Central Europe and the Baltics	2005-01-01	14283	28.96
+B8	Central Europe and the Baltics	2004-01-01	13462	28.96
+B8	Central Europe and the Baltics	2003-01-01	12330	28.96
+B8	Central Europe and the Baltics	2002-01-01	11593	28.96
+B8	Central Europe and the Baltics	2001-01-01	10802	28.96
+B8	Central Europe and the Baltics	2000-01-01	9997	28.96
+V2	Early-demographic dividend	2016-01-01	9136	28.96
+V2	Early-demographic dividend	2015-01-01	8741	28.96
+V2	Early-demographic dividend	2014-01-01	8382	28.96
+V2	Early-demographic dividend	2013-01-01	7962	28.96
+V2	Early-demographic dividend	2012-01-01	7601	28.96
+V2	Early-demographic dividend	2011-01-01	7285	28.96
+V2	Early-demographic dividend	2010-01-01	6862	28.96
+V2	Early-demographic dividend	2009-01-01	6423	28.96
+V2	Early-demographic dividend	2008-01-01	6307	28.96
+V2	Early-demographic dividend	2007-01-01	6012	28.96
+V2	Early-demographic dividend	2006-01-01	5562	28.96
+V2	Early-demographic dividend	2005-01-01	5120	28.96
+V2	Early-demographic dividend	2004-01-01	4720	28.96
+V2	Early-demographic dividend	2003-01-01	4375	28.96
+V2	Early-demographic dividend	2002-01-01	4145	28.96
+V2	Early-demographic dividend	2001-01-01	4070	28.96
+V2	Early-demographic dividend	2000-01-01	3976	28.96
+Z4	East Asia & Pacific	2016-01-01	16984	28.96
+Z4	East Asia & Pacific	2015-01-01	16097	28.96
+Z4	East Asia & Pacific	2014-01-01	15271	28.96
+Z4	East Asia & Pacific	2013-01-01	14403	28.96
+Z4	East Asia & Pacific	2012-01-01	13479	28.96
+Z4	East Asia & Pacific	2011-01-01	12610	28.96
+Z4	East Asia & Pacific	2010-01-01	11721	28.96
+Z4	East Asia & Pacific	2009-01-01	10785	28.96
+Z4	East Asia & Pacific	2008-01-01	10392	28.96
+Z4	East Asia & Pacific	2007-01-01	9768	28.96
+Z4	East Asia & Pacific	2006-01-01	8826	28.96
+Z4	East Asia & Pacific	2005-01-01	8040	28.96
+Z4	East Asia & Pacific	2004-01-01	7387	28.96
+Z4	East Asia & Pacific	2003-01-01	6801	28.96
+Z4	East Asia & Pacific	2002-01-01	6384	28.96
+Z4	East Asia & Pacific	2001-01-01	6016	28.96
+Z4	East Asia & Pacific	2000-01-01	5712	28.96
+4E	East Asia & Pacific (excluding high income)	2016-01-01	13853	28.96
+4E	East Asia & Pacific (excluding high income)	2015-01-01	12959	28.96
+4E	East Asia & Pacific (excluding high income)	2014-01-01	12135	28.96
+4E	East Asia & Pacific (excluding high income)	2013-01-01	11259	28.96
+4E	East Asia & Pacific (excluding high income)	2012-01-01	10420	28.96
+4E	East Asia & Pacific (excluding high income)	2011-01-01	9591	28.96
+4E	East Asia & Pacific (excluding high income)	2010-01-01	8742	28.96
+4E	East Asia & Pacific (excluding high income)	2009-01-01	7938	28.96
+4E	East Asia & Pacific (excluding high income)	2008-01-01	7389	28.96
+4E	East Asia & Pacific (excluding high income)	2007-01-01	6749	28.96
+4E	East Asia & Pacific (excluding high income)	2006-01-01	5918	28.96
+4E	East Asia & Pacific (excluding high income)	2005-01-01	5241	28.96
+4E	East Asia & Pacific (excluding high income)	2004-01-01	4677	28.96
+4E	East Asia & Pacific (excluding high income)	2003-01-01	4221	28.96
+4E	East Asia & Pacific (excluding high income)	2002-01-01	3846	28.96
+4E	East Asia & Pacific (excluding high income)	2001-01-01	3550	28.96
+4E	East Asia & Pacific (excluding high income)	2000-01-01	3290	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2016-01-01	13999	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2015-01-01	13097	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2014-01-01	12264	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2013-01-01	11379	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2012-01-01	10531	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2011-01-01	9694	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2010-01-01	8837	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2009-01-01	8023	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2008-01-01	7469	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2007-01-01	6822	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2006-01-01	5983	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2005-01-01	5298	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2004-01-01	4728	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2003-01-01	4267	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2002-01-01	3888	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2001-01-01	3589	28.96
+T4	East Asia & Pacific (IDA & IBRD countries)	2000-01-01	3326	28.96
+XC	Euro area	2016-01-01	41998	28.96
+XC	Euro area	2015-01-01	41122	28.96
+XC	Euro area	2014-01-01	39980	28.96
+XC	Euro area	2013-01-01	38979	28.96
+XC	Euro area	2012-01-01	37799	28.96
+XC	Euro area	2011-01-01	37436	28.96
+XC	Euro area	2010-01-01	35881	28.96
+XC	Euro area	2009-01-01	34887	28.96
+XC	Euro area	2008-01-01	35752	28.96
+XC	Euro area	2007-01-01	34412	28.96
+XC	Euro area	2006-01-01	32549	28.96
+XC	Euro area	2005-01-01	30122	28.96
+XC	Euro area	2004-01-01	29101	28.96
+XC	Euro area	2003-01-01	27974	28.96
+XC	Euro area	2002-01-01	27559	28.96
+XC	Euro area	2001-01-01	26572	28.96
+XC	Euro area	2000-01-01	25322	28.96
+Z7	Europe & Central Asia	2016-01-01	31022	28.96
+Z7	Europe & Central Asia	2015-01-01	30553	28.96
+Z7	Europe & Central Asia	2014-01-01	30138	28.96
+Z7	Europe & Central Asia	2013-01-01	29339	28.96
+Z7	Europe & Central Asia	2012-01-01	28390	28.96
+Z7	Europe & Central Asia	2011-01-01	27716	28.96
+Z7	Europe & Central Asia	2010-01-01	26017	28.96
+Z7	Europe & Central Asia	2009-01-01	24942	28.96
+Z7	Europe & Central Asia	2008-01-01	25640	28.96
+Z7	Europe & Central Asia	2007-01-01	23997	28.96
+Z7	Europe & Central Asia	2006-01-01	22416	28.96
+Z7	Europe & Central Asia	2005-01-01	20254	28.96
+Z7	Europe & Central Asia	2004-01-01	19223	28.96
+Z7	Europe & Central Asia	2003-01-01	18093	28.96
+Z7	Europe & Central Asia	2002-01-01	17432	28.96
+Z7	Europe & Central Asia	2001-01-01	16663	28.96
+Z7	Europe & Central Asia	2000-01-01	15832	28.96
+7E	Europe & Central Asia (excluding high income)	2016-01-01	18783	28.96
+7E	Europe & Central Asia (excluding high income)	2015-01-01	18736	28.96
+7E	Europe & Central Asia (excluding high income)	2014-01-01	19116	28.96
+7E	Europe & Central Asia (excluding high income)	2013-01-01	18661	28.96
+7E	Europe & Central Asia (excluding high income)	2012-01-01	18049	28.96
+7E	Europe & Central Asia (excluding high income)	2011-01-01	17224	28.96
+7E	Europe & Central Asia (excluding high income)	2010-01-01	15251	28.96
+7E	Europe & Central Asia (excluding high income)	2009-01-01	14247	28.96
+7E	Europe & Central Asia (excluding high income)	2008-01-01	14746	28.96
+7E	Europe & Central Asia (excluding high income)	2007-01-01	12849	28.96
+7E	Europe & Central Asia (excluding high income)	2006-01-01	11537	28.96
+7E	Europe & Central Asia (excluding high income)	2005-01-01	9646	28.96
+7E	Europe & Central Asia (excluding high income)	2004-01-01	8599	28.96
+7E	Europe & Central Asia (excluding high income)	2003-01-01	7682	28.96
+7E	Europe & Central Asia (excluding high income)	2002-01-01	6953	28.96
+7E	Europe & Central Asia (excluding high income)	2001-01-01	6497	28.96
+7E	Europe & Central Asia (excluding high income)	2000-01-01	6125	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2016-01-01	19535	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2015-01-01	19417	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2014-01-01	19672	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2013-01-01	19175	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2012-01-01	18543	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2011-01-01	17707	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2010-01-01	15754	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2009-01-01	14682	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2008-01-01	15056	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2007-01-01	13192	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2006-01-01	11853	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2005-01-01	10018	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2004-01-01	9016	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2003-01-01	8083	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2002-01-01	7377	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2001-01-01	6904	28.96
+T7	Europe & Central Asia (IDA & IBRD countries)	2000-01-01	6522	28.96
+EU	European Union	2016-01-01	39629	28.96
+EU	European Union	2015-01-01	38705	28.96
+EU	European Union	2014-01-01	37553	28.96
+EU	European Union	2013-01-01	36444	28.96
+EU	European Union	2012-01-01	35241	28.96
+EU	European Union	2011-01-01	34703	28.96
+EU	European Union	2010-01-01	33275	28.96
+EU	European Union	2009-01-01	32148	28.96
+EU	European Union	2008-01-01	32918	28.96
+EU	European Union	2007-01-01	31498	28.96
+EU	European Union	2006-01-01	29755	28.96
+EU	European Union	2005-01-01	27495	28.96
+EU	European Union	2004-01-01	26564	28.96
+EU	European Union	2003-01-01	25318	28.96
+EU	European Union	2002-01-01	24724	28.96
+EU	European Union	2001-01-01	23719	28.96
+EU	European Union	2000-01-01	22547	28.96
+F1	Fragile and conflict affected situations	2016-01-01	4208	28.96
+F1	Fragile and conflict affected situations	2015-01-01	4015	28.96
+F1	Fragile and conflict affected situations	2014-01-01	3970	28.96
+F1	Fragile and conflict affected situations	2013-01-01	3861	28.96
+F1	Fragile and conflict affected situations	2012-01-01	3672	28.96
+F1	Fragile and conflict affected situations	2011-01-01	3459	28.96
+F1	Fragile and conflict affected situations	2010-01-01	3653	28.96
+F1	Fragile and conflict affected situations	2009-01-01	3473	28.96
+F1	Fragile and conflict affected situations	2008-01-01	3372	28.96
+F1	Fragile and conflict affected situations	2007-01-01	3199	28.96
+F1	Fragile and conflict affected situations	2006-01-01	3028	28.96
+F1	Fragile and conflict affected situations	2005-01-01	2810	28.96
+F1	Fragile and conflict affected situations	2004-01-01	2616	28.96
+F1	Fragile and conflict affected situations	2003-01-01	2264	28.96
+F1	Fragile and conflict affected situations	2002-01-01	2411	28.96
+F1	Fragile and conflict affected situations	2001-01-01	2444	28.96
+F1	Fragile and conflict affected situations	2000-01-01	2375	28.96
+XE	Heavily indebted poor countries (HIPC)	2016-01-01	2246	28.96
+XE	Heavily indebted poor countries (HIPC)	2015-01-01	2178	28.96
+XE	Heavily indebted poor countries (HIPC)	2014-01-01	2108	28.96
+XE	Heavily indebted poor countries (HIPC)	2013-01-01	2017	28.96
+XE	Heavily indebted poor countries (HIPC)	2012-01-01	1930	28.96
+XE	Heavily indebted poor countries (HIPC)	2011-01-01	1841	28.96
+XE	Heavily indebted poor countries (HIPC)	2010-01-01	1768	28.96
+XE	Heavily indebted poor countries (HIPC)	2009-01-01	1697	28.96
+XE	Heavily indebted poor countries (HIPC)	2008-01-01	1658	28.96
+XE	Heavily indebted poor countries (HIPC)	2007-01-01	1576	28.96
+XE	Heavily indebted poor countries (HIPC)	2006-01-01	1480	28.96
+XE	Heavily indebted poor countries (HIPC)	2005-01-01	1391	28.96
+XE	Heavily indebted poor countries (HIPC)	2004-01-01	1304	28.96
+XE	Heavily indebted poor countries (HIPC)	2003-01-01	1238	28.96
+XE	Heavily indebted poor countries (HIPC)	2002-01-01	1195	28.96
+XE	Heavily indebted poor countries (HIPC)	2001-01-01	1171	28.96
+XE	Heavily indebted poor countries (HIPC)	2000-01-01	1127	28.96
+XD	High income	2016-01-01	46704	28.96
+XD	High income	2015-01-01	45757	28.96
+XD	High income	2014-01-01	44585	28.96
+XD	High income	2013-01-01	43315	28.96
+XD	High income	2012-01-01	41901	28.96
+XD	High income	2011-01-01	40781	28.96
+XD	High income	2010-01-01	39222	28.96
+XD	High income	2009-01-01	37790	28.96
+XD	High income	2008-01-01	38827	28.96
+XD	High income	2007-01-01	37917	28.96
+XD	High income	2006-01-01	36181	28.96
+XD	High income	2005-01-01	34013	28.96
+XD	High income	2004-01-01	32445	28.96
+XD	High income	2003-01-01	30724	28.96
+XD	High income	2002-01-01	29733	28.96
+XD	High income	2001-01-01	28821	28.96
+XD	High income	2000-01-01	27873	28.96
+XF	IBRD only	2016-01-01	12873	28.96
+XF	IBRD only	2015-01-01	12312	28.96
+XF	IBRD only	2014-01-01	11856	28.96
+XF	IBRD only	2013-01-01	11235	28.96
+XF	IBRD only	2012-01-01	10645	28.96
+XF	IBRD only	2011-01-01	10057	28.96
+XF	IBRD only	2010-01-01	9287	28.96
+XF	IBRD only	2009-01-01	8578	28.96
+XF	IBRD only	2008-01-01	8318	28.96
+XF	IBRD only	2007-01-01	7695	28.96
+XF	IBRD only	2006-01-01	6933	28.96
+XF	IBRD only	2005-01-01	6195	28.96
+XF	IBRD only	2004-01-01	5633	28.96
+XF	IBRD only	2003-01-01	5135	28.96
+XF	IBRD only	2002-01-01	4803	28.96
+XF	IBRD only	2001-01-01	4579	28.96
+XF	IBRD only	2000-01-01	4364	28.96
+ZT	IDA & IBRD total	2016-01-01	10537	28.96
+ZT	IDA & IBRD total	2015-01-01	10115	28.96
+ZT	IDA & IBRD total	2014-01-01	9768	28.96
+ZT	IDA & IBRD total	2013-01-01	9279	28.96
+ZT	IDA & IBRD total	2012-01-01	8813	28.96
+ZT	IDA & IBRD total	2011-01-01	8354	28.96
+ZT	IDA & IBRD total	2010-01-01	7755	28.96
+ZT	IDA & IBRD total	2009-01-01	7198	28.96
+ZT	IDA & IBRD total	2008-01-01	6991	28.96
+ZT	IDA & IBRD total	2007-01-01	6498	28.96
+ZT	IDA & IBRD total	2006-01-01	5884	28.96
+ZT	IDA & IBRD total	2005-01-01	5286	28.96
+ZT	IDA & IBRD total	2004-01-01	4825	28.96
+ZT	IDA & IBRD total	2003-01-01	4400	28.96
+ZT	IDA & IBRD total	2002-01-01	4128	28.96
+ZT	IDA & IBRD total	2001-01-01	3951	28.96
+ZT	IDA & IBRD total	2000-01-01	3773	28.96
+XH	IDA blend	2016-01-01	5173	28.96
+XH	IDA blend	2015-01-01	5095	28.96
+XH	IDA blend	2014-01-01	4960	28.96
+XH	IDA blend	2013-01-01	4718	28.96
+XH	IDA blend	2012-01-01	4514	28.96
+XH	IDA blend	2011-01-01	4344	28.96
+XH	IDA blend	2010-01-01	4167	28.96
+XH	IDA blend	2009-01-01	4002	28.96
+XH	IDA blend	2008-01-01	3879	28.96
+XH	IDA blend	2007-01-01	3747	28.96
+XH	IDA blend	2006-01-01	3528	28.96
+XH	IDA blend	2005-01-01	3279	28.96
+XH	IDA blend	2004-01-01	3080	28.96
+XH	IDA blend	2003-01-01	2646	28.96
+XH	IDA blend	2002-01-01	2505	28.96
+XH	IDA blend	2001-01-01	2449	28.96
+XH	IDA blend	2000-01-01	2375	28.96
+XI	IDA only	2016-01-01	2822	28.96
+XI	IDA only	2015-01-01	2714	28.96
+XI	IDA only	2014-01-01	2637	28.96
+XI	IDA only	2013-01-01	2508	28.96
+XI	IDA only	2012-01-01	2378	28.96
+XI	IDA only	2011-01-01	2273	28.96
+XI	IDA only	2010-01-01	2185	28.96
+XI	IDA only	2009-01-01	2078	28.96
+XI	IDA only	2008-01-01	2009	28.96
+XI	IDA only	2007-01-01	1894	28.96
+XI	IDA only	2006-01-01	1759	28.96
+XI	IDA only	2005-01-01	1636	28.96
+XI	IDA only	2004-01-01	1518	28.96
+XI	IDA only	2003-01-01	1426	28.96
+XI	IDA only	2002-01-01	1359	28.96
+XI	IDA only	2001-01-01	1319	28.96
+XI	IDA only	2000-01-01	1254	28.96
+XG	IDA total	2016-01-01	3611	28.96
+XG	IDA total	2015-01-01	3514	28.96
+XG	IDA total	2014-01-01	3417	28.96
+XG	IDA total	2013-01-01	3249	28.96
+XG	IDA total	2012-01-01	3094	28.96
+XG	IDA total	2011-01-01	2968	28.96
+XG	IDA total	2010-01-01	2849	28.96
+XG	IDA total	2009-01-01	2723	28.96
+XG	IDA total	2008-01-01	2635	28.96
+XG	IDA total	2007-01-01	2516	28.96
+XG	IDA total	2006-01-01	2354	28.96
+XG	IDA total	2005-01-01	2189	28.96
+XG	IDA total	2004-01-01	2045	28.96
+XG	IDA total	2003-01-01	1835	28.96
+XG	IDA total	2002-01-01	1743	28.96
+XG	IDA total	2001-01-01	1699	28.96
+XG	IDA total	2000-01-01	1633	28.96
+V3	Late-demographic dividend	2016-01-01	16624	28.96
+V3	Late-demographic dividend	2015-01-01	15907	28.96
+V3	Late-demographic dividend	2014-01-01	15288	28.96
+V3	Late-demographic dividend	2013-01-01	14437	28.96
+V3	Late-demographic dividend	2012-01-01	13594	28.96
+V3	Late-demographic dividend	2011-01-01	12702	28.96
+V3	Late-demographic dividend	2010-01-01	11559	28.96
+V3	Late-demographic dividend	2009-01-01	10618	28.96
+V3	Late-demographic dividend	2008-01-01	10219	28.96
+V3	Late-demographic dividend	2007-01-01	9281	28.96
+V3	Late-demographic dividend	2006-01-01	8249	28.96
+V3	Late-demographic dividend	2005-01-01	7245	28.96
+V3	Late-demographic dividend	2004-01-01	6535	28.96
+V3	Late-demographic dividend	2003-01-01	5920	28.96
+V3	Late-demographic dividend	2002-01-01	5440	28.96
+V3	Late-demographic dividend	2001-01-01	5073	28.96
+V3	Late-demographic dividend	2000-01-01	4746	28.96
+ZJ	Latin America & Caribbean	2016-01-01	15418	28.96
+ZJ	Latin America & Caribbean	2015-01-01	15373	28.96
+ZJ	Latin America & Caribbean	2014-01-01	15441	28.96
+ZJ	Latin America & Caribbean	2013-01-01	15070	28.96
+ZJ	Latin America & Caribbean	2012-01-01	14589	28.96
+ZJ	Latin America & Caribbean	2011-01-01	14119	28.96
+ZJ	Latin America & Caribbean	2010-01-01	13285	28.96
+ZJ	Latin America & Caribbean	2009-01-01	12514	28.96
+ZJ	Latin America & Caribbean	2008-01-01	12716	28.96
+ZJ	Latin America & Caribbean	2007-01-01	12120	28.96
+ZJ	Latin America & Caribbean	2006-01-01	11303	28.96
+ZJ	Latin America & Caribbean	2005-01-01	10435	28.96
+ZJ	Latin America & Caribbean	2004-01-01	9735	28.96
+ZJ	Latin America & Caribbean	2003-01-01	9042	28.96
+ZJ	Latin America & Caribbean	2002-01-01	8814	28.96
+ZJ	Latin America & Caribbean	2001-01-01	8775	28.96
+ZJ	Latin America & Caribbean	2000-01-01	8644	28.96
+XJ	Latin America & Caribbean (excluding high income)	2016-01-01	14920	28.96
+XJ	Latin America & Caribbean (excluding high income)	2015-01-01	14887	28.96
+XJ	Latin America & Caribbean (excluding high income)	2014-01-01	14976	28.96
+XJ	Latin America & Caribbean (excluding high income)	2013-01-01	14617	28.96
+XJ	Latin America & Caribbean (excluding high income)	2012-01-01	14154	28.96
+XJ	Latin America & Caribbean (excluding high income)	2011-01-01	13704	28.96
+XJ	Latin America & Caribbean (excluding high income)	2010-01-01	12895	28.96
+XJ	Latin America & Caribbean (excluding high income)	2009-01-01	12159	28.96
+XJ	Latin America & Caribbean (excluding high income)	2008-01-01	12359	28.96
+XJ	Latin America & Caribbean (excluding high income)	2007-01-01	11732	28.96
+XJ	Latin America & Caribbean (excluding high income)	2006-01-01	10925	28.96
+XJ	Latin America & Caribbean (excluding high income)	2005-01-01	10122	28.96
+XJ	Latin America & Caribbean (excluding high income)	2004-01-01	9441	28.96
+XJ	Latin America & Caribbean (excluding high income)	2003-01-01	8766	28.96
+XJ	Latin America & Caribbean (excluding high income)	2002-01-01	8555	28.96
+XJ	Latin America & Caribbean (excluding high income)	2001-01-01	8527	28.96
+XJ	Latin America & Caribbean (excluding high income)	2000-01-01	8426	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2016-01-01	15328	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2015-01-01	15289	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2014-01-01	15362	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2013-01-01	14997	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2012-01-01	14515	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2011-01-01	14041	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2010-01-01	13194	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2009-01-01	12413	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2008-01-01	12614	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2007-01-01	12013	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2006-01-01	11186	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2005-01-01	10314	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2004-01-01	9615	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2003-01-01	8924	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2002-01-01	8699	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2001-01-01	8666	28.96
+T2	Latin America & the Caribbean (IDA & IBRD countries)	2000-01-01	8558	28.96
+XL	Least developed countries: UN classification	2016-01-01	2612	28.96
+XL	Least developed countries: UN classification	2015-01-01	2525	28.96
+XL	Least developed countries: UN classification	2014-01-01	2463	28.96
+XL	Least developed countries: UN classification	2013-01-01	2345	28.96
+XL	Least developed countries: UN classification	2012-01-01	2228	28.96
+XL	Least developed countries: UN classification	2011-01-01	2139	28.96
+XL	Least developed countries: UN classification	2010-01-01	2064	28.96
+XL	Least developed countries: UN classification	2009-01-01	1964	28.96
+XL	Least developed countries: UN classification	2008-01-01	1896	28.96
+XL	Least developed countries: UN classification	2007-01-01	1776	28.96
+XL	Least developed countries: UN classification	2006-01-01	1628	28.96
+XL	Least developed countries: UN classification	2005-01-01	1498	28.96
+XL	Least developed countries: UN classification	2004-01-01	1376	28.96
+XL	Least developed countries: UN classification	2003-01-01	1288	28.96
+XL	Least developed countries: UN classification	2002-01-01	1224	28.96
+XL	Least developed countries: UN classification	2001-01-01	1193	28.96
+XL	Least developed countries: UN classification	2000-01-01	1133	28.96
+XO	Low & middle income	2016-01-01	10357	28.96
+XO	Low & middle income	2015-01-01	9936	28.96
+XO	Low & middle income	2014-01-01	9594	28.96
+XO	Low & middle income	2013-01-01	9107	28.96
+XO	Low & middle income	2012-01-01	8645	28.96
+XO	Low & middle income	2011-01-01	8191	28.96
+XO	Low & middle income	2010-01-01	7604	28.96
+XO	Low & middle income	2009-01-01	7060	28.96
+XO	Low & middle income	2008-01-01	6856	28.96
+XO	Low & middle income	2007-01-01	6367	28.96
+XO	Low & middle income	2006-01-01	5763	28.96
+XO	Low & middle income	2005-01-01	5178	28.96
+XO	Low & middle income	2004-01-01	4721	28.96
+XO	Low & middle income	2003-01-01	4303	28.96
+XO	Low & middle income	2002-01-01	4033	28.96
+XO	Low & middle income	2001-01-01	3859	28.96
+XO	Low & middle income	2000-01-01	3684	28.96
+XM	Low income	2016-01-01	1683	28.96
+XM	Low income	2015-01-01	1636	28.96
+XM	Low income	2014-01-01	1588	28.96
+XM	Low income	2013-01-01	1511	28.96
+XM	Low income	2012-01-01	1444	28.96
+XM	Low income	2011-01-01	1401	28.96
+XM	Low income	2010-01-01	1332	28.96
+XM	Low income	2009-01-01	1267	28.96
+XM	Low income	2008-01-01	1224	28.96
+XM	Low income	2007-01-01	1171	28.96
+XM	Low income	2006-01-01	1100	28.96
+XM	Low income	2005-01-01	1042	28.96
+XM	Low income	2004-01-01	976	28.96
+XM	Low income	2003-01-01	923	28.96
+XM	Low income	2002-01-01	901	28.96
+XM	Low income	2001-01-01	893	28.96
+XM	Low income	2000-01-01	856	28.96
+XN	Lower middle income	2016-01-01	6799	28.96
+XN	Lower middle income	2015-01-01	6458	28.96
+XN	Lower middle income	2014-01-01	6136	28.96
+XN	Lower middle income	2013-01-01	5785	28.96
+XN	Lower middle income	2012-01-01	5474	28.96
+XN	Lower middle income	2011-01-01	5192	28.96
+XN	Lower middle income	2010-01-01	4902	28.96
+XN	Lower middle income	2009-01-01	4578	28.96
+XN	Lower middle income	2008-01-01	4388	28.96
+XN	Lower middle income	2007-01-01	4170	28.96
+XN	Lower middle income	2006-01-01	3824	28.96
+XN	Lower middle income	2005-01-01	3503	28.96
+XN	Lower middle income	2004-01-01	3226	28.96
+XN	Lower middle income	2003-01-01	2954	28.96
+XN	Lower middle income	2002-01-01	2770	28.96
+XN	Lower middle income	2001-01-01	2673	28.96
+XN	Lower middle income	2000-01-01	2549	28.96
+ZQ	Middle East & North Africa	2016-01-01	19074	28.96
+ZQ	Middle East & North Africa	2015-01-01	18530	28.96
+ZQ	Middle East & North Africa	2014-01-01	18214	28.96
+ZQ	Middle East & North Africa	2013-01-01	17691	28.96
+ZQ	Middle East & North Africa	2012-01-01	17303	28.96
+ZQ	Middle East & North Africa	2011-01-01	16888	28.96
+ZQ	Middle East & North Africa	2010-01-01	16349	28.96
+ZQ	Middle East & North Africa	2009-01-01	15678	28.96
+ZQ	Middle East & North Africa	2008-01-01	15718	28.96
+ZQ	Middle East & North Africa	2007-01-01	15064	28.96
+ZQ	Middle East & North Africa	2006-01-01	14225	28.96
+ZQ	Middle East & North Africa	2005-01-01	13315	28.96
+ZQ	Middle East & North Africa	2004-01-01	12542	28.96
+ZQ	Middle East & North Africa	2003-01-01	11512	28.96
+ZQ	Middle East & North Africa	2002-01-01	10983	28.96
+ZQ	Middle East & North Africa	2001-01-01	10811	28.96
+ZQ	Middle East & North Africa	2000-01-01	10589	28.96
+XQ	Middle East & North Africa (excluding high income)	2016-01-01	12105	28.96
+XQ	Middle East & North Africa (excluding high income)	2015-01-01	12105	28.96
+XQ	Middle East & North Africa (excluding high income)	2014-01-01	12025	28.96
+XQ	Middle East & North Africa (excluding high income)	2013-01-01	11670	28.96
+XQ	Middle East & North Africa (excluding high income)	2012-01-01	11504	28.96
+XQ	Middle East & North Africa (excluding high income)	2011-01-01	11439	28.96
+XQ	Middle East & North Africa (excluding high income)	2010-01-01	11436	28.96
+XQ	Middle East & North Africa (excluding high income)	2009-01-01	10902	28.96
+XQ	Middle East & North Africa (excluding high income)	2008-01-01	10691	28.96
+XQ	Middle East & North Africa (excluding high income)	2007-01-01	10268	28.96
+XQ	Middle East & North Africa (excluding high income)	2006-01-01	9570	28.96
+XQ	Middle East & North Africa (excluding high income)	2005-01-01	8929	28.96
+XQ	Middle East & North Africa (excluding high income)	2004-01-01	8392	28.96
+XQ	Middle East & North Africa (excluding high income)	2003-01-01	7696	28.96
+XQ	Middle East & North Africa (excluding high income)	2002-01-01	7498	28.96
+XQ	Middle East & North Africa (excluding high income)	2001-01-01	7261	28.96
+XQ	Middle East & North Africa (excluding high income)	2000-01-01	7023	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2016-01-01	12220	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2015-01-01	12220	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2014-01-01	12136	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2013-01-01	11775	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2012-01-01	11608	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2011-01-01	11543	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2010-01-01	11543	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2009-01-01	11006	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2008-01-01	10792	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2007-01-01	10367	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2006-01-01	9662	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2005-01-01	9012	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2004-01-01	8470	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2003-01-01	7767	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2002-01-01	7568	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2001-01-01	7325	28.96
+T3	Middle East & North Africa (IDA & IBRD countries)	2000-01-01	7082	28.96
+XP	Middle income	2016-01-01	11381	28.96
+XP	Middle income	2015-01-01	10901	28.96
+XP	Middle income	2014-01-01	10510	28.96
+XP	Middle income	2013-01-01	9962	28.96
+XP	Middle income	2012-01-01	9443	28.96
+XP	Middle income	2011-01-01	8931	28.96
+XP	Middle income	2010-01-01	8277	28.96
+XP	Middle income	2009-01-01	7672	28.96
+XP	Middle income	2008-01-01	7443	28.96
+XP	Middle income	2007-01-01	6900	28.96
+XP	Middle income	2006-01-01	6235	28.96
+XP	Middle income	2005-01-01	5590	28.96
+XP	Middle income	2004-01-01	5088	28.96
+XP	Middle income	2003-01-01	4630	28.96
+XP	Middle income	2002-01-01	4332	28.96
+XP	Middle income	2001-01-01	4137	28.96
+XP	Middle income	2000-01-01	3946	28.96
+XU	North America	2016-01-01	56110	28.96
+XU	North America	2015-01-01	55001	28.96
+XU	North America	2014-01-01	53643	28.96
+XU	North America	2013-01-01	51917	28.96
+XU	North America	2012-01-01	50523	28.96
+XU	North America	2011-01-01	48975	28.96
+XU	North America	2010-01-01	47548	28.96
+XU	North America	2009-01-01	46192	28.96
+XU	North America	2008-01-01	47602	28.96
+XU	North America	2007-01-01	47214	28.96
+XU	North America	2006-01-01	45609	28.96
+XU	North America	2005-01-01	43503	28.96
+XU	North America	2004-01-01	41118	28.96
+XU	North America	2003-01-01	38941	28.96
+XU	North America	2002-01-01	37448	28.96
+XU	North America	2001-01-01	36567	28.96
+XU	North America	2000-01-01	35736	28.96
+XY	Not classified	2016-01-01	41730	28.96
+XY	Not classified	2015-01-01	41730	28.96
+XY	Not classified	2014-01-01	41730	28.96
+XY	Not classified	2013-01-01	41730	28.96
+XY	Not classified	2012-01-01	41730	28.96
+XY	Not classified	2011-01-01	41730	28.96
+XY	Not classified	2010-01-01	41730	28.96
+XY	Not classified	2009-01-01	41730	28.96
+XY	Not classified	2008-01-01	41730	28.96
+XY	Not classified	2007-01-01	41730	28.96
+XY	Not classified	2006-01-01	41730	28.96
+XY	Not classified	2005-01-01	41730	28.96
+XY	Not classified	2004-01-01	41730	28.96
+XY	Not classified	2003-01-01	41730	28.96
+XY	Not classified	2002-01-01	41730	28.96
+XY	Not classified	2001-01-01	41730	28.96
+XY	Not classified	2000-01-01	41730	28.96
+OE	OECD members	2016-01-01	41730	28.96
+OE	OECD members	2015-01-01	40895	28.96
+OE	OECD members	2014-01-01	39889	28.96
+OE	OECD members	2013-01-01	38781	28.96
+OE	OECD members	2012-01-01	37517	28.96
+OE	OECD members	2011-01-01	36562	28.96
+OE	OECD members	2010-01-01	35165	28.96
+OE	OECD members	2009-01-01	33889	28.96
+OE	OECD members	2008-01-01	34828	28.96
+OE	OECD members	2007-01-01	33994	28.96
+OE	OECD members	2006-01-01	32447	28.96
+OE	OECD members	2005-01-01	30464	28.96
+OE	OECD members	2004-01-01	29078	28.96
+OE	OECD members	2003-01-01	27586	28.96
+OE	OECD members	2002-01-01	26814	28.96
+OE	OECD members	2001-01-01	26014	28.96
+OE	OECD members	2000-01-01	25198	28.96
+S4	Other small states	2016-01-01	25022	28.96
+S4	Other small states	2015-01-01	24830	28.96
+S4	Other small states	2014-01-01	24516	28.96
+S4	Other small states	2013-01-01	23854	28.96
+S4	Other small states	2012-01-01	23179	28.96
+S4	Other small states	2011-01-01	22439	28.96
+S4	Other small states	2010-01-01	20828	28.96
+S4	Other small states	2009-01-01	19391	28.96
+S4	Other small states	2008-01-01	19131	28.96
+S4	Other small states	2007-01-01	17715	28.96
+S4	Other small states	2006-01-01	16011	28.96
+S4	Other small states	2005-01-01	14284	28.96
+S4	Other small states	2004-01-01	13372	28.96
+S4	Other small states	2003-01-01	12123	28.96
+S4	Other small states	2002-01-01	11627	28.96
+S4	Other small states	2001-01-01	11108	28.96
+S4	Other small states	2000-01-01	10548	28.96
+S2	Pacific island small states	2016-01-01	5860	28.96
+S2	Pacific island small states	2015-01-01	5702	28.96
+S2	Pacific island small states	2014-01-01	5469	28.96
+S2	Pacific island small states	2013-01-01	5224	28.96
+S2	Pacific island small states	2012-01-01	5011	28.96
+S2	Pacific island small states	2011-01-01	4881	28.96
+S2	Pacific island small states	2010-01-01	4664	28.96
+S2	Pacific island small states	2009-01-01	4533	28.96
+S2	Pacific island small states	2008-01-01	4635	28.96
+S2	Pacific island small states	2007-01-01	4530	28.96
+S2	Pacific island small states	2006-01-01	4435	28.96
+S2	Pacific island small states	2005-01-01	4262	28.96
+S2	Pacific island small states	2004-01-01	4102	28.96
+S2	Pacific island small states	2003-01-01	3868	28.96
+S2	Pacific island small states	2002-01-01	3767	28.96
+S2	Pacific island small states	2001-01-01	3660	28.96
+S2	Pacific island small states	2000-01-01	3567	28.96
+V4	Post-demographic dividend	2016-01-01	44602	28.96
+V4	Post-demographic dividend	2015-01-01	43675	28.96
+V4	Post-demographic dividend	2014-01-01	42660	28.96
+V4	Post-demographic dividend	2013-01-01	41486	28.96
+V4	Post-demographic dividend	2012-01-01	40122	28.96
+V4	Post-demographic dividend	2011-01-01	39111	28.96
+V4	Post-demographic dividend	2010-01-01	37728	28.96
+V4	Post-demographic dividend	2009-01-01	36417	28.96
+V4	Post-demographic dividend	2008-01-01	37460	28.96
+V4	Post-demographic dividend	2007-01-01	36577	28.96
+V4	Post-demographic dividend	2006-01-01	34885	28.96
+V4	Post-demographic dividend	2005-01-01	32799	28.96
+V4	Post-demographic dividend	2004-01-01	31289	28.96
+V4	Post-demographic dividend	2003-01-01	29660	28.96
+V4	Post-demographic dividend	2002-01-01	28738	28.96
+V4	Post-demographic dividend	2001-01-01	27793	28.96
+V4	Post-demographic dividend	2000-01-01	26802	28.96
+V1	Pre-demographic dividend	2016-01-01	3757	28.96
+V1	Pre-demographic dividend	2015-01-01	3698	28.96
+V1	Pre-demographic dividend	2014-01-01	3634	28.96
+V1	Pre-demographic dividend	2013-01-01	3511	28.96
+V1	Pre-demographic dividend	2012-01-01	3371	28.96
+V1	Pre-demographic dividend	2011-01-01	3226	28.96
+V1	Pre-demographic dividend	2010-01-01	3109	28.96
+V1	Pre-demographic dividend	2009-01-01	2978	28.96
+V1	Pre-demographic dividend	2008-01-01	2899	28.96
+V1	Pre-demographic dividend	2007-01-01	2742	28.96
+V1	Pre-demographic dividend	2006-01-01	2575	28.96
+V1	Pre-demographic dividend	2005-01-01	2377	28.96
+V1	Pre-demographic dividend	2004-01-01	2246	28.96
+V1	Pre-demographic dividend	2003-01-01	1849	28.96
+V1	Pre-demographic dividend	2002-01-01	1888	28.96
+V1	Pre-demographic dividend	2001-01-01	1900	28.96
+V1	Pre-demographic dividend	2000-01-01	1832	28.96
+S1	Small states	2016-01-01	22035	28.96
+S1	Small states	2015-01-01	21904	28.96
+S1	Small states	2014-01-01	21609	28.96
+S1	Small states	2013-01-01	21024	28.96
+S1	Small states	2012-01-01	20401	28.96
+S1	Small states	2011-01-01	19747	28.96
+S1	Small states	2010-01-01	18443	28.96
+S1	Small states	2009-01-01	17291	28.96
+S1	Small states	2008-01-01	17178	28.96
+S1	Small states	2007-01-01	16029	28.96
+S1	Small states	2006-01-01	14617	28.96
+S1	Small states	2005-01-01	13096	28.96
+S1	Small states	2004-01-01	12267	28.96
+S1	Small states	2003-01-01	11195	28.96
+S1	Small states	2002-01-01	10653	28.96
+S1	Small states	2001-01-01	10169	28.96
+S1	Small states	2000-01-01	9684	28.96
+8S	South Asia	2016-01-01	6063	28.96
+8S	South Asia	2015-01-01	5673	28.96
+8S	South Asia	2014-01-01	5292	28.96
+8S	South Asia	2013-01-01	4922	28.96
+8S	South Asia	2012-01-01	4631	28.96
+8S	South Asia	2011-01-01	4371	28.96
+8S	South Asia	2010-01-01	4088	28.96
+8S	South Asia	2009-01-01	3763	28.96
+8S	South Asia	2008-01-01	3525	28.96
+8S	South Asia	2007-01-01	3380	28.96
+8S	South Asia	2006-01-01	3070	28.96
+8S	South Asia	2005-01-01	2787	28.96
+8S	South Asia	2004-01-01	2524	28.96
+8S	South Asia	2003-01-01	2323	28.96
+8S	South Asia	2002-01-01	2162	28.96
+8S	South Asia	2001-01-01	2091	28.96
+8S	South Asia	2000-01-01	1997	28.96
+T5	South Asia (IDA & IBRD)	2016-01-01	6063	28.96
+T5	South Asia (IDA & IBRD)	2015-01-01	5673	28.96
+T5	South Asia (IDA & IBRD)	2014-01-01	5292	28.96
+T5	South Asia (IDA & IBRD)	2013-01-01	4922	28.96
+T5	South Asia (IDA & IBRD)	2012-01-01	4631	28.96
+T5	South Asia (IDA & IBRD)	2011-01-01	4371	28.96
+T5	South Asia (IDA & IBRD)	2010-01-01	4088	28.96
+T5	South Asia (IDA & IBRD)	2009-01-01	3763	28.96
+T5	South Asia (IDA & IBRD)	2008-01-01	3525	28.96
+T5	South Asia (IDA & IBRD)	2007-01-01	3380	28.96
+T5	South Asia (IDA & IBRD)	2006-01-01	3070	28.96
+T5	South Asia (IDA & IBRD)	2005-01-01	2787	28.96
+T5	South Asia (IDA & IBRD)	2004-01-01	2524	28.96
+T5	South Asia (IDA & IBRD)	2003-01-01	2323	28.96
+T5	South Asia (IDA & IBRD)	2002-01-01	2162	28.96
+T5	South Asia (IDA & IBRD)	2001-01-01	2091	28.96
+T5	South Asia (IDA & IBRD)	2000-01-01	1997	28.96
+ZG	Sub-Saharan Africa	2016-01-01	3710	28.96
+ZG	Sub-Saharan Africa	2015-01-01	3705	28.96
+ZG	Sub-Saharan Africa	2014-01-01	3647	28.96
+ZG	Sub-Saharan Africa	2013-01-01	3509	28.96
+ZG	Sub-Saharan Africa	2012-01-01	3378	28.96
+ZG	Sub-Saharan Africa	2011-01-01	3283	28.96
+ZG	Sub-Saharan Africa	2010-01-01	3163	28.96
+ZG	Sub-Saharan Africa	2009-01-01	3038	28.96
+ZG	Sub-Saharan Africa	2008-01-01	2999	28.96
+ZG	Sub-Saharan Africa	2007-01-01	2866	28.96
+ZG	Sub-Saharan Africa	2006-01-01	2679	28.96
+ZG	Sub-Saharan Africa	2005-01-01	2494	28.96
+ZG	Sub-Saharan Africa	2004-01-01	2353	28.96
+ZG	Sub-Saharan Africa	2003-01-01	2096	28.96
+ZG	Sub-Saharan Africa	2002-01-01	2008	28.96
+ZG	Sub-Saharan Africa	2001-01-01	1972	28.96
+ZG	Sub-Saharan Africa	2000-01-01	1900	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2016-01-01	3708	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2015-01-01	3703	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2014-01-01	3645	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2013-01-01	3507	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2012-01-01	3376	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2011-01-01	3281	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2010-01-01	3161	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2009-01-01	3036	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2008-01-01	2998	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2007-01-01	2864	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2006-01-01	2678	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2005-01-01	2493	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2004-01-01	2351	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2003-01-01	2094	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2002-01-01	2007	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2001-01-01	1970	28.96
+ZF	Sub-Saharan Africa (excluding high income)	2000-01-01	1898	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2016-01-01	3710	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2015-01-01	3705	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2014-01-01	3647	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2013-01-01	3509	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2012-01-01	3378	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2011-01-01	3283	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2010-01-01	3163	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2009-01-01	3038	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2008-01-01	2999	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2007-01-01	2866	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2006-01-01	2679	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2005-01-01	2494	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2004-01-01	2353	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2003-01-01	2096	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2002-01-01	2008	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2001-01-01	1972	28.96
+T6	Sub-Saharan Africa (IDA & IBRD countries)	2000-01-01	1900	28.96
+XT	Upper middle income	2016-01-01	16746	28.96
+XT	Upper middle income	2015-01-01	16072	28.96
+XT	Upper middle income	2014-01-01	15565	28.96
+XT	Upper middle income	2013-01-01	14758	28.96
+XT	Upper middle income	2012-01-01	13967	28.96
+XT	Upper middle income	2011-01-01	13161	28.96
+XT	Upper middle income	2010-01-01	12066	28.96
+XT	Upper middle income	2009-01-01	11118	28.96
+XT	Upper middle income	2008-01-01	10815	28.96
+XT	Upper middle income	2007-01-01	9890	28.96
+XT	Upper middle income	2006-01-01	8851	28.96
+XT	Upper middle income	2005-01-01	7835	28.96
+XT	Upper middle income	2004-01-01	7075	28.96
+XT	Upper middle income	2003-01-01	6401	28.96
+XT	Upper middle income	2002-01-01	5968	28.96
+XT	Upper middle income	2001-01-01	5657	28.96
+XT	Upper middle income	2000-01-01	5382	28.96
+1W	World	2016-01-01	16143	28.96
+1W	World	2015-01-01	15675	28.96
+1W	World	2014-01-01	15233	28.96
+1W	World	2013-01-01	14655	28.96
+1W	World	2012-01-01	14072	28.96
+1W	World	2011-01-01	13542	28.96
+1W	World	2010-01-01	12834	28.96
+1W	World	2009-01-01	12172	28.96
+1W	World	2008-01-01	12203	28.96
+1W	World	2007-01-01	11667	28.96
+1W	World	2006-01-01	10897	28.96
+1W	World	2005-01-01	10070	28.96
+1W	World	2004-01-01	9451	28.96
+1W	World	2003-01-01	8837	28.96
+1W	World	2002-01-01	8471	28.96
+1W	World	2001-01-01	8196	28.96
+1W	World	2000-01-01	7913	28.96
+AF	Afghanistan	2016-01-01	1876	28.96
+AF	Afghanistan	2015-01-01	1861	28.96
+AF	Afghanistan	2014-01-01	1875	28.96
+AF	Afghanistan	2013-01-01	1877	28.96
+AF	Afghanistan	2012-01-01	1873	28.96
+AF	Afghanistan	2011-01-01	1660	28.96
+AF	Afghanistan	2010-01-01	1581	28.96
+AF	Afghanistan	2009-01-01	1482	28.96
+AF	Afghanistan	2008-01-01	1247	28.96
+AF	Afghanistan	2007-01-01	1210	28.96
+AF	Afghanistan	2006-01-01	1065	28.96
+AF	Afghanistan	2005-01-01	1011	28.96
+AF	Afghanistan	2004-01-01	916	28.96
+AF	Afghanistan	2003-01-01	922	28.96
+AF	Afghanistan	2002-01-01	875	28.96
+AF	Afghanistan	2001-01-01	11928	28.96
+AF	Afghanistan	2000-01-01	11928	28.96
+AL	Albania	2016-01-01	11928	28.96
+AL	Albania	2015-01-01	11504	28.96
+AL	Albania	2014-01-01	11325	28.96
+AL	Albania	2013-01-01	10584	28.96
+AL	Albania	2012-01-01	10526	28.96
+AL	Albania	2011-01-01	10207	29.98
+AL	Albania	2010-01-01	9646	29.98
+AL	Albania	2009-01-01	8823	29.98
+AL	Albania	2008-01-01	8228	29.98
+AL	Albania	2007-01-01	7289	30.6
+AL	Albania	2006-01-01	6634	30.6
+AL	Albania	2005-01-01	5942	30.6
+AL	Albania	2004-01-01	5524	31.74
+AL	Albania	2003-01-01	5114	31.74
+AL	Albania	2002-01-01	4754	31.74
+AL	Albania	2001-01-01	4463	42.72
+AL	Albania	2000-01-01	4026	42.72
+DZ	Algeria	2016-01-01	15074	42.72
+DZ	Algeria	2015-01-01	14612	42.72
+DZ	Algeria	2014-01-01	14202	42.72
+DZ	Algeria	2013-01-01	13715	42.72
+DZ	Algeria	2012-01-01	13404	42.72
+DZ	Algeria	2011-01-01	12989	42.72
+DZ	Algeria	2010-01-01	12609	42.72
+DZ	Algeria	2009-01-01	12241	42.72
+DZ	Algeria	2008-01-01	12161	42.72
+DZ	Algeria	2007-01-01	11843	42.72
+DZ	Algeria	2006-01-01	11332	42.72
+DZ	Algeria	2005-01-01	10971	42.72
+DZ	Algeria	2004-01-01	10176	42.72
+DZ	Algeria	2003-01-01	9620	42.72
+DZ	Algeria	2002-01-01	8911	42.72
+DZ	Algeria	2001-01-01	8416	42.72
+DZ	Algeria	2000-01-01	8093	42.72
+AS	American Samoa	2016-01-01	6499	42.72
+AS	American Samoa	2015-01-01	6499	42.72
+AS	American Samoa	2014-01-01	6499	42.72
+AS	American Samoa	2013-01-01	6499	42.72
+AS	American Samoa	2012-01-01	6499	42.72
+AS	American Samoa	2011-01-01	6499	42.72
+AS	American Samoa	2010-01-01	6499	42.72
+AS	American Samoa	2009-01-01	6499	42.72
+AS	American Samoa	2008-01-01	6499	42.72
+AS	American Samoa	2007-01-01	6499	42.72
+AS	American Samoa	2006-01-01	6499	42.72
+AS	American Samoa	2005-01-01	6499	42.72
+AS	American Samoa	2004-01-01	6499	42.72
+AS	American Samoa	2003-01-01	6499	42.72
+AS	American Samoa	2002-01-01	6499	42.72
+AS	American Samoa	2001-01-01	6499	42.72
+AS	American Samoa	2000-01-01	6499	42.72
+AD	Andorra	2016-01-01	6499	42.72
+AD	Andorra	2015-01-01	6499	42.72
+AD	Andorra	2014-01-01	6499	42.72
+AD	Andorra	2013-01-01	6499	42.72
+AD	Andorra	2012-01-01	6499	42.72
+AD	Andorra	2011-01-01	6499	42.72
+AD	Andorra	2010-01-01	6499	42.72
+AD	Andorra	2009-01-01	6499	42.72
+AD	Andorra	2008-01-01	6499	42.72
+AD	Andorra	2007-01-01	6499	42.72
+AD	Andorra	2006-01-01	6499	42.72
+AD	Andorra	2005-01-01	6499	42.72
+AD	Andorra	2004-01-01	6499	42.72
+AD	Andorra	2003-01-01	6499	42.72
+AD	Andorra	2002-01-01	6499	42.72
+AD	Andorra	2001-01-01	6499	42.72
+AD	Andorra	2000-01-01	6499	42.72
+AO	Angola	2016-01-01	6499	42.72
+AO	Angola	2015-01-01	6634	42.72
+AO	Angola	2014-01-01	6594	42.72
+AO	Angola	2013-01-01	6400	42.72
+AO	Angola	2012-01-01	6109	42.72
+AO	Angola	2011-01-01	5911	42.72
+AO	Angola	2010-01-01	5775	42.72
+AO	Angola	2009-01-01	5718	42.72
+AO	Angola	2008-01-01	5743	42.72
+AO	Angola	2007-01-01	5128	51.96
+AO	Angola	2006-01-01	4222	51.96
+AO	Angola	2005-01-01	3516	51.96
+AO	Angola	2004-01-01	2985	51.96
+AO	Angola	2003-01-01	2715	51.96
+AO	Angola	2002-01-01	2620	51.96
+AO	Angola	2001-01-01	2870	51.96
+AO	Angola	2000-01-01	2781	51.96
+AG	Antigua and Barbuda	2016-01-01	22413	42.67
+AG	Antigua and Barbuda	2015-01-01	21415	42.67
+AG	Antigua and Barbuda	2014-01-01	20563	42.67
+AG	Antigua and Barbuda	2013-01-01	19520	42.67
+AG	Antigua and Barbuda	2012-01-01	19457	42.67
+AG	Antigua and Barbuda	2011-01-01	18602	42.67
+AG	Antigua and Barbuda	2010-01-01	18760	42.67
+AG	Antigua and Barbuda	2009-01-01	20168	42.67
+AG	Antigua and Barbuda	2008-01-01	23026	42.67
+AG	Antigua and Barbuda	2007-01-01	22843	42.67
+AG	Antigua and Barbuda	2006-01-01	20603	42.67
+AG	Antigua and Barbuda	2005-01-01	17928	42.67
+AG	Antigua and Barbuda	2004-01-01	16526	42.67
+AG	Antigua and Barbuda	2003-01-01	15368	42.67
+AG	Antigua and Barbuda	2002-01-01	14369	42.67
+AG	Antigua and Barbuda	2001-01-01	14199	42.67
+AG	Antigua and Barbuda	2000-01-01	14901	42.67
+AR	Argentina	2016-01-01	19934	42.67
+AR	Argentina	2015-01-01	20337	42.67
+AR	Argentina	2014-01-01	19801	42.67
+AR	Argentina	2013-01-01	20161	42.28
+AR	Argentina	2012-01-01	19579	42.49
+AR	Argentina	2011-01-01	19629	43.57
+AR	Argentina	2010-01-01	18333	44.5
+AR	Argentina	2009-01-01	16618	45.27
+AR	Argentina	2008-01-01	17711	46.27
+AR	Argentina	2007-01-01	16865	47.37
+AR	Argentina	2006-01-01	15227	48.26
+AR	Argentina	2005-01-01	13817	49.27
+AR	Argentina	2004-01-01	12430	50.18
+AR	Argentina	2003-01-01	11217	53.54
+AR	Argentina	2002-01-01	10217	53.79
+AR	Argentina	2001-01-01	11419	53.34
+AR	Argentina	2000-01-01	11810	51.06
+AM	Armenia	2016-01-01	8817	31.48
+AM	Armenia	2015-01-01	8709	31.48
+AM	Armenia	2014-01-01	8396	31.48
+AM	Armenia	2013-01-01	7997	31.54
+AM	Armenia	2012-01-01	7649	30.48
+AM	Armenia	2011-01-01	7022	31.32
+AM	Armenia	2010-01-01	6567	31.07
+AM	Armenia	2009-01-01	6323	29.58
+AM	Armenia	2008-01-01	7260	30.71
+AM	Armenia	2007-01-01	6605	29.83
+AM	Armenia	2006-01-01	5607	32.49
+AM	Armenia	2005-01-01	4769	35.99
+AM	Armenia	2004-01-01	4031	37.51
+AM	Armenia	2003-01-01	3531	33.03
+AM	Armenia	2002-01-01	3020	34.78
+AM	Armenia	2001-01-01	2613	35.36
+AM	Armenia	2000-01-01	2318	34.94
+AW	Aruba	2016-01-01	35973	34.94
+AW	Aruba	2015-01-01	35973	34.94
+AW	Aruba	2014-01-01	35973	34.94
+AW	Aruba	2013-01-01	35973	34.94
+AW	Aruba	2012-01-01	35973	34.94
+AW	Aruba	2011-01-01	35973	34.94
+AW	Aruba	2010-01-01	46789	34.94
+AW	Aruba	2009-01-01	46789	34.94
+AW	Aruba	2008-01-01	46789	34.94
+AW	Aruba	2007-01-01	46789	34.94
+AW	Aruba	2006-01-01	46789	34.94
+AW	Aruba	2005-01-01	46789	34.94
+AW	Aruba	2004-01-01	46789	34.94
+AW	Aruba	2003-01-01	46789	34.94
+AW	Aruba	2002-01-01	46789	34.94
+AW	Aruba	2001-01-01	46789	34.94
+AW	Aruba	2000-01-01	46789	34.94
+AU	Australia	2016-01-01	46789	34.94
+AU	Australia	2015-01-01	46475	34.94
+AU	Australia	2014-01-01	46446	34.94
+AU	Australia	2013-01-01	45668	34.94
+AU	Australia	2012-01-01	42616	34.94
+AU	Australia	2011-01-01	41782	34.94
+AU	Australia	2010-01-01	39191	34.94
+AU	Australia	2009-01-01	40282	35.63
+AU	Australia	2008-01-01	37506	35.63
+AU	Australia	2007-01-01	36596	34.01
+AU	Australia	2006-01-01	34356	34.01
+AU	Australia	2005-01-01	32591	34.01
+AU	Australia	2004-01-01	31345	34.01
+AU	Australia	2003-01-01	29723	34.01
+AU	Australia	2002-01-01	28717	34.14
+AU	Australia	2001-01-01	27431	34.14
+AU	Australia	2000-01-01	26406	30.48
+AT	Austria	2013-01-01	47721	30.48
+AT	Austria	2012-01-01	46233	30.48
+AT	Austria	2011-01-01	44237	30.8
+AT	Austria	2010-01-01	41906	30.25
+AT	Austria	2009-01-01	40704	31.5
+AT	Austria	2008-01-01	41058	30.45
+AT	Austria	2007-01-01	39150	30.58
+AT	Austria	2006-01-01	37455	29.59
+AT	Austria	2005-01-01	34866	28.72
+AT	Austria	2004-01-01	33649	29.87
+AT	Austria	2003-01-01	31987	31.79
+AT	Austria	2002-01-01	31119	31.79
+AT	Austria	2001-01-01	29725	31.79
+AT	Austria	2000-01-01	29301	31.79
+AT	Austria	2016-01-01	50077	31.79
+AT	Austria	2015-01-01	49419	31.79
+AT	Austria	2014-01-01	48615	31.79
+AZ	Azerbaijan	2016-01-01	17253	31.79
+AZ	Azerbaijan	2015-01-01	17779	31.79
+AZ	Azerbaijan	2014-01-01	17607	31.79
+AZ	Azerbaijan	2013-01-01	17171	31.79
+AZ	Azerbaijan	2012-01-01	16180	31.79
+AZ	Azerbaijan	2011-01-01	15754	31.79
+AZ	Azerbaijan	2010-01-01	15627	31.79
+AZ	Azerbaijan	2009-01-01	14900	31.79
+AZ	Azerbaijan	2008-01-01	13799	31.79
+AZ	Azerbaijan	2007-01-01	12477	16.64
+AZ	Azerbaijan	2006-01-01	9830	16.64
+AZ	Azerbaijan	2005-01-01	7169	16.64
+AZ	Azerbaijan	2004-01-01	5551	16.23
+AZ	Azerbaijan	2003-01-01	4945	18.81
+AZ	Azerbaijan	2002-01-01	4393	17.36
+AZ	Azerbaijan	2001-01-01	3942	36.45
+AZ	Azerbaijan	2000-01-01	3534	32.13
+BS	Bahamas, The	2016-01-01	23173	32.13
+BS	Bahamas, The	2015-01-01	23072	32.13
+BS	Bahamas, The	2014-01-01	23494	32.13
+BS	Bahamas, The	2013-01-01	23506	32.13
+BS	Bahamas, The	2012-01-01	23453	32.13
+BS	Bahamas, The	2011-01-01	22674	32.13
+BS	Bahamas, The	2010-01-01	22431	32.13
+BS	Bahamas, The	2009-01-01	22191	32.13
+BS	Bahamas, The	2008-01-01	23392	32.13
+BS	Bahamas, The	2007-01-01	23923	32.13
+BS	Bahamas, The	2006-01-01	23415	32.13
+BS	Bahamas, The	2005-01-01	22602	32.13
+BS	Bahamas, The	2004-01-01	21620	32.13
+BS	Bahamas, The	2003-01-01	21305	32.13
+BS	Bahamas, The	2002-01-01	21607	32.13
+BS	Bahamas, The	2001-01-01	21132	32.13
+BS	Bahamas, The	2000-01-01	20487	32.13
+BH	Bahrain	2016-01-01	47333	32.13
+BH	Bahrain	2015-01-01	47333	32.13
+BH	Bahrain	2014-01-01	46734	32.13
+BH	Bahrain	2013-01-01	44657	32.13
+BH	Bahrain	2012-01-01	42208	32.13
+BH	Bahrain	2011-01-01	40696	32.13
+BH	Bahrain	2010-01-01	40230	32.13
+BH	Bahrain	2009-01-01	39888	32.13
+BH	Bahrain	2008-01-01	41047	32.13
+BH	Bahrain	2007-01-01	40769	32.13
+BH	Bahrain	2006-01-01	39636	32.13
+BH	Bahrain	2005-01-01	38931	32.13
+BH	Bahrain	2004-01-01	37851	32.13
+BH	Bahrain	2003-01-01	36696	32.13
+BH	Bahrain	2002-01-01	35945	32.13
+BH	Bahrain	2001-01-01	36008	32.13
+BH	Bahrain	2000-01-01	36053	32.13
+BD	Bangladesh	2016-01-01	3580	32.13
+BD	Bangladesh	2015-01-01	3335	32.13
+BD	Bangladesh	2014-01-01	3131	32.13
+BD	Bangladesh	2013-01-01	2934	32.13
+BD	Bangladesh	2012-01-01	2756	32.13
+BD	Bangladesh	2011-01-01	2570	32.13
+BD	Bangladesh	2010-01-01	2393	32.13
+BD	Bangladesh	2009-01-01	2264	33.2
+BD	Bangladesh	2008-01-01	2163	33.2
+BD	Bangladesh	2007-01-01	2024	33.2
+BD	Bangladesh	2006-01-01	1864	33.2
+BD	Bangladesh	2005-01-01	1718	33.2
+BD	Bangladesh	2004-01-01	1586	33.41
+BD	Bangladesh	2003-01-01	1491	33.41
+BD	Bangladesh	2002-01-01	1420	33.41
+BD	Bangladesh	2001-01-01	1372	33.41
+BD	Bangladesh	2000-01-01	1301	33.41
+BB	Barbados	2016-01-01	16815	27.18
+BB	Barbados	2015-01-01	16386	27.18
+BB	Barbados	2014-01-01	16114	27.18
+BB	Barbados	2013-01-01	15870	27.18
+BB	Barbados	2012-01-01	15680	27.18
+BB	Barbados	2011-01-01	15404	27.18
+BB	Barbados	2010-01-01	15035	27.18
+BB	Barbados	2009-01-01	14872	27.18
+BB	Barbados	2008-01-01	15446	27.18
+BB	Barbados	2007-01-01	15153	27.18
+BB	Barbados	2006-01-01	14563	27.18
+BB	Barbados	2005-01-01	13421	27.18
+BB	Barbados	2004-01-01	12549	27.18
+BB	Barbados	2003-01-01	12080	27.18
+BB	Barbados	2002-01-01	11626	27.18
+BB	Barbados	2001-01-01	11393	27.18
+BB	Barbados	2000-01-01	11445	27.18
+BY	Belarus	2016-01-01	18060	27.18
+BY	Belarus	2015-01-01	18344	27.18
+BY	Belarus	2014-01-01	18902	27.18
+BY	Belarus	2013-01-01	18271	26.58
+BY	Belarus	2012-01-01	17801	26.53
+BY	Belarus	2011-01-01	17166	27.15
+BY	Belarus	2010-01-01	15906	28.57
+BY	Belarus	2009-01-01	14553	27.69
+BY	Belarus	2008-01-01	14383	27.83
+BY	Belarus	2007-01-01	12756	29.61
+BY	Belarus	2006-01-01	11389	28.28
+BY	Belarus	2005-01-01	9984	27.55
+BY	Belarus	2004-01-01	8781	26.48
+BY	Belarus	2003-01-01	7616	28.82
+BY	Belarus	2002-01-01	6927	30.34
+BY	Belarus	2001-01-01	6453	30.58
+BY	Belarus	2000-01-01	5994	31.17
+BE	Belgium	2016-01-01	46383	27.59
+BE	Belgium	2015-01-01	45608	27.59
+BE	Belgium	2014-01-01	44794	27.59
+BE	Belgium	2013-01-01	43452	27.59
+BE	Belgium	2012-01-01	42354	27.59
+BE	Belgium	2011-01-01	41248	28.43
+BE	Belgium	2010-01-01	40129	28.53
+BE	Belgium	2009-01-01	38047	28.7
+BE	Belgium	2008-01-01	38133	29.0
+BE	Belgium	2007-01-01	36858	29.57
+BE	Belgium	2006-01-01	35406	28.26
+BE	Belgium	2005-01-01	33332	29.88
+BE	Belgium	2004-01-01	32260	30.63
+BE	Belgium	2003-01-01	31054	43.44
+BE	Belgium	2002-01-01	30482	43.44
+BE	Belgium	2001-01-01	29024	43.44
+BE	Belgium	2000-01-01	27966	43.44
+BZ	Belize	2016-01-01	8448	43.44
+BZ	Belize	2015-01-01	8583	43.44
+BZ	Belize	2014-01-01	8480	43.44
+BZ	Belize	2013-01-01	8179	43.44
+BZ	Belize	2012-01-01	8121	43.44
+BZ	Belize	2011-01-01	7855	43.44
+BZ	Belize	2010-01-01	7715	43.44
+BZ	Belize	2009-01-01	7558	43.44
+BZ	Belize	2008-01-01	7636	43.44
+BZ	Belize	2007-01-01	7444	43.44
+BZ	Belize	2006-01-01	7361	43.44
+BZ	Belize	2005-01-01	7008	43.44
+BZ	Belize	2004-01-01	6791	43.44
+BZ	Belize	2003-01-01	6479	43.44
+BZ	Belize	2002-01-01	5964	43.44
+BZ	Belize	2001-01-01	5746	43.44
+BZ	Belize	2000-01-01	5516	43.44
+BJ	Benin	2016-01-01	2168	43.44
+BJ	Benin	2015-01-01	2115	43.44
+BJ	Benin	2014-01-01	2107	43.44
+BJ	Benin	2013-01-01	2002	43.44
+BJ	Benin	2012-01-01	1890	43.44
+BJ	Benin	2011-01-01	1820	43.44
+BJ	Benin	2010-01-01	1781	38.58
+BJ	Benin	2009-01-01	1773	38.58
+BJ	Benin	2008-01-01	1768	38.58
+BJ	Benin	2007-01-01	1701	38.58
+BJ	Benin	2006-01-01	1608	38.58
+BJ	Benin	2005-01-01	1545	38.58
+BJ	Benin	2004-01-01	1516	38.58
+BJ	Benin	2003-01-01	1456	38.58
+BJ	Benin	2002-01-01	1422	38.81
+BJ	Benin	2001-01-01	1380	38.81
+BJ	Benin	2000-01-01	1320	38.81
+BM	Bermuda	2016-01-01	52436	38.81
+BM	Bermuda	2015-01-01	52436	38.81
+BM	Bermuda	2014-01-01	52436	38.81
+BM	Bermuda	2013-01-01	52436	38.81
+BM	Bermuda	2012-01-01	53097	38.81
+BM	Bermuda	2011-01-01	54984	38.81
+BM	Bermuda	2010-01-01	55254	38.81
+BM	Bermuda	2009-01-01	55320	38.81
+BM	Bermuda	2008-01-01	58288	38.81
+BM	Bermuda	2007-01-01	56640	38.81
+BM	Bermuda	2006-01-01	53949	38.81
+BM	Bermuda	2005-01-01	49877	38.81
+BM	Bermuda	2004-01-01	47835	38.81
+BM	Bermuda	2003-01-01	45797	38.81
+BM	Bermuda	2002-01-01	43706	38.81
+BM	Bermuda	2001-01-01	43976	38.81
+BM	Bermuda	2000-01-01	40535	38.81
+BT	Bhutan	2016-01-01	8743	38.81
+BT	Bhutan	2015-01-01	8236	38.81
+BT	Bhutan	2014-01-01	7759	38.81
+BT	Bhutan	2013-01-01	7317	38.81
+BT	Bhutan	2012-01-01	7162	38.81
+BT	Bhutan	2011-01-01	6805	38.09
+BT	Bhutan	2010-01-01	6289	38.09
+BT	Bhutan	2009-01-01	5664	38.09
+BT	Bhutan	2008-01-01	5372	38.09
+BT	Bhutan	2007-01-01	5131	38.09
+BT	Bhutan	2006-01-01	4331	46.78
+BT	Bhutan	2005-01-01	4026	46.78
+BT	Bhutan	2004-01-01	3734	46.78
+BT	Bhutan	2003-01-01	3524	46.78
+BT	Bhutan	2002-01-01	3300	48.4
+BT	Bhutan	2001-01-01	3019	48.4
+BT	Bhutan	2000-01-01	2804	48.4
+BO	Bolivia	2016-01-01	7236	48.4
+BO	Bolivia	2015-01-01	6954	48.4
+BO	Bolivia	2014-01-01	6662	48.4
+BO	Bolivia	2013-01-01	6303	48.06
+BO	Bolivia	2012-01-01	5899	46.7
+BO	Bolivia	2011-01-01	5598	46.26
+BO	Bolivia	2010-01-01	5298	49.65
+BO	Bolivia	2009-01-01	5108	49.65
+BO	Bolivia	2008-01-01	4986	51.43
+BO	Bolivia	2007-01-01	4684	55.44
+BO	Bolivia	2006-01-01	4438	56.87
+BO	Bolivia	2005-01-01	4180	58.47
+BO	Bolivia	2004-01-01	3946	55.01
+BO	Bolivia	2003-01-01	3753	60.16
+BO	Bolivia	2002-01-01	3647	60.16
+BO	Bolivia	2001-01-01	3570	58.88
+BO	Bolivia	2000-01-01	3497	63.0
+BA	Bosnia and Herzegovina	2016-01-01	12074	33.83
+BA	Bosnia and Herzegovina	2015-01-01	11687	33.83
+BA	Bosnia and Herzegovina	2014-01-01	11211	33.83
+BA	Bosnia and Herzegovina	2013-01-01	10821	33.83
+BA	Bosnia and Herzegovina	2012-01-01	10170	33.83
+BA	Bosnia and Herzegovina	2011-01-01	9893	33.83
+BA	Bosnia and Herzegovina	2010-01-01	9317	33.06
+BA	Bosnia and Herzegovina	2009-01-01	9007	33.06
+BA	Bosnia and Herzegovina	2008-01-01	9001	33.06
+BA	Bosnia and Herzegovina	2007-01-01	8159	33.06
+BA	Bosnia and Herzegovina	2006-01-01	7384	34.04
+BA	Bosnia and Herzegovina	2005-01-01	6453	34.04
+BA	Bosnia and Herzegovina	2004-01-01	5842	34.04
+BA	Bosnia and Herzegovina	2003-01-01	5348	29.97
+BA	Bosnia and Herzegovina	2002-01-01	5114	29.97
+BA	Bosnia and Herzegovina	2001-01-01	4742	29.97
+BA	Bosnia and Herzegovina	2000-01-01	4525	60.46
+BW	Botswana	2016-01-01	16734	60.46
+BW	Botswana	2015-01-01	16350	60.46
+BW	Botswana	2014-01-01	16764	60.46
+BW	Botswana	2013-01-01	16111	60.46
+BW	Botswana	2012-01-01	14506	60.46
+BW	Botswana	2011-01-01	13889	60.46
+BW	Botswana	2010-01-01	13064	60.46
+BW	Botswana	2009-01-01	12098	60.46
+BW	Botswana	2008-01-01	13226	64.73
+BW	Botswana	2007-01-01	12413	64.73
+BW	Botswana	2006-01-01	11346	64.73
+BW	Botswana	2005-01-01	10313	64.73
+BW	Botswana	2004-01-01	9695	64.73
+BW	Botswana	2003-01-01	9314	64.73
+BW	Botswana	2002-01-01	8848	64.73
+BW	Botswana	2001-01-01	8332	51.48
+BW	Botswana	2000-01-01	8251	51.48
+BR	Brazil	2016-01-01	15127	51.48
+BR	Brazil	2015-01-01	15615	51.48
+BR	Brazil	2014-01-01	16191	51.48
+BR	Brazil	2013-01-01	15968	52.87
+BR	Brazil	2012-01-01	15396	52.67
+BR	Brazil	2011-01-01	14973	53.09
+BR	Brazil	2010-01-01	14244	53.87
+BR	Brazil	2009-01-01	13215	53.87
+BR	Brazil	2008-01-01	13262	54.37
+BR	Brazil	2007-01-01	12503	55.23
+BR	Brazil	2006-01-01	11604	55.93
+BR	Brazil	2005-01-01	10951	56.64
+BR	Brazil	2004-01-01	10401	56.88
+BR	Brazil	2003-01-01	9690	58.01
+BR	Brazil	2002-01-01	9515	58.62
+BR	Brazil	2001-01-01	9216	59.33
+BR	Brazil	2000-01-01	9012	36.01
+VG	British Virgin Islands	2016-01-01	77440	36.01
+VG	British Virgin Islands	2015-01-01	77440	36.01
+VG	British Virgin Islands	2014-01-01	77440	36.01
+VG	British Virgin Islands	2013-01-01	77440	36.01
+VG	British Virgin Islands	2012-01-01	77440	36.01
+VG	British Virgin Islands	2011-01-01	77440	36.01
+VG	British Virgin Islands	2010-01-01	77440	36.01
+VG	British Virgin Islands	2009-01-01	77440	36.01
+VG	British Virgin Islands	2008-01-01	77440	36.01
+VG	British Virgin Islands	2007-01-01	77440	36.01
+VG	British Virgin Islands	2006-01-01	77440	36.01
+VG	British Virgin Islands	2005-01-01	77440	36.01
+VG	British Virgin Islands	2004-01-01	77440	36.01
+VG	British Virgin Islands	2003-01-01	77440	36.01
+VG	British Virgin Islands	2002-01-01	77440	36.01
+VG	British Virgin Islands	2001-01-01	77440	36.01
+VG	British Virgin Islands	2000-01-01	77440	36.01
+BN	Brunei Darussalam	2016-01-01	77440	36.01
+BN	Brunei Darussalam	2015-01-01	79429	36.01
+BN	Brunei Darussalam	2014-01-01	80152	36.01
+BN	Brunei Darussalam	2013-01-01	81827	36.01
+BN	Brunei Darussalam	2012-01-01	83504	36.01
+BN	Brunei Darussalam	2011-01-01	82434	36.01
+BN	Brunei Darussalam	2010-01-01	78923	36.01
+BN	Brunei Darussalam	2009-01-01	76964	36.01
+BN	Brunei Darussalam	2008-01-01	78682	36.01
+BN	Brunei Darussalam	2007-01-01	79616	36.01
+BN	Brunei Darussalam	2006-01-01	78398	36.01
+BN	Brunei Darussalam	2005-01-01	73873	36.01
+BN	Brunei Darussalam	2004-01-01	72411	36.01
+BN	Brunei Darussalam	2003-01-01	71337	36.01
+BN	Brunei Darussalam	2002-01-01	69246	36.01
+BN	Brunei Darussalam	2001-01-01	66960	36.01
+BN	Brunei Darussalam	2000-01-01	65034	36.01
+BG	Bulgaria	2016-01-01	19199	36.01
+BG	Bulgaria	2015-01-01	18248	36.01
+BG	Bulgaria	2014-01-01	17406	36.01
+BG	Bulgaria	2013-01-01	16646	36.01
+BG	Bulgaria	2012-01-01	16208	36.01
+BG	Bulgaria	2011-01-01	15676	34.28
+BG	Bulgaria	2010-01-01	14962	35.65
+BG	Bulgaria	2009-01-01	14132	33.82
+BG	Bulgaria	2008-01-01	14395	33.57
+BG	Bulgaria	2007-01-01	12897	28.14
+BG	Bulgaria	2006-01-01	11377	35.73
+BG	Bulgaria	2005-01-01	10275	28.92
+BG	Bulgaria	2004-01-01	9177	28.92
+BG	Bulgaria	2003-01-01	8379	28.92
+BG	Bulgaria	2002-01-01	7766	32.68
+BG	Bulgaria	2001-01-01	6954	32.68
+BG	Bulgaria	2000-01-01	6370	35.3
+BF	Burkina Faso	2016-01-01	1720	35.3
+BF	Burkina Faso	2015-01-01	1651	35.3
+BF	Burkina Faso	2014-01-01	1617	35.3
+BF	Burkina Faso	2013-01-01	1571	39.76
+BF	Burkina Faso	2012-01-01	1549	39.76
+BF	Burkina Faso	2011-01-01	1472	39.76
+BF	Burkina Faso	2010-01-01	1395	39.76
+BF	Burkina Faso	2009-01-01	1310	39.76
+BF	Burkina Faso	2008-01-01	1302	43.25
+BF	Burkina Faso	2007-01-01	1226	43.25
+BF	Burkina Faso	2006-01-01	1165	43.25
+BF	Burkina Faso	2005-01-01	1096	43.25
+BF	Burkina Faso	2004-01-01	1007	43.25
+BF	Burkina Faso	2003-01-01	966	43.25
+BF	Burkina Faso	2002-01-01	904	33.36
+BF	Burkina Faso	2001-01-01	878	33.36
+BF	Burkina Faso	2000-01-01	829	33.36
+BI	Burundi	2016-01-01	777	33.36
+BI	Burundi	2015-01-01	796	33.36
+BI	Burundi	2014-01-01	846	33.36
+BI	Burundi	2013-01-01	818	33.36
+BI	Burundi	2012-01-01	793	33.36
+BI	Burundi	2011-01-01	771	33.36
+BI	Burundi	2010-01-01	748	33.36
+BI	Burundi	2009-01-01	735	33.36
+BI	Burundi	2008-01-01	729	33.36
+BI	Burundi	2007-01-01	704	33.36
+BI	Burundi	2006-01-01	677	33.36
+BI	Burundi	2005-01-01	644	47.19
+BI	Burundi	2004-01-01	639	47.19
+BI	Burundi	2003-01-01	613	47.19
+BI	Burundi	2002-01-01	628	47.19
+BI	Burundi	2001-01-01	609	47.19
+BI	Burundi	2000-01-01	597	47.19
+CV	Cabo Verde	2016-01-01	6553	47.19
+CV	Cabo Verde	2015-01-01	6301	47.19
+CV	Cabo Verde	2014-01-01	6244	47.19
+CV	Cabo Verde	2013-01-01	6171	47.19
+CV	Cabo Verde	2012-01-01	6097	47.19
+CV	Cabo Verde	2011-01-01	5991	47.19
+CV	Cabo Verde	2010-01-01	5710	47.19
+CV	Cabo Verde	2009-01-01	5620	47.19
+CV	Cabo Verde	2008-01-01	5710	47.19
+CV	Cabo Verde	2007-01-01	5308	47.19
+CV	Cabo Verde	2006-01-01	4542	52.5
+CV	Cabo Verde	2005-01-01	4134	52.5
+CV	Cabo Verde	2004-01-01	3801	52.5
+CV	Cabo Verde	2003-01-01	3412	52.5
+CV	Cabo Verde	2002-01-01	3268	52.5
+CV	Cabo Verde	2001-01-01	3116	52.5
+CV	Cabo Verde	2000-01-01	3039	30.76
+KH	Cambodia	2016-01-01	3735	30.76
+KH	Cambodia	2015-01-01	3503	30.76
+KH	Cambodia	2014-01-01	3291	30.76
+KH	Cambodia	2013-01-01	3069	30.76
+KH	Cambodia	2012-01-01	2858	30.76
+KH	Cambodia	2011-01-01	2658	31.7
+KH	Cambodia	2010-01-01	2471	33.44
+KH	Cambodia	2009-01-01	2340	34.65
+KH	Cambodia	2008-01-01	2355	35.1
+KH	Cambodia	2007-01-01	2197	41.14
+KH	Cambodia	2006-01-01	1971	35.46
+KH	Cambodia	2005-01-01	1753	35.46
+KH	Cambodia	2004-01-01	1523	35.46
+KH	Cambodia	2003-01-01	1366	46.54
+KH	Cambodia	2002-01-01	1255	46.54
+KH	Cambodia	2001-01-01	1182	46.54
+KH	Cambodia	2000-01-01	1090	46.54
+CM	Cameroon	2016-01-01	3285	46.54
+CM	Cameroon	2015-01-01	3184	46.54
+CM	Cameroon	2014-01-01	3058	46.54
+CM	Cameroon	2013-01-01	2913	42.82
+CM	Cameroon	2012-01-01	2789	42.82
+CM	Cameroon	2011-01-01	2690	42.82
+CM	Cameroon	2010-01-01	2601	42.82
+CM	Cameroon	2009-01-01	2557	42.82
+CM	Cameroon	2008-01-01	2559	42.82
+CM	Cameroon	2007-01-01	2507	42.82
+CM	Cameroon	2006-01-01	2430	42.14
+CM	Cameroon	2005-01-01	2347	42.14
+CM	Cameroon	2004-01-01	2283	42.14
+CM	Cameroon	2003-01-01	2201	42.14
+CM	Cameroon	2002-01-01	2129	42.14
+CM	Cameroon	2001-01-01	2070	42.14
+CM	Cameroon	2000-01-01	1986	33.68
+CA	Canada	2016-01-01	44025	33.68
+CA	Canada	2015-01-01	44204	33.68
+CA	Canada	2014-01-01	45082	33.68
+CA	Canada	2013-01-01	44097	33.68
+CA	Canada	2012-01-01	42145	33.68
+CA	Canada	2011-01-01	41565	33.68
+CA	Canada	2010-01-01	40027	33.68
+CA	Canada	2009-01-01	38791	33.9
+CA	Canada	2008-01-01	40277	33.9
+CA	Canada	2007-01-01	39441	33.9
+CA	Canada	2006-01-01	38009	33.88
+CA	Canada	2005-01-01	36134	33.88
+CA	Canada	2004-01-01	33754	33.88
+CA	Canada	2003-01-01	32189	33.65
+CA	Canada	2002-01-01	30851	33.65
+CA	Canada	2001-01-01	30073	33.65
+CA	Canada	2000-01-01	29185	33.65
+KY	Cayman Islands	2016-01-01	49903	56.24
+KY	Cayman Islands	2015-01-01	49903	56.24
+KY	Cayman Islands	2014-01-01	49903	56.24
+KY	Cayman Islands	2013-01-01	49903	56.24
+KY	Cayman Islands	2012-01-01	49903	56.24
+KY	Cayman Islands	2011-01-01	49903	56.24
+KY	Cayman Islands	2010-01-01	698	56.24
+KY	Cayman Islands	2009-01-01	698	56.24
+KY	Cayman Islands	2008-01-01	698	56.24
+KY	Cayman Islands	2007-01-01	698	56.24
+KY	Cayman Islands	2006-01-01	698	56.24
+KY	Cayman Islands	2005-01-01	698	56.24
+KY	Cayman Islands	2004-01-01	698	56.24
+KY	Cayman Islands	2003-01-01	698	56.24
+KY	Cayman Islands	2002-01-01	698	56.24
+KY	Cayman Islands	2001-01-01	698	56.24
+KY	Cayman Islands	2000-01-01	698	56.24
+CF	Central African Republic	2016-01-01	698	56.24
+CF	Central African Republic	2015-01-01	666	56.24
+CF	Central African Republic	2014-01-01	633	56.24
+CF	Central African Republic	2013-01-01	618	56.24
+CF	Central African Republic	2012-01-01	963	56.24
+CF	Central African Republic	2011-01-01	911	56.24
+CF	Central African Republic	2010-01-01	870	56.24
+CF	Central African Republic	2009-01-01	842	56.24
+CF	Central African Republic	2008-01-01	833	56.24
+CF	Central African Republic	2007-01-01	813	43.61
+CF	Central African Republic	2006-01-01	771	43.61
+CF	Central African Republic	2005-01-01	726	43.61
+CF	Central African Republic	2004-01-01	710	43.61
+CF	Central African Republic	2003-01-01	664	43.61
+CF	Central African Republic	2002-01-01	701	43.32
+CF	Central African Republic	2001-01-01	679	43.32
+CF	Central African Republic	2000-01-01	649	43.32
+TD	Chad	2016-01-01	1991	43.32
+TD	Chad	2015-01-01	2180	43.32
+TD	Chad	2014-01-01	2187	43.32
+TD	Chad	2013-01-01	2077	43.32
+TD	Chad	2012-01-01	1999	43.32
+TD	Chad	2011-01-01	1863	43.32
+TD	Chad	2010-01-01	1886	39.82
+TD	Chad	2009-01-01	1695	39.82
+TD	Chad	2008-01-01	1668	39.82
+TD	Chad	2007-01-01	1640	39.82
+TD	Chad	2006-01-01	1600	39.82
+TD	Chad	2005-01-01	1596	39.82
+TD	Chad	2004-01-01	1366	39.82
+TD	Chad	2003-01-01	1033	39.82
+TD	Chad	2002-01-01	917	50.45
+TD	Chad	2001-01-01	865	50.45
+TD	Chad	2000-01-01	787	50.45
+JG	Channel Islands	2016-01-01	23960	50.45
+JG	Channel Islands	2015-01-01	23960	50.45
+JG	Channel Islands	2014-01-01	23960	50.45
+JG	Channel Islands	2013-01-01	23960	50.45
+JG	Channel Islands	2012-01-01	23960	50.45
+JG	Channel Islands	2011-01-01	23960	50.45
+JG	Channel Islands	2010-01-01	23960	50.45
+JG	Channel Islands	2009-01-01	23960	50.45
+JG	Channel Islands	2008-01-01	23960	50.45
+JG	Channel Islands	2007-01-01	23960	50.45
+JG	Channel Islands	2006-01-01	23960	50.45
+JG	Channel Islands	2005-01-01	23960	50.45
+JG	Channel Islands	2004-01-01	23960	50.45
+JG	Channel Islands	2003-01-01	23960	50.45
+JG	Channel Islands	2002-01-01	23960	50.45
+JG	Channel Islands	2001-01-01	23960	50.45
+JG	Channel Islands	2000-01-01	23960	50.45
+CL	Chile	2016-01-01	23960	50.45
+CL	Chile	2015-01-01	23579	50.45
+CL	Chile	2014-01-01	23082	50.45
+CL	Chile	2013-01-01	22578	50.45
+CL	Chile	2012-01-01	21620	50.84
+CL	Chile	2011-01-01	20437	50.84
+CL	Chile	2010-01-01	18356	52.0
+CL	Chile	2009-01-01	16267	52.0
+CL	Chile	2008-01-01	16422	51.79
+CL	Chile	2007-01-01	16862	51.79
+CL	Chile	2006-01-01	15611	51.79
+CL	Chile	2005-01-01	12774	54.61
+CL	Chile	2004-01-01	11777	54.61
+CL	Chile	2003-01-01	10771	54.61
+CL	Chile	2002-01-01	10297	55.59
+CL	Chile	2001-01-01	10001	55.59
+CL	Chile	2000-01-01	9608	55.59
+CN	China	2016-01-01	15534	42.16
+CN	China	2015-01-01	14448	42.16
+CN	China	2014-01-01	13439	42.16
+CN	China	2013-01-01	12367	42.16
+CN	China	2012-01-01	11351	42.16
+CN	China	2011-01-01	10384	42.83
+CN	China	2010-01-01	9333	42.83
+CN	China	2009-01-01	8374	42.83
+CN	China	2008-01-01	7635	42.83
+CN	China	2007-01-01	6863	53.5
+CN	China	2006-01-01	5883	53.5
+CN	China	2005-01-01	5092	53.5
+CN	China	2004-01-01	4455	53.5
+CN	China	2003-01-01	3961	53.5
+CN	China	2002-01-01	3551	53.5
+CN	China	2001-01-01	3226	53.5
+CN	China	2000-01-01	2933	53.5
+CO	Colombia	2016-01-01	14157	53.5
+CO	Colombia	2015-01-01	13825	53.5
+CO	Colombia	2014-01-01	13394	53.5
+CO	Colombia	2013-01-01	12725	53.49
+CO	Colombia	2012-01-01	12058	53.54
+CO	Colombia	2011-01-01	11496	54.18
+CO	Colombia	2010-01-01	10680	55.5
+CO	Colombia	2009-01-01	10260	55.92
+CO	Colombia	2008-01-01	10132	56.04
+CO	Colombia	2007-01-01	9710	55.04
+CO	Colombia	2006-01-01	8957	55.04
+CO	Colombia	2005-01-01	8248	55.04
+CO	Colombia	2004-01-01	7732	56.11
+CO	Colombia	2003-01-01	7241	54.41
+CO	Colombia	2002-01-01	6927	58.25
+CO	Colombia	2001-01-01	6750	57.76
+CO	Colombia	2000-01-01	6585	58.68
+KM	Comoros	2016-01-01	1522	55.93
+KM	Comoros	2015-01-01	1504	55.93
+KM	Comoros	2014-01-01	1508	55.93
+KM	Comoros	2013-01-01	1487	55.93
+KM	Comoros	2012-01-01	1448	55.93
+KM	Comoros	2011-01-01	1414	55.93
+KM	Comoros	2010-01-01	1383	55.93
+KM	Comoros	2009-01-01	1370	55.93
+KM	Comoros	2008-01-01	1366	55.93
+KM	Comoros	2007-01-01	1367	55.93
+KM	Comoros	2006-01-01	1353	55.93
+KM	Comoros	2005-01-01	1310	55.93
+KM	Comoros	2004-01-01	1264	55.93
+KM	Comoros	2003-01-01	1236	42.1
+KM	Comoros	2002-01-01	1215	42.1
+KM	Comoros	2001-01-01	1198	42.1
+KM	Comoros	2000-01-01	1173	42.1
+CD	Congo, Dem. Rep.	2016-01-01	800	42.1
+CD	Congo, Dem. Rep.	2015-01-01	799	42.1
+CD	Congo, Dem. Rep.	2014-01-01	764	42.1
+CD	Congo, Dem. Rep.	2013-01-01	708	42.1
+CD	Congo, Dem. Rep.	2012-01-01	664	42.1
+CD	Congo, Dem. Rep.	2011-01-01	629	42.16
+CD	Congo, Dem. Rep.	2010-01-01	597	42.16
+CD	Congo, Dem. Rep.	2009-01-01	569	42.16
+CD	Congo, Dem. Rep.	2008-01-01	568	42.16
+CD	Congo, Dem. Rep.	2007-01-01	542	42.16
+CD	Congo, Dem. Rep.	2006-01-01	513	42.16
+CD	Congo, Dem. Rep.	2005-01-01	488	42.16
+CD	Congo, Dem. Rep.	2004-01-01	460	42.16
+CD	Congo, Dem. Rep.	2003-01-01	433	48.94
+CD	Congo, Dem. Rep.	2002-01-01	414	48.94
+CD	Congo, Dem. Rep.	2001-01-01	408	48.94
+CD	Congo, Dem. Rep.	2000-01-01	419	48.94
+CG	Congo, Rep.	2016-01-01	5718	48.94
+CG	Congo, Rep.	2015-01-01	5901	48.94
+CG	Congo, Rep.	2014-01-01	5833	48.94
+CG	Congo, Rep.	2013-01-01	5502	48.94
+CG	Congo, Rep.	2012-01-01	5368	48.94
+CG	Congo, Rep.	2011-01-01	5213	48.94
+CG	Congo, Rep.	2010-01-01	5081	47.33
+CG	Congo, Rep.	2009-01-01	4760	47.33
+CG	Congo, Rep.	2008-01-01	4543	47.33
+CG	Congo, Rep.	2007-01-01	4369	47.33
+CG	Congo, Rep.	2006-01-01	4474	47.33
+CG	Congo, Rep.	2005-01-01	4223	47.33
+CG	Congo, Rep.	2004-01-01	3915	48.53
+CG	Congo, Rep.	2003-01-01	3791	48.53
+CG	Congo, Rep.	2002-01-01	3790	48.53
+CG	Congo, Rep.	2001-01-01	3667	48.53
+CG	Congo, Rep.	2000-01-01	3551	48.53
+CR	Costa Rica	2016-01-01	16614	48.53
+CR	Costa Rica	2015-01-01	15879	48.53
+CR	Costa Rica	2014-01-01	15160	48.53
+CR	Costa Rica	2013-01-01	14524	49.18
+CR	Costa Rica	2012-01-01	14133	48.61
+CR	Costa Rica	2011-01-01	13397	48.6
+CR	Costa Rica	2010-01-01	12737	48.1
+CR	Costa Rica	2009-01-01	12141	50.97
+CR	Costa Rica	2008-01-01	12329	49.14
+CR	Costa Rica	2007-01-01	11714	49.49
+CR	Costa Rica	2006-01-01	10697	49.31
+CR	Costa Rica	2005-01-01	9817	47.77
+CR	Costa Rica	2004-01-01	9289	48.92
+CR	Costa Rica	2003-01-01	8793	49.93
+CR	Costa Rica	2002-01-01	8397	50.89
+CR	Costa Rica	2001-01-01	8139	51.1
+CR	Costa Rica	2000-01-01	7829	47.44
+CI	Cote d'Ivoire	2016-01-01	3719	43.18
+CI	Cote d'Ivoire	2015-01-01	3461	43.18
+CI	Cote d'Ivoire	2014-01-01	3217	43.18
+CI	Cote d'Ivoire	2013-01-01	2980	43.18
+CI	Cote d'Ivoire	2012-01-01	2762	43.18
+CI	Cote d'Ivoire	2011-01-01	2511	43.18
+CI	Cote d'Ivoire	2010-01-01	2635	43.18
+CI	Cote d'Ivoire	2009-01-01	2612	43.18
+CI	Cote d'Ivoire	2008-01-01	2567	43.18
+CI	Cote d'Ivoire	2007-01-01	2508	41.34
+CI	Cote d'Ivoire	2006-01-01	2450	41.34
+CI	Cote d'Ivoire	2005-01-01	2388	41.34
+CI	Cote d'Ivoire	2004-01-01	2317	41.34
+CI	Cote d'Ivoire	2003-01-01	2268	41.34
+CI	Cote d'Ivoire	2002-01-01	2295	41.34
+CI	Cote d'Ivoire	2001-01-01	2342	32.51
+CI	Cote d'Ivoire	2000-01-01	2336	32.51
+HR	Croatia	2016-01-01	23596	32.51
+HR	Croatia	2015-01-01	22488	32.51
+HR	Croatia	2014-01-01	21980	32.51
+HR	Croatia	2013-01-01	21681	32.51
+HR	Croatia	2012-01-01	21132	32.51
+HR	Croatia	2011-01-01	20704	32.32
+HR	Croatia	2010-01-01	19205	27.35
+HR	Croatia	2009-01-01	19470	33.18
+HR	Croatia	2008-01-01	20247	33.71
+HR	Croatia	2007-01-01	18770	29.68
+HR	Croatia	2006-01-01	16934	29.68
+HR	Croatia	2005-01-01	14859	29.68
+HR	Croatia	2004-01-01	14097	29.68
+HR	Croatia	2003-01-01	13121	31.1
+HR	Croatia	2002-01-01	12283	31.1
+HR	Croatia	2001-01-01	11325	31.1
+HR	Croatia	2000-01-01	10746	31.33
+CU	Cuba	2016-01-01	32580	34.31
+CU	Cuba	2015-01-01	32580	34.31
+CU	Cuba	2014-01-01	32580	34.31
+CU	Cuba	2013-01-01	32580	34.31
+CU	Cuba	2012-01-01	32580	34.31
+CU	Cuba	2011-01-01	32580	34.31
+CU	Cuba	2010-01-01	32580	34.31
+CU	Cuba	2009-01-01	32580	34.31
+CU	Cuba	2008-01-01	32580	34.31
+CU	Cuba	2007-01-01	32580	34.31
+CU	Cuba	2006-01-01	32580	34.31
+CU	Cuba	2005-01-01	32580	34.31
+CU	Cuba	2004-01-01	32580	34.31
+CU	Cuba	2003-01-01	32580	34.31
+CU	Cuba	2002-01-01	32580	34.31
+CU	Cuba	2001-01-01	32580	34.31
+CU	Cuba	2000-01-01	32580	34.31
+CW	Curacao	2016-01-01	32580	34.31
+CW	Curacao	2015-01-01	32580	34.31
+CW	Curacao	2014-01-01	32580	34.31
+CW	Curacao	2013-01-01	32580	34.31
+CW	Curacao	2012-01-01	32580	34.31
+CW	Curacao	2011-01-01	32580	34.31
+CW	Curacao	2010-01-01	32580	34.31
+CW	Curacao	2009-01-01	32580	34.31
+CW	Curacao	2008-01-01	32580	34.31
+CW	Curacao	2007-01-01	32580	34.31
+CW	Curacao	2006-01-01	32580	34.31
+CW	Curacao	2005-01-01	32580	34.31
+CW	Curacao	2004-01-01	32580	34.31
+CW	Curacao	2003-01-01	32580	34.31
+CW	Curacao	2002-01-01	32580	34.31
+CW	Curacao	2001-01-01	32580	34.31
+CW	Curacao	2000-01-01	32580	34.31
+CY	Cyprus	2016-01-01	32580	34.31
+CY	Cyprus	2015-01-01	31539	34.31
+CY	Cyprus	2014-01-01	30482	34.31
+CY	Cyprus	2013-01-01	30610	34.31
+CY	Cyprus	2012-01-01	31877	34.31
+CY	Cyprus	2011-01-01	33192	32.63
+CY	Cyprus	2010-01-01	33295	31.46
+CY	Cyprus	2009-01-01	33922	32.11
+CY	Cyprus	2008-01-01	34823	31.71
+CY	Cyprus	2007-01-01	32986	31.11
+CY	Cyprus	2006-01-01	30496	31.13
+CY	Cyprus	2005-01-01	28169	30.26
+CY	Cyprus	2004-01-01	26091	30.09
+CY	Cyprus	2003-01-01	24300	26.13
+CY	Cyprus	2002-01-01	23964	26.13
+CY	Cyprus	2001-01-01	23297	26.13
+CY	Cyprus	2000-01-01	21695	26.13
+CZ	Czech Republic	2016-01-01	34711	26.13
+CZ	Czech Republic	2015-01-01	33743	26.13
+CZ	Czech Republic	2014-01-01	32357	26.13
+CZ	Czech Republic	2013-01-01	30485	26.13
+CZ	Czech Republic	2012-01-01	29047	26.13
+CZ	Czech Republic	2011-01-01	28797	26.39
+CZ	Czech Republic	2010-01-01	27659	26.63
+CZ	Czech Republic	2009-01-01	27567	26.18
+CZ	Czech Republic	2008-01-01	27784	26.29
+CZ	Czech Republic	2007-01-01	26058	26.0
+CZ	Czech Republic	2006-01-01	23751	26.74
+CZ	Czech Republic	2005-01-01	21909	26.95
+CZ	Czech Republic	2004-01-01	20781	27.53
+CZ	Czech Republic	2003-01-01	19361	29.08
+CZ	Czech Republic	2002-01-01	18141	29.08
+CZ	Czech Republic	2001-01-01	17556	29.08
+CZ	Czech Republic	2000-01-01	16132	29.08
+DK	Denmark	2016-01-01	49695	29.08
+DK	Denmark	2015-01-01	48980	29.08
+DK	Denmark	2014-01-01	47805	29.08
+DK	Denmark	2013-01-01	46726	29.08
+DK	Denmark	2012-01-01	44803	29.08
+DK	Denmark	2011-01-01	44403	29.54
+DK	Denmark	2010-01-01	43082	29.02
+DK	Denmark	2009-01-01	40380	28.84
+DK	Denmark	2008-01-01	41278	28.89
+DK	Denmark	2007-01-01	38953	26.85
+DK	Denmark	2006-01-01	37317	27.08
+DK	Denmark	2005-01-01	34150	25.94
+DK	Denmark	2004-01-01	32931	25.89
+DK	Denmark	2003-01-01	30784	44.13
+DK	Denmark	2002-01-01	30640	44.13
+DK	Denmark	2001-01-01	29517	44.13
+DK	Denmark	2000-01-01	28640	44.13
+DJ	Djibouti	2016-01-01	3342	44.13
+DJ	Djibouti	2015-01-01	3342	44.13
+DJ	Djibouti	2014-01-01	3156	44.13
+DJ	Djibouti	2013-01-01	2976	44.13
+DJ	Djibouti	2012-01-01	2838	45.13
+DJ	Djibouti	2011-01-01	2705	40.0
+DJ	Djibouti	2010-01-01	2581	40.0
+DJ	Djibouti	2009-01-01	2506	40.0
+DJ	Djibouti	2008-01-01	2408	40.0
+DJ	Djibouti	2007-01-01	2269	40.0
+DJ	Djibouti	2006-01-01	2138	40.0
+DJ	Djibouti	2005-01-01	2012	40.0
+DJ	Djibouti	2004-01-01	1920	40.0
+DJ	Djibouti	2003-01-01	1829	40.0
+DJ	Djibouti	2002-01-01	1766	40.0
+DJ	Djibouti	2001-01-01	1726	47.07
+DJ	Djibouti	2000-01-01	1689	47.07
+DM	Dominica	2016-01-01	10975	47.07
+DM	Dominica	2015-01-01	10792	47.07
+DM	Dominica	2014-01-01	10926	47.07
+DM	Dominica	2013-01-01	10357	47.07
+DM	Dominica	2012-01-01	10164	47.07
+DM	Dominica	2011-01-01	10134	47.07
+DM	Dominica	2010-01-01	9991	47.07
+DM	Dominica	2009-01-01	9833	47.07
+DM	Dominica	2008-01-01	9896	47.07
+DM	Dominica	2007-01-01	9076	47.07
+DM	Dominica	2006-01-01	8332	47.07
+DM	Dominica	2005-01-01	7874	47.07
+DM	Dominica	2004-01-01	7662	47.07
+DM	Dominica	2003-01-01	7252	47.07
+DM	Dominica	2002-01-01	6628	47.07
+DM	Dominica	2001-01-01	6659	47.07
+DM	Dominica	2000-01-01	6479	47.07
+DO	Dominican Republic	2016-01-01	15208	47.07
+DO	Dominican Republic	2015-01-01	14237	47.07
+DO	Dominican Republic	2014-01-01	13313	47.07
+DO	Dominican Republic	2013-01-01	12302	47.07
+DO	Dominican Republic	2012-01-01	11702	45.68
+DO	Dominican Republic	2011-01-01	11320	47.4
+DO	Dominican Republic	2010-01-01	10898	47.2
+DO	Dominican Republic	2009-01-01	10072	48.86
+DO	Dominican Republic	2008-01-01	10038	49.0
+DO	Dominican Republic	2007-01-01	9671	48.69
+DO	Dominican Republic	2006-01-01	8788	51.9
+DO	Dominican Republic	2005-01-01	7816	49.96
+DO	Dominican Republic	2004-01-01	7033	51.95
+DO	Dominican Republic	2003-01-01	6858	52.09
+DO	Dominican Republic	2002-01-01	6844	50.12
+DO	Dominican Republic	2001-01-01	6471	50.43
+DO	Dominican Republic	2000-01-01	6312	52.01
+EC	Ecuador	2016-01-01	11286	45.38
+EC	Ecuador	2015-01-01	11474	45.38
+EC	Ecuador	2014-01-01	11506	45.38
+EC	Ecuador	2013-01-01	11037	47.29
+EC	Ecuador	2012-01-01	10512	46.57
+EC	Ecuador	2011-01-01	9926	46.21
+EC	Ecuador	2010-01-01	9163	49.25
+EC	Ecuador	2009-01-01	8889	49.28
+EC	Ecuador	2008-01-01	8920	50.61
+EC	Ecuador	2007-01-01	8366	54.33
+EC	Ecuador	2006-01-01	8110	53.2
+EC	Ecuador	2005-01-01	7664	54.12
+EC	Ecuador	2004-01-01	7169	54.12
+EC	Ecuador	2003-01-01	6555	54.99
+EC	Ecuador	2002-01-01	6360	56.38
+EC	Ecuador	2001-01-01	6120	56.38
+EC	Ecuador	2000-01-01	5855	56.38
+EG	Egypt, Arab Rep.	2016-01-01	11131	41.84
+EG	Egypt, Arab Rep.	2015-01-01	10749	41.84
+EG	Egypt, Arab Rep.	2014-01-01	10407	41.84
+EG	Egypt, Arab Rep.	2013-01-01	10156	41.84
+EG	Egypt, Arab Rep.	2012-01-01	10003	41.84
+EG	Egypt, Arab Rep.	2011-01-01	9823	41.84
+EG	Egypt, Arab Rep.	2010-01-01	9658	41.84
+EG	Egypt, Arab Rep.	2009-01-01	9255	41.84
+EG	Egypt, Arab Rep.	2008-01-01	8939	41.84
+EG	Egypt, Arab Rep.	2007-01-01	8327	41.84
+EG	Egypt, Arab Rep.	2006-01-01	7708	41.84
+EG	Egypt, Arab Rep.	2005-01-01	7124	41.84
+EG	Egypt, Arab Rep.	2004-01-01	6728	41.84
+EG	Egypt, Arab Rep.	2003-01-01	6410	41.84
+EG	Egypt, Arab Rep.	2002-01-01	6207	41.84
+EG	Egypt, Arab Rep.	2001-01-01	6086	41.84
+EG	Egypt, Arab Rep.	2000-01-01	5856	41.84
+SV	El Salvador	2016-01-01	8619	41.84
+SV	El Salvador	2015-01-01	8352	41.84
+SV	El Salvador	2014-01-01	8118	41.84
+SV	El Salvador	2013-01-01	7901	43.51
+SV	El Salvador	2012-01-01	7671	41.8
+SV	El Salvador	2011-01-01	7428	42.43
+SV	El Salvador	2010-01-01	7152	44.53
+SV	El Salvador	2009-01-01	7001	45.93
+SV	El Salvador	2008-01-01	7205	46.65
+SV	El Salvador	2007-01-01	7008	45.24
+SV	El Salvador	2006-01-01	6603	45.44
+SV	El Salvador	2005-01-01	6193	47.88
+SV	El Salvador	2004-01-01	5821	47.38
+SV	El Salvador	2003-01-01	5590	50.72
+SV	El Salvador	2002-01-01	5385	51.54
+SV	El Salvador	2001-01-01	5213	51.14
+SV	El Salvador	2000-01-01	5044	51.31
+GQ	Equatorial Guinea	2016-01-01	25535	33.15
+GQ	Equatorial Guinea	2015-01-01	29000	33.15
+GQ	Equatorial Guinea	2014-01-01	32859	33.15
+GQ	Equatorial Guinea	2013-01-01	33877	33.15
+GQ	Equatorial Guinea	2012-01-01	36288	33.15
+GQ	Equatorial Guinea	2011-01-01	34363	33.15
+GQ	Equatorial Guinea	2010-01-01	33041	33.15
+GQ	Equatorial Guinea	2009-01-01	37496	33.15
+GQ	Equatorial Guinea	2008-01-01	38441	33.15
+GQ	Equatorial Guinea	2007-01-01	33513	33.15
+GQ	Equatorial Guinea	2006-01-01	29643	33.15
+GQ	Equatorial Guinea	2005-01-01	27933	33.15
+GQ	Equatorial Guinea	2004-01-01	24219	33.15
+GQ	Equatorial Guinea	2003-01-01	17823	33.15
+GQ	Equatorial Guinea	2002-01-01	15984	33.15
+GQ	Equatorial Guinea	2001-01-01	13726	33.15
+GQ	Equatorial Guinea	2000-01-01	8554	33.15
+ER	Eritrea	2016-01-01	1510	33.15
+ER	Eritrea	2015-01-01	1510	33.15
+ER	Eritrea	2014-01-01	1510	33.15
+ER	Eritrea	2013-01-01	1510	33.15
+ER	Eritrea	2012-01-01	1510	33.15
+ER	Eritrea	2011-01-01	1510	33.15
+ER	Eritrea	2010-01-01	1387	33.15
+ER	Eritrea	2009-01-01	1366	33.15
+ER	Eritrea	2008-01-01	1329	33.15
+ER	Eritrea	2007-01-01	1473	33.15
+ER	Eritrea	2006-01-01	1444	33.15
+ER	Eritrea	2005-01-01	1450	33.15
+ER	Eritrea	2004-01-01	1409	33.15
+ER	Eritrea	2003-01-01	1395	33.15
+ER	Eritrea	2002-01-01	1453	33.15
+ER	Eritrea	2001-01-01	1436	33.15
+ER	Eritrea	2000-01-01	1330	33.15
+EE	Estonia	2016-01-01	29364	33.15
+EE	Estonia	2015-01-01	28946	33.15
+EE	Estonia	2014-01-01	28543	33.15
+EE	Estonia	2013-01-01	27434	33.15
+EE	Estonia	2012-01-01	26022	33.15
+EE	Estonia	2011-01-01	24543	32.69
+EE	Estonia	2010-01-01	21623	32.16
+EE	Estonia	2009-01-01	20523	31.59
+EE	Estonia	2008-01-01	22664	32.0
+EE	Estonia	2007-01-01	21955	31.25
+EE	Estonia	2006-01-01	19269	33.75
+EE	Estonia	2005-01-01	16516	33.63
+EE	Estonia	2004-01-01	14429	33.96
+EE	Estonia	2003-01-01	13063	34.91
+EE	Estonia	2002-01-01	11590	35.79
+EE	Estonia	2001-01-01	10326	36.01
+EE	Estonia	2000-01-01	9414	35.78
+ET	Ethiopia	2016-01-01	1734	33.17
+ET	Ethiopia	2015-01-01	1632	33.17
+ET	Ethiopia	2014-01-01	1500	33.17
+ET	Ethiopia	2013-01-01	1371	33.17
+ET	Ethiopia	2012-01-01	1253	33.17
+ET	Ethiopia	2011-01-01	1162	33.17
+ET	Ethiopia	2010-01-01	1052	33.17
+ET	Ethiopia	2009-01-01	948	29.81
+ET	Ethiopia	2008-01-01	888	29.81
+ET	Ethiopia	2007-01-01	807	29.81
+ET	Ethiopia	2006-01-01	724	29.81
+ET	Ethiopia	2005-01-01	652	29.81
+ET	Ethiopia	2004-01-01	580	29.81
+ET	Ethiopia	2003-01-01	512	42.78
+ET	Ethiopia	2002-01-01	528	42.78
+ET	Ethiopia	2001-01-01	527	42.78
+ET	Ethiopia	2000-01-01	490	42.78
+FO	Faroe Islands	2016-01-01	9560	42.78
+FO	Faroe Islands	2015-01-01	9560	42.78
+FO	Faroe Islands	2014-01-01	9560	42.78
+FO	Faroe Islands	2013-01-01	9560	42.78
+FO	Faroe Islands	2012-01-01	9560	42.78
+FO	Faroe Islands	2011-01-01	9560	42.78
+FO	Faroe Islands	2010-01-01	9560	42.78
+FO	Faroe Islands	2009-01-01	9560	42.78
+FO	Faroe Islands	2008-01-01	9560	42.78
+FO	Faroe Islands	2007-01-01	9560	42.78
+FO	Faroe Islands	2006-01-01	9560	42.78
+FO	Faroe Islands	2005-01-01	9560	42.78
+FO	Faroe Islands	2004-01-01	9560	42.78
+FO	Faroe Islands	2003-01-01	9560	42.78
+FO	Faroe Islands	2002-01-01	9560	42.78
+FO	Faroe Islands	2001-01-01	9560	42.78
+FO	Faroe Islands	2000-01-01	9560	42.78
+FJ	Fiji	2016-01-01	9560	42.78
+FJ	Fiji	2015-01-01	9323	42.78
+FJ	Fiji	2014-01-01	8800	42.78
+FJ	Fiji	2013-01-01	8255	42.78
+FJ	Fiji	2012-01-01	7712	42.78
+FJ	Fiji	2011-01-01	7488	42.78
+FJ	Fiji	2010-01-01	7203	42.78
+FJ	Fiji	2009-01-01	6976	42.78
+FJ	Fiji	2008-01-01	7093	42.78
+FJ	Fiji	2007-01-01	6956	39.62
+FJ	Fiji	2006-01-01	6895	39.62
+FJ	Fiji	2005-01-01	6612	39.62
+FJ	Fiji	2004-01-01	6388	39.62
+FJ	Fiji	2003-01-01	5917	39.62
+FJ	Fiji	2002-01-01	5750	39.62
+FJ	Fiji	2001-01-01	5498	27.12
+FJ	Fiji	2000-01-01	5289	27.12
+FI	Finland	2016-01-01	43052	27.12
+FI	Finland	2015-01-01	42275	27.12
+FI	Finland	2014-01-01	41511	27.12
+FI	Finland	2013-01-01	41293	27.12
+FI	Finland	2012-01-01	40620	27.12
+FI	Finland	2011-01-01	40683	27.66
+FI	Finland	2010-01-01	38812	27.74
+FI	Finland	2009-01-01	37868	27.47
+FI	Finland	2008-01-01	39969	27.85
+FI	Finland	2007-01-01	37688	28.29
+FI	Finland	2006-01-01	34382	28.02
+FI	Finland	2005-01-01	31993	27.64
+FI	Finland	2004-01-01	31140	27.92
+FI	Finland	2003-01-01	28983	33.1
+FI	Finland	2002-01-01	28567	33.1
+FI	Finland	2001-01-01	27834	33.1
+FI	Finland	2000-01-01	26732	33.1
+FR	France	2016-01-01	41466	33.1
+FR	France	2015-01-01	41178	33.1
+FR	France	2014-01-01	40221	33.1
+FR	France	2013-01-01	39487	33.1
+FR	France	2012-01-01	37645	33.1
+FR	France	2011-01-01	37457	33.35
+FR	France	2010-01-01	36026	33.78
+FR	France	2009-01-01	34767	33.08
+FR	France	2008-01-01	35156	33.08
+FR	France	2007-01-01	34150	32.63
+FR	France	2006-01-01	32543	29.92
+FR	France	2005-01-01	30603	29.93
+FR	France	2004-01-01	29169	30.8
+FR	France	2003-01-01	28256	42.18
+FR	France	2002-01-01	28639	42.18
+FR	France	2001-01-01	27679	42.18
+FR	France	2000-01-01	26192	42.18
+PF	French Polynesia	2016-01-01	18107	42.18
+PF	French Polynesia	2015-01-01	18107	42.18
+PF	French Polynesia	2014-01-01	18107	42.18
+PF	French Polynesia	2013-01-01	18107	42.18
+PF	French Polynesia	2012-01-01	18107	42.18
+PF	French Polynesia	2011-01-01	18107	42.18
+PF	French Polynesia	2010-01-01	18107	42.18
+PF	French Polynesia	2009-01-01	18107	42.18
+PF	French Polynesia	2008-01-01	18107	42.18
+PF	French Polynesia	2007-01-01	18107	42.18
+PF	French Polynesia	2006-01-01	18107	42.18
+PF	French Polynesia	2005-01-01	18107	42.18
+PF	French Polynesia	2004-01-01	18107	42.18
+PF	French Polynesia	2003-01-01	18107	42.18
+PF	French Polynesia	2002-01-01	18107	42.18
+PF	French Polynesia	2001-01-01	18107	42.18
+PF	French Polynesia	2000-01-01	18107	42.18
+GA	Gabon	2016-01-01	18107	42.18
+GA	Gabon	2015-01-01	17926	42.18
+GA	Gabon	2014-01-01	17569	42.18
+GA	Gabon	2013-01-01	17078	42.18
+GA	Gabon	2012-01-01	16457	42.18
+GA	Gabon	2011-01-01	15893	42.18
+GA	Gabon	2010-01-01	15045	42.18
+GA	Gabon	2009-01-01	14347	42.18
+GA	Gabon	2008-01-01	14686	42.18
+GA	Gabon	2007-01-01	15369	42.18
+GA	Gabon	2006-01-01	14603	42.18
+GA	Gabon	2005-01-01	15140	42.18
+GA	Gabon	2004-01-01	14520	47.33
+GA	Gabon	2003-01-01	14415	47.33
+GA	Gabon	2002-01-01	14183	47.33
+GA	Gabon	2001-01-01	14360	47.33
+GA	Gabon	2000-01-01	14094	47.33
+GM	Gambia, The	2010-01-01	1622	47.33
+GM	Gambia, The	2009-01-01	1552	47.33
+GM	Gambia, The	2008-01-01	1494	47.33
+GM	Gambia, The	2007-01-01	1430	47.33
+GM	Gambia, The	2006-01-01	1387	47.33
+GM	Gambia, The	2005-01-01	1374	47.33
+GM	Gambia, The	2004-01-01	1388	47.33
+GM	Gambia, The	2003-01-01	1303	47.33
+GM	Gambia, The	2002-01-01	1235	40.09
+GM	Gambia, The	2001-01-01	1297	40.09
+GM	Gambia, The	2000-01-01	1236	40.09
+GM	Gambia, The	2016-01-01	1689	40.09
+GM	Gambia, The	2015-01-01	1691	40.09
+GM	Gambia, The	2014-01-01	1647	40.09
+GM	Gambia, The	2013-01-01	1654	40.09
+GM	Gambia, The	2012-01-01	1603	40.09
+GM	Gambia, The	2011-01-01	1534	40.09
+GE	Georgia	2016-01-01	9996	40.09
+GE	Georgia	2015-01-01	9609	40.09
+GE	Georgia	2014-01-01	9216	40.09
+GE	Georgia	2013-01-01	8541	40.03
+GE	Georgia	2012-01-01	8026	41.35
+GE	Georgia	2011-01-01	7315	41.58
+GE	Georgia	2010-01-01	6597	42.13
+GE	Georgia	2009-01-01	6054	41.74
+GE	Georgia	2008-01-01	6155	40.57
+GE	Georgia	2007-01-01	5825	40.6
+GE	Georgia	2006-01-01	4985	39.71
+GE	Georgia	2005-01-01	4364	40.34
+GE	Georgia	2004-01-01	3808	39.78
+GE	Georgia	2003-01-01	3455	39.53
+GE	Georgia	2002-01-01	3011	39.63
+GE	Georgia	2001-01-01	2793	39.57
+GE	Georgia	2000-01-01	2587	40.48
+DE	Germany	2016-01-01	48729	30.13
+DE	Germany	2015-01-01	47998	30.13
+DE	Germany	2014-01-01	47058	30.13
+DE	Germany	2013-01-01	45232	30.13
+DE	Germany	2012-01-01	43564	30.13
+DE	Germany	2011-01-01	42692	30.13
+DE	Germany	2010-01-01	39263	31.14
+DE	Germany	2009-01-01	37080	31.51
+DE	Germany	2008-01-01	38028	31.29
+DE	Germany	2007-01-01	36436	32.4
+DE	Germany	2006-01-01	34261	32.78
+DE	Germany	2005-01-01	31968	42.77
+DE	Germany	2004-01-01	31439	42.77
+DE	Germany	2003-01-01	29988	42.77
+DE	Germany	2002-01-01	29326	42.77
+DE	Germany	2001-01-01	28541	42.77
+DE	Germany	2000-01-01	27277	42.77
+GH	Ghana	2016-01-01	4293	42.77
+GH	Ghana	2015-01-01	4184	42.77
+GH	Ghana	2014-01-01	4075	42.77
+GH	Ghana	2013-01-01	3940	42.77
+GH	Ghana	2012-01-01	3699	42.77
+GH	Ghana	2011-01-01	3404	42.77
+GH	Ghana	2010-01-01	2997	42.77
+GH	Ghana	2009-01-01	2814	42.77
+GH	Ghana	2008-01-01	2733	42.77
+GH	Ghana	2007-01-01	2520	42.77
+GH	Ghana	2006-01-01	2415	42.77
+GH	Ghana	2005-01-01	2260	42.77
+GH	Ghana	2004-01-01	2123	36.68
+GH	Ghana	2003-01-01	2008	36.68
+GH	Ghana	2002-01-01	1920	36.68
+GH	Ghana	2001-01-01	1857	36.68
+GH	Ghana	2000-01-01	1790	36.68
+GI	Gibraltar	2016-01-01	26783	36.68
+GI	Gibraltar	2015-01-01	26783	36.68
+GI	Gibraltar	2014-01-01	26783	36.68
+GI	Gibraltar	2013-01-01	26783	36.68
+GI	Gibraltar	2012-01-01	26783	36.68
+GI	Gibraltar	2011-01-01	26783	36.68
+GI	Gibraltar	2010-01-01	26783	36.68
+GI	Gibraltar	2009-01-01	26783	36.68
+GI	Gibraltar	2008-01-01	26783	36.68
+GI	Gibraltar	2007-01-01	26783	36.68
+GI	Gibraltar	2006-01-01	26783	36.68
+GI	Gibraltar	2005-01-01	26783	36.68
+GI	Gibraltar	2004-01-01	26783	36.68
+GI	Gibraltar	2003-01-01	26783	36.68
+GI	Gibraltar	2002-01-01	26783	36.68
+GI	Gibraltar	2001-01-01	26783	36.68
+GI	Gibraltar	2000-01-01	26783	36.68
+GR	Greece	2016-01-01	26783	36.68
+GR	Greece	2015-01-01	26357	36.68
+GR	Greece	2014-01-01	26430	36.68
+GR	Greece	2013-01-01	26097	36.68
+GR	Greece	2012-01-01	25284	36.68
+GR	Greece	2011-01-01	26141	35.69
+GR	Greece	2010-01-01	28202	34.48
+GR	Greece	2009-01-01	30396	33.82
+GR	Greece	2008-01-01	30856	34.22
+GR	Greece	2007-01-01	29280	34.61
+GR	Greece	2006-01-01	28535	35.41
+GR	Greece	2005-01-01	25577	35.1
+GR	Greece	2004-01-01	25455	33.97
+GR	Greece	2003-01-01	23868	48.66
+GR	Greece	2002-01-01	22615	48.66
+GR	Greece	2001-01-01	21011	48.66
+GR	Greece	2000-01-01	19503	48.66
+GL	Greenland	2016-01-01	13927	48.66
+GL	Greenland	2015-01-01	13927	48.66
+GL	Greenland	2014-01-01	13927	48.66
+GL	Greenland	2013-01-01	13927	48.66
+GL	Greenland	2012-01-01	13927	48.66
+GL	Greenland	2011-01-01	13927	48.66
+GL	Greenland	2010-01-01	13927	48.66
+GL	Greenland	2009-01-01	13927	48.66
+GL	Greenland	2008-01-01	13927	48.66
+GL	Greenland	2007-01-01	13927	48.66
+GL	Greenland	2006-01-01	13927	48.66
+GL	Greenland	2005-01-01	13927	48.66
+GL	Greenland	2004-01-01	13927	48.66
+GL	Greenland	2003-01-01	13927	48.66
+GL	Greenland	2002-01-01	13927	48.66
+GL	Greenland	2001-01-01	13927	48.66
+GL	Greenland	2000-01-01	13927	48.66
+GD	Grenada	2016-01-01	13927	48.66
+GD	Grenada	2015-01-01	13558	48.66
+GD	Grenada	2014-01-01	12682	48.66
+GD	Grenada	2013-01-01	11655	48.66
+GD	Grenada	2012-01-01	11252	48.66
+GD	Grenada	2011-01-01	11220	48.66
+GD	Grenada	2010-01-01	10951	48.66
+GD	Grenada	2009-01-01	10915	48.66
+GD	Grenada	2008-01-01	11640	48.66
+GD	Grenada	2007-01-01	11347	48.66
+GD	Grenada	2006-01-01	10445	48.66
+GD	Grenada	2005-01-01	10590	48.66
+GD	Grenada	2004-01-01	9083	48.66
+GD	Grenada	2003-01-01	8922	48.66
+GD	Grenada	2002-01-01	8013	48.66
+GD	Grenada	2001-01-01	7648	48.66
+GD	Grenada	2000-01-01	7650	48.66
+GU	Guam	2016-01-01	7946	48.66
+GU	Guam	2015-01-01	7946	48.66
+GU	Guam	2014-01-01	7946	48.66
+GU	Guam	2013-01-01	7946	48.66
+GU	Guam	2012-01-01	7946	48.66
+GU	Guam	2011-01-01	7946	48.66
+GU	Guam	2010-01-01	7946	48.66
+GU	Guam	2009-01-01	7946	48.66
+GU	Guam	2008-01-01	7946	48.66
+GU	Guam	2007-01-01	7946	48.66
+GU	Guam	2006-01-01	7946	48.66
+GU	Guam	2005-01-01	7946	48.66
+GU	Guam	2004-01-01	7946	48.66
+GU	Guam	2003-01-01	7946	48.66
+GU	Guam	2002-01-01	7946	48.66
+GU	Guam	2001-01-01	7946	48.66
+GU	Guam	2000-01-01	7946	48.66
+GT	Guatemala	2016-01-01	7946	48.66
+GT	Guatemala	2015-01-01	7764	48.66
+GT	Guatemala	2014-01-01	7529	48.66
+GT	Guatemala	2013-01-01	7249	52.35
+GT	Guatemala	2012-01-01	7026	52.35
+GT	Guatemala	2011-01-01	6844	52.35
+GT	Guatemala	2010-01-01	6578	54.89
+GT	Guatemala	2009-01-01	6456	54.89
+GT	Guatemala	2008-01-01	6515	54.89
+GT	Guatemala	2007-01-01	6324	54.89
+GT	Guatemala	2006-01-01	5926	54.89
+GT	Guatemala	2005-01-01	5582	54.84
+GT	Guatemala	2004-01-01	5359	54.84
+GT	Guatemala	2003-01-01	5176	54.84
+GT	Guatemala	2002-01-01	5068	54.84
+GT	Guatemala	2001-01-01	4920	54.84
+GT	Guatemala	2000-01-01	4811	54.84
+GN	Guinea	2016-01-01	1310	33.73
+GN	Guinea	2015-01-01	1260	33.73
+GN	Guinea	2014-01-01	1276	33.73
+GN	Guinea	2013-01-01	1277	33.73
+GN	Guinea	2012-01-01	1257	33.73
+GN	Guinea	2011-01-01	1214	39.36
+GN	Guinea	2010-01-01	1170	39.36
+GN	Guinea	2009-01-01	1159	39.36
+GN	Guinea	2008-01-01	1180	39.36
+GN	Guinea	2007-01-01	1127	39.36
+GN	Guinea	2006-01-01	1103	43.0
+GN	Guinea	2005-01-01	1065	43.0
+GN	Guinea	2004-01-01	1022	43.0
+GN	Guinea	2003-01-01	991	43.0
+GN	Guinea	2002-01-01	978	43.0
+GN	Guinea	2001-01-01	933	50.66
+GN	Guinea	2000-01-01	896	50.66
+GW	Guinea-Bissau	2016-01-01	1581	50.66
+GW	Guinea-Bissau	2015-01-01	1516	50.66
+GW	Guinea-Bissau	2014-01-01	1468	50.66
+GW	Guinea-Bissau	2013-01-01	1444	50.66
+GW	Guinea-Bissau	2012-01-01	1447	50.66
+GW	Guinea-Bissau	2011-01-01	1484	50.66
+GW	Guinea-Bissau	2010-01-01	1365	50.66
+GW	Guinea-Bissau	2009-01-01	1324	35.57
+GW	Guinea-Bissau	2008-01-01	1303	35.57
+GW	Guinea-Bissau	2007-01-01	1268	35.57
+GW	Guinea-Bissau	2006-01-01	1225	35.57
+GW	Guinea-Bissau	2005-01-01	1188	35.57
+GW	Guinea-Bissau	2004-01-01	1129	35.57
+GW	Guinea-Bissau	2003-01-01	1093	35.57
+GW	Guinea-Bissau	2002-01-01	1088	35.57
+GW	Guinea-Bissau	2001-01-01	1105	60.79
+GW	Guinea-Bissau	2000-01-01	1078	60.79
+GY	Guyana	2016-01-01	7818	60.79
+GY	Guyana	2015-01-01	7520	60.79
+GY	Guyana	2014-01-01	7259	60.79
+GY	Guyana	2013-01-01	6916	60.79
+GY	Guyana	2012-01-01	6511	60.79
+GY	Guyana	2011-01-01	6132	60.79
+GY	Guyana	2010-01-01	5717	60.79
+GY	Guyana	2009-01-01	5418	60.79
+GY	Guyana	2008-01-01	5200	60.79
+GY	Guyana	2007-01-01	4991	60.79
+GY	Guyana	2006-01-01	4532	60.79
+GY	Guyana	2005-01-01	4175	60.79
+GY	Guyana	2004-01-01	4121	60.79
+GY	Guyana	2003-01-01	3882	60.79
+GY	Guyana	2002-01-01	3845	60.79
+GY	Guyana	2001-01-01	3745	60.79
+GY	Guyana	2000-01-01	3576	60.79
+HT	Haiti	2016-01-01	1784	60.79
+HT	Haiti	2015-01-01	1758	60.79
+HT	Haiti	2014-01-01	1741	60.79
+HT	Haiti	2013-01-01	1686	60.79
+HT	Haiti	2012-01-01	1614	60.79
+HT	Haiti	2011-01-01	1562	59.48
+HT	Haiti	2010-01-01	1471	59.48
+HT	Haiti	2009-01-01	1561	59.48
+HT	Haiti	2008-01-01	1526	59.48
+HT	Haiti	2007-01-01	1507	59.48
+HT	Haiti	2006-01-01	1442	59.48
+HT	Haiti	2005-01-01	1390	59.48
+HT	Haiti	2004-01-01	1344	59.48
+HT	Haiti	2003-01-01	1377	59.48
+HT	Haiti	2002-01-01	1367	59.48
+HT	Haiti	2001-01-01	1372	59.48
+HT	Haiti	2000-01-01	1378	50.64
+HN	Honduras	2016-01-01	4738	50.64
+HN	Honduras	2015-01-01	4590	50.64
+HN	Honduras	2014-01-01	4457	50.64
+HN	Honduras	2013-01-01	4323	53.67
+HN	Honduras	2012-01-01	4213	57.4
+HN	Honduras	2011-01-01	4046	57.4
+HN	Honduras	2010-01-01	3890	53.39
+HN	Honduras	2009-01-01	3779	51.56
+HN	Honduras	2008-01-01	3923	55.74
+HN	Honduras	2007-01-01	3770	56.16
+HN	Honduras	2006-01-01	3535	57.42
+HN	Honduras	2005-01-01	3291	59.51
+HN	Honduras	2004-01-01	3078	58.41
+HN	Honduras	2003-01-01	2888	58.66
+HN	Honduras	2002-01-01	2775	58.78
+HN	Honduras	2001-01-01	2701	54.08
+HN	Honduras	2000-01-01	2638	30.55
+HK	Hong Kong SAR, China	2016-01-01	58552	30.55
+HK	Hong Kong SAR, China	2015-01-01	56951	30.55
+HK	Hong Kong SAR, China	2014-01-01	55514	30.55
+HK	Hong Kong SAR, China	2013-01-01	53472	30.55
+HK	Hong Kong SAR, China	2012-01-01	51274	30.55
+HK	Hong Kong SAR, China	2011-01-01	50085	30.55
+HK	Hong Kong SAR, China	2010-01-01	47134	30.55
+HK	Hong Kong SAR, China	2009-01-01	43935	30.55
+HK	Hong Kong SAR, China	2008-01-01	44800	30.55
+HK	Hong Kong SAR, China	2007-01-01	43280	30.55
+HK	Hong Kong SAR, China	2006-01-01	39940	30.55
+HK	Hong Kong SAR, China	2005-01-01	36437	30.55
+HK	Hong Kong SAR, China	2004-01-01	33016	30.55
+HK	Hong Kong SAR, China	2003-01-01	29792	30.55
+HK	Hong Kong SAR, China	2002-01-01	28288	30.55
+HK	Hong Kong SAR, China	2001-01-01	27528	30.55
+HK	Hong Kong SAR, China	2000-01-01	26962	30.55
+HU	Hungary	2016-01-01	26680	30.55
+HU	Hungary	2015-01-01	26436	30.55
+HU	Hungary	2014-01-01	25494	30.55
+HU	Hungary	2013-01-01	24366	30.55
+HU	Hungary	2012-01-01	22997	30.55
+HU	Hungary	2011-01-01	22729	28.94
+HU	Hungary	2010-01-01	21466	29.37
+HU	Hungary	2009-01-01	20573	26.97
+HU	Hungary	2008-01-01	20586	27.53
+HU	Hungary	2007-01-01	18933	27.94
+HU	Hungary	2006-01-01	18230	28.3
+HU	Hungary	2005-01-01	17014	35.2
+HU	Hungary	2004-01-01	16198	30.02
+HU	Hungary	2003-01-01	15417	30.93
+HU	Hungary	2002-01-01	14516	26.84
+HU	Hungary	2001-01-01	13230	26.92
+HU	Hungary	2000-01-01	11843	27.22
+IS	Iceland	2016-01-01	51398	26.94
+IS	Iceland	2015-01-01	47690	26.94
+IS	Iceland	2014-01-01	44290	26.94
+IS	Iceland	2013-01-01	42631	26.94
+IS	Iceland	2012-01-01	40486	26.94
+IS	Iceland	2011-01-01	39465	27.03
+IS	Iceland	2010-01-01	38410	26.43
+IS	Iceland	2009-01-01	41063	28.74
+IS	Iceland	2008-01-01	42677	31.89
+IS	Iceland	2007-01-01	40723	29.58
+IS	Iceland	2006-01-01	38722	30.25
+IS	Iceland	2005-01-01	36964	29.38
+IS	Iceland	2004-01-01	35294	28.11
+IS	Iceland	2003-01-01	32303	35.15
+IS	Iceland	2002-01-01	32191	35.15
+IS	Iceland	2001-01-01	31617	35.15
+IS	Iceland	2000-01-01	29497	35.15
+IN	India	2016-01-01	6572	35.15
+IN	India	2015-01-01	6126	35.15
+IN	India	2014-01-01	5677	35.15
+IN	India	2013-01-01	5250	35.15
+IN	India	2012-01-01	4916	35.15
+IN	India	2011-01-01	4635	35.15
+IN	India	2010-01-01	4315	39.47
+IN	India	2009-01-01	3920	39.47
+IN	India	2008-01-01	3637	39.47
+IN	India	2007-01-01	3484	39.47
+IN	India	2006-01-01	3138	39.47
+IN	India	2005-01-01	2830	39.47
+IN	India	2004-01-01	2549	39.47
+IN	India	2003-01-01	2336	39.47
+IN	India	2002-01-01	2159	39.47
+IN	India	2001-01-01	2083	39.47
+IN	India	2000-01-01	1977	39.47
+ID	Indonesia	2016-01-01	11612	39.47
+ID	Indonesia	2015-01-01	11038	39.47
+ID	Indonesia	2014-01-01	10537	39.47
+ID	Indonesia	2013-01-01	9979	39.47
+ID	Indonesia	2012-01-01	9421	37.35
+ID	Indonesia	2011-01-01	8837	37.35
+ID	Indonesia	2010-01-01	8262	37.35
+ID	Indonesia	2009-01-01	7787	37.35
+ID	Indonesia	2008-01-01	7486	37.35
+ID	Indonesia	2007-01-01	7019	37.35
+ID	Indonesia	2006-01-01	6517	37.35
+ID	Indonesia	2005-01-01	6076	37.35
+ID	Indonesia	2004-01-01	5647	37.35
+ID	Indonesia	2003-01-01	5305	37.35
+ID	Indonesia	2002-01-01	5033	37.35
+ID	Indonesia	2001-01-01	4810	37.35
+ID	Indonesia	2000-01-01	4601	37.35
+IR	Iran, Islamic Rep.	2016-01-01	17046	37.35
+IR	Iran, Islamic Rep.	2015-01-01	17046	37.35
+IR	Iran, Islamic Rep.	2014-01-01	17329	37.35
+IR	Iran, Islamic Rep.	2013-01-01	16521	37.35
+IR	Iran, Islamic Rep.	2012-01-01	16788	42.02
+IR	Iran, Islamic Rep.	2011-01-01	17876	42.02
+IR	Iran, Islamic Rep.	2010-01-01	17090	42.02
+IR	Iran, Islamic Rep.	2009-01-01	16031	42.02
+IR	Iran, Islamic Rep.	2008-01-01	15730	38.35
+IR	Iran, Islamic Rep.	2007-01-01	15459	38.35
+IR	Iran, Islamic Rep.	2006-01-01	13956	38.35
+IR	Iran, Islamic Rep.	2005-01-01	12956	38.35
+IR	Iran, Islamic Rep.	2004-01-01	12184	32.52
+IR	Iran, Islamic Rep.	2003-01-01	11498	32.52
+IR	Iran, Islamic Rep.	2002-01-01	10503	32.52
+IR	Iran, Islamic Rep.	2001-01-01	9698	32.52
+IR	Iran, Islamic Rep.	2000-01-01	9395	32.52
+IQ	Iraq	2016-01-01	17353	32.52
+IQ	Iraq	2015-01-01	15895	32.52
+IQ	Iraq	2014-01-01	15481	32.52
+IQ	Iraq	2013-01-01	15603	32.52
+IQ	Iraq	2012-01-01	14895	32.52
+IQ	Iraq	2011-01-01	13261	32.52
+IQ	Iraq	2010-01-01	12460	32.52
+IQ	Iraq	2009-01-01	11905	32.52
+IQ	Iraq	2008-01-01	11736	32.52
+IQ	Iraq	2007-01-01	10905	32.52
+IQ	Iraq	2006-01-01	10740	32.52
+IQ	Iraq	2005-01-01	9701	32.52
+IQ	Iraq	2004-01-01	9239	32.52
+IQ	Iraq	2003-01-01	5989	32.52
+IQ	Iraq	2002-01-01	9020	32.52
+IQ	Iraq	2001-01-01	9813	32.52
+IQ	Iraq	2000-01-01	9651	32.52
+IE	Ireland	2016-01-01	68882	32.52
+IE	Ireland	2015-01-01	67974	32.52
+IE	Ireland	2014-01-01	51265	32.52
+IE	Ireland	2013-01-01	48310	32.52
+IE	Ireland	2012-01-01	46552	32.52
+IE	Ireland	2011-01-01	45477	32.33
+IE	Ireland	2010-01-01	43221	32.3
+IE	Ireland	2009-01-01	41567	32.84
+IE	Ireland	2008-01-01	44264	30.91
+IE	Ireland	2007-01-01	46763	31.96
+IE	Ireland	2006-01-01	44246	32.73
+IE	Ireland	2005-01-01	40444	33.76
+IE	Ireland	2004-01-01	38696	33.72
+IE	Ireland	2003-01-01	36235	42.78
+IE	Ireland	2002-01-01	35209	42.78
+IE	Ireland	2001-01-01	32615	42.78
+IE	Ireland	2000-01-01	30155	42.78
+IM	Isle of Man	2016-01-01	37901	42.78
+IM	Isle of Man	2015-01-01	37901	42.78
+IM	Isle of Man	2014-01-01	37901	42.78
+IM	Isle of Man	2013-01-01	37901	42.78
+IM	Isle of Man	2012-01-01	37901	42.78
+IM	Isle of Man	2011-01-01	37901	42.78
+IM	Isle of Man	2010-01-01	37901	42.78
+IM	Isle of Man	2009-01-01	37901	42.78
+IM	Isle of Man	2008-01-01	37901	42.78
+IM	Isle of Man	2007-01-01	37901	42.78
+IM	Isle of Man	2006-01-01	37901	42.78
+IM	Isle of Man	2005-01-01	37901	42.78
+IM	Isle of Man	2004-01-01	37901	42.78
+IM	Isle of Man	2003-01-01	37901	42.78
+IM	Isle of Man	2002-01-01	37901	42.78
+IM	Isle of Man	2001-01-01	37901	42.78
+IM	Isle of Man	2000-01-01	37901	42.78
+IL	Israel	2016-01-01	37901	42.78
+IL	Israel	2015-01-01	36545	42.78
+IL	Israel	2014-01-01	34929	42.78
+IL	Israel	2013-01-01	34225	42.78
+IL	Israel	2012-01-01	31750	42.78
+IL	Israel	2011-01-01	30528	42.78
+IL	Israel	2010-01-01	28856	42.78
+IL	Israel	2009-01-01	27578	41.18
+IL	Israel	2008-01-01	27516	41.18
+IL	Israel	2007-01-01	27623	41.18
+IL	Israel	2006-01-01	25775	41.86
+IL	Israel	2005-01-01	24885	41.86
+IL	Israel	2004-01-01	25222	39.2
+IL	Israel	2003-01-01	23788	39.2
+IL	Israel	2002-01-01	25218	39.2
+IL	Israel	2001-01-01	24948	39.2
+IL	Israel	2000-01-01	24941	35.16
+IT	Italy	2016-01-01	38160	35.16
+IT	Italy	2015-01-01	37255	35.16
+IT	Italy	2014-01-01	36294	35.16
+IT	Italy	2013-01-01	36131	35.16
+IT	Italy	2012-01-01	36237	35.16
+IT	Italy	2011-01-01	36347	34.52
+IT	Italy	2010-01-01	35075	34.41
+IT	Italy	2009-01-01	34549	33.66
+IT	Italy	2008-01-01	35402	33.74
+IT	Italy	2007-01-01	33983	33.19
+IT	Italy	2006-01-01	32350	34.26
+IT	Italy	2005-01-01	30051	34.07
+IT	Italy	2004-01-01	29468	34.53
+IT	Italy	2003-01-01	29079	45.46
+IT	Italy	2002-01-01	28641	45.46
+IT	Italy	2001-01-01	27996	45.46
+IT	Italy	2000-01-01	27006	45.46
+JM	Jamaica	2016-01-01	8834	45.46
+JM	Jamaica	2015-01-01	8630	45.46
+JM	Jamaica	2014-01-01	8483	45.46
+JM	Jamaica	2013-01-01	8306	45.46
+JM	Jamaica	2012-01-01	8164	45.46
+JM	Jamaica	2011-01-01	8099	45.46
+JM	Jamaica	2010-01-01	7834	45.46
+JM	Jamaica	2009-01-01	7892	45.46
+JM	Jamaica	2008-01-01	8228	45.46
+JM	Jamaica	2007-01-01	8179	45.46
+JM	Jamaica	2006-01-01	7898	45.46
+JM	Jamaica	2005-01-01	7489	45.46
+JM	Jamaica	2004-01-01	7233	45.46
+JM	Jamaica	2003-01-01	6989	48.32
+JM	Jamaica	2002-01-01	6652	48.32
+JM	Jamaica	2001-01-01	6467	32.11
+JM	Jamaica	2000-01-01	6286	32.11
+JP	Japan	2016-01-01	41469	32.11
+JP	Japan	2015-01-01	40686	32.11
+JP	Japan	2014-01-01	39386	32.11
+JP	Japan	2013-01-01	38974	32.11
+JP	Japan	2012-01-01	37191	32.11
+JP	Japan	2011-01-01	35774	32.11
+JP	Japan	2010-01-01	34996	32.11
+JP	Japan	2009-01-01	33099	32.11
+JP	Japan	2008-01-01	34798	32.11
+JP	Japan	2007-01-01	34529	26.33
+JP	Japan	2006-01-01	33057	26.33
+JP	Japan	2005-01-01	31663	26.33
+JP	Japan	2004-01-01	30382	26.33
+JP	Japan	2003-01-01	28867	26.33
+JP	Japan	2002-01-01	28160	26.33
+JP	Japan	2001-01-01	27476	26.33
+JP	Japan	2000-01-01	26795	26.33
+JO	Jordan	2016-01-01	9050	26.33
+JO	Jordan	2015-01-01	9040	26.33
+JO	Jordan	2014-01-01	9082	26.33
+JO	Jordan	2013-01-01	9062	26.33
+JO	Jordan	2012-01-01	9129	26.33
+JO	Jordan	2011-01-01	9214	26.33
+JO	Jordan	2010-01-01	9281	26.33
+JO	Jordan	2009-01-01	9436	26.33
+JO	Jordan	2008-01-01	9332	26.33
+JO	Jordan	2007-01-01	8944	26.33
+JO	Jordan	2006-01-01	8405	26.33
+JO	Jordan	2005-01-01	7835	26.33
+JO	Jordan	2004-01-01	7245	26.33
+JO	Jordan	2003-01-01	6662	26.33
+JO	Jordan	2002-01-01	6400	26.33
+JO	Jordan	2001-01-01	6066	26.33
+JO	Jordan	2000-01-01	5734	26.33
+KZ	Kazakhstan	2016-01-01	25263	26.33
+KZ	Kazakhstan	2015-01-01	25044	26.33
+KZ	Kazakhstan	2014-01-01	24845	26.33
+KZ	Kazakhstan	2013-01-01	23773	26.33
+KZ	Kazakhstan	2012-01-01	22392	27.46
+KZ	Kazakhstan	2011-01-01	21277	27.42
+KZ	Kazakhstan	2010-01-01	19690	28.56
+KZ	Kazakhstan	2009-01-01	18387	28.79
+KZ	Kazakhstan	2008-01-01	18513	29.07
+KZ	Kazakhstan	2007-01-01	17793	28.54
+KZ	Kazakhstan	2006-01-01	16098	29.98
+KZ	Kazakhstan	2005-01-01	14259	29.65
+KZ	Kazakhstan	2004-01-01	12705	31.42
+KZ	Kazakhstan	2003-01-01	11360	32.99
+KZ	Kazakhstan	2002-01-01	10225	34.05
+KZ	Kazakhstan	2001-01-01	9172	35.39
+KZ	Kazakhstan	2000-01-01	7887	48.51
+KE	Kenya	2016-01-01	3155	48.51
+KE	Kenya	2015-01-01	3019	48.51
+KE	Kenya	2014-01-01	2900	48.51
+KE	Kenya	2013-01-01	2776	48.51
+KE	Kenya	2012-01-01	2650	48.51
+KE	Kenya	2011-01-01	2556	48.51
+KE	Kenya	2010-01-01	2425	48.51
+KE	Kenya	2009-01-01	2271	48.51
+KE	Kenya	2008-01-01	2243	48.51
+KE	Kenya	2007-01-01	2256	48.51
+KE	Kenya	2006-01-01	2114	48.51
+KE	Kenya	2005-01-01	1980	48.51
+KE	Kenya	2004-01-01	1861	37.61
+KE	Kenya	2003-01-01	1771	37.61
+KE	Kenya	2002-01-01	1734	37.61
+KE	Kenya	2001-01-01	1745	37.61
+KE	Kenya	2000-01-01	1689	37.61
+KI	Kiribati	2016-01-01	2047	37.61
+KI	Kiribati	2015-01-01	1995	37.61
+KI	Kiribati	2014-01-01	1940	37.61
+KI	Kiribati	2013-01-01	1894	37.61
+KI	Kiribati	2012-01-01	1794	37.61
+KI	Kiribati	2011-01-01	1706	37.61
+KI	Kiribati	2010-01-01	1696	37.61
+KI	Kiribati	2009-01-01	1738	37.61
+KI	Kiribati	2008-01-01	1757	37.61
+KI	Kiribati	2007-01-01	1795	37.61
+KI	Kiribati	2006-01-01	1748	37.61
+KI	Kiribati	2005-01-01	1759	26.71
+KI	Kiribati	2004-01-01	1656	26.71
+KI	Kiribati	2003-01-01	1669	26.71
+KI	Kiribati	2002-01-01	1632	26.71
+KI	Kiribati	2001-01-01	1576	26.71
+KI	Kiribati	2000-01-01	1590	26.71
+KP	Korea, Dem. People’s Rep.	2016-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2015-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2014-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2013-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2012-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2011-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2010-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2009-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2008-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2007-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2006-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2005-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2004-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2003-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2002-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2001-01-01	35750	26.71
+KP	Korea, Dem. People’s Rep.	2000-01-01	35750	26.71
+KR	Korea, Rep.	2016-01-01	35750	26.71
+KR	Korea, Rep.	2015-01-01	34421	26.71
+KR	Korea, Rep.	2014-01-01	33631	26.71
+KR	Korea, Rep.	2013-01-01	32615	26.71
+KR	Korea, Rep.	2012-01-01	32097	26.71
+KR	Korea, Rep.	2011-01-01	31228	26.71
+KR	Korea, Rep.	2010-01-01	30376	26.71
+KR	Korea, Rep.	2009-01-01	28320	26.71
+KR	Korea, Rep.	2008-01-01	28655	26.71
+KR	Korea, Rep.	2007-01-01	27822	26.71
+KR	Korea, Rep.	2006-01-01	25827	26.71
+KR	Korea, Rep.	2005-01-01	24196	26.71
+KR	Korea, Rep.	2004-01-01	22947	26.71
+KR	Korea, Rep.	2003-01-01	21374	26.71
+KR	Korea, Rep.	2002-01-01	20775	26.71
+KR	Korea, Rep.	2001-01-01	19184	26.71
+KR	Korea, Rep.	2000-01-01	18083	26.71
+XK	Kosovo	2016-01-01	10066	26.71
+XK	Kosovo	2015-01-01	9685	26.71
+XK	Kosovo	2014-01-01	9106	26.71
+XK	Kosovo	2013-01-01	8827	26.71
+XK	Kosovo	2012-01-01	8486	29.4
+XK	Kosovo	2011-01-01	8169	27.83
+XK	Kosovo	2010-01-01	7716	33.25
+XK	Kosovo	2009-01-01	7438	31.78
+XK	Kosovo	2008-01-01	7201	30.32
+XK	Kosovo	2007-01-01	6936	30.32
+XK	Kosovo	2006-01-01	6348	30.32
+XK	Kosovo	2005-01-01	5941	31.24
+XK	Kosovo	2004-01-01	5432	28.95
+XK	Kosovo	2003-01-01	5156	28.95
+XK	Kosovo	2002-01-01	4773	26.82
+XK	Kosovo	2001-01-01	4737	26.82
+XK	Kosovo	2000-01-01	3650	26.82
+KW	Kuwait	2016-01-01	73817	26.82
+KW	Kuwait	2015-01-01	73817	26.82
+KW	Kuwait	2014-01-01	74613	26.82
+KW	Kuwait	2013-01-01	76667	26.82
+KW	Kuwait	2012-01-01	79047	26.82
+KW	Kuwait	2011-01-01	77459	26.82
+KW	Kuwait	2010-01-01	73682	26.82
+KW	Kuwait	2009-01-01	79296	26.82
+KW	Kuwait	2008-01-01	90011	26.82
+KW	Kuwait	2007-01-01	91268	26.82
+KW	Kuwait	2006-01-01	88328	26.82
+KW	Kuwait	2005-01-01	83224	26.82
+KW	Kuwait	2004-01-01	75528	26.82
+KW	Kuwait	2003-01-01	67552	26.82
+KW	Kuwait	2002-01-01	57119	26.82
+KW	Kuwait	2001-01-01	55510	26.82
+KW	Kuwait	2000-01-01	55420	26.82
+KG	Kyrgyz Republic	2016-01-01	3551	26.82
+KG	Kyrgyz Republic	2015-01-01	3447	26.82
+KG	Kyrgyz Republic	2014-01-01	3351	26.82
+KG	Kyrgyz Republic	2013-01-01	3229	28.82
+KG	Kyrgyz Republic	2012-01-01	2922	27.36
+KG	Kyrgyz Republic	2011-01-01	2920	27.84
+KG	Kyrgyz Republic	2010-01-01	2733	30.13
+KG	Kyrgyz Republic	2009-01-01	2746	29.87
+KG	Kyrgyz Republic	2008-01-01	2681	31.45
+KG	Kyrgyz Republic	2007-01-01	2448	33.91
+KG	Kyrgyz Republic	2006-01-01	2218	37.38
+KG	Kyrgyz Republic	2005-01-01	2110	32.56
+KG	Kyrgyz Republic	2004-01-01	2071	34.77
+KG	Kyrgyz Republic	2003-01-01	1906	28.71
+KG	Kyrgyz Republic	2002-01-01	1764	30.3
+KG	Kyrgyz Republic	2001-01-01	1754	30.16
+KG	Kyrgyz Republic	2000-01-01	1644	31.04
+LA	Lao PDR	2016-01-01	6186	37.89
+LA	Lao PDR	2015-01-01	5785	37.89
+LA	Lao PDR	2014-01-01	5407	37.89
+LA	Lao PDR	2013-01-01	4998	37.89
+LA	Lao PDR	2012-01-01	4610	37.89
+LA	Lao PDR	2011-01-01	4244	36.64
+LA	Lao PDR	2010-01-01	3902	36.64
+LA	Lao PDR	2009-01-01	3607	36.64
+LA	Lao PDR	2008-01-01	3385	36.64
+LA	Lao PDR	2007-01-01	3132	36.64
+LA	Lao PDR	2006-01-01	2884	34.66
+LA	Lao PDR	2005-01-01	2618	34.66
+LA	Lao PDR	2004-01-01	2406	34.66
+LA	Lao PDR	2003-01-01	2235	34.66
+LA	Lao PDR	2002-01-01	2097	34.66
+LA	Lao PDR	2001-01-01	1979	35.48
+LA	Lao PDR	2000-01-01	1859	35.48
+LV	Latvia	2016-01-01	26031	35.48
+LV	Latvia	2015-01-01	24919	35.48
+LV	Latvia	2014-01-01	23907	35.48
+LV	Latvia	2013-01-01	22696	35.48
+LV	Latvia	2012-01-01	21252	35.48
+LV	Latvia	2011-01-01	19773	36.03
+LV	Latvia	2010-01-01	17592	35.27
+LV	Latvia	2009-01-01	16889	34.83
+LV	Latvia	2008-01-01	19432	37.41
+LV	Latvia	2007-01-01	18122	36.05
+LV	Latvia	2006-01-01	15761	35.6
+LV	Latvia	2005-01-01	13847	39.4
+LV	Latvia	2004-01-01	12223	36.77
+LV	Latvia	2003-01-01	11025	36.53
+LV	Latvia	2002-01-01	10070	35.09
+LV	Latvia	2001-01-01	9055	54.18
+LV	Latvia	2000-01-01	8013	54.18
+LB	Lebanon	2016-01-01	13995	54.18
+LB	Lebanon	2015-01-01	13934	54.18
+LB	Lebanon	2014-01-01	14212	54.18
+LB	Lebanon	2013-01-01	14565	54.18
+LB	Lebanon	2012-01-01	15245	54.18
+LB	Lebanon	2011-01-01	15694	54.18
+LB	Lebanon	2010-01-01	15951	54.18
+LB	Lebanon	2009-01-01	15134	54.18
+LB	Lebanon	2008-01-01	13856	54.18
+LB	Lebanon	2007-01-01	12528	54.18
+LB	Lebanon	2006-01-01	11240	54.18
+LB	Lebanon	2005-01-01	10927	54.18
+LB	Lebanon	2004-01-01	10635	54.18
+LB	Lebanon	2003-01-01	10199	54.18
+LB	Lebanon	2002-01-01	10179	54.18
+LB	Lebanon	2001-01-01	10164	54.18
+LB	Lebanon	2000-01-01	9936	54.18
+LS	Lesotho	2016-01-01	3029	54.18
+LS	Lesotho	2015-01-01	2956	54.18
+LS	Lesotho	2014-01-01	2806	54.18
+LS	Lesotho	2013-01-01	2731	54.18
+LS	Lesotho	2012-01-01	2666	54.18
+LS	Lesotho	2011-01-01	2503	54.18
+LS	Lesotho	2010-01-01	2326	54.18
+LS	Lesotho	2009-01-01	2180	51.57
+LS	Lesotho	2008-01-01	2138	51.57
+LS	Lesotho	2007-01-01	1984	51.57
+LS	Lesotho	2006-01-01	1859	51.57
+LS	Lesotho	2005-01-01	1745	51.57
+LS	Lesotho	2004-01-01	1647	51.57
+LS	Lesotho	2003-01-01	1589	51.57
+LS	Lesotho	2002-01-01	1503	51.57
+LS	Lesotho	2001-01-01	1482	36.48
+LS	Lesotho	2000-01-01	1412	36.48
+LR	Liberia	2016-01-01	812	36.48
+LR	Liberia	2015-01-01	836	36.48
+LR	Liberia	2014-01-01	847	36.48
+LR	Liberia	2013-01-01	847	36.48
+LR	Liberia	2012-01-01	786	36.48
+LR	Liberia	2011-01-01	734	36.48
+LR	Liberia	2010-01-01	685	36.48
+LR	Liberia	2009-01-01	661	36.48
+LR	Liberia	2008-01-01	648	36.48
+LR	Liberia	2007-01-01	618	36.48
+LR	Liberia	2006-01-01	572	35.15
+LR	Liberia	2005-01-01	532	35.15
+LR	Liberia	2004-01-01	502	35.15
+LR	Liberia	2003-01-01	486	35.15
+LR	Liberia	2002-01-01	694	35.15
+LR	Liberia	2001-01-01	674	35.15
+LR	Liberia	2000-01-01	664	35.15
+LY	Libya	2016-01-01	11192	35.15
+LY	Libya	2015-01-01	11192	35.15
+LY	Libya	2014-01-01	11192	35.15
+LY	Libya	2013-01-01	11192	35.15
+LY	Libya	2012-01-01	11192	35.15
+LY	Libya	2011-01-01	11192	35.15
+LY	Libya	2010-01-01	29030	35.15
+LY	Libya	2009-01-01	27523	35.15
+LY	Libya	2008-01-01	27843	35.15
+LY	Libya	2007-01-01	26966	35.15
+LY	Libya	2006-01-01	25071	35.15
+LY	Libya	2005-01-01	23189	35.15
+LY	Libya	2004-01-01	20392	35.15
+LY	Libya	2003-01-01	19299	35.15
+LY	Libya	2002-01-01	17010	35.15
+LY	Libya	2001-01-01	17186	35.15
+LY	Libya	2000-01-01	17375	35.15
+LI	Liechtenstein	2016-01-01	29966	35.15
+LI	Liechtenstein	2015-01-01	29966	35.15
+LI	Liechtenstein	2014-01-01	29966	35.15
+LI	Liechtenstein	2013-01-01	29966	35.15
+LI	Liechtenstein	2012-01-01	29966	35.15
+LI	Liechtenstein	2011-01-01	29966	35.15
+LI	Liechtenstein	2010-01-01	29966	35.15
+LI	Liechtenstein	2009-01-01	29966	35.15
+LI	Liechtenstein	2008-01-01	29966	35.15
+LI	Liechtenstein	2007-01-01	29966	35.15
+LI	Liechtenstein	2006-01-01	29966	35.15
+LI	Liechtenstein	2005-01-01	29966	35.15
+LI	Liechtenstein	2004-01-01	29966	35.15
+LI	Liechtenstein	2003-01-01	29966	35.15
+LI	Liechtenstein	2002-01-01	29966	35.15
+LI	Liechtenstein	2001-01-01	29966	35.15
+LI	Liechtenstein	2000-01-01	29966	35.15
+LT	Lithuania	2016-01-01	29966	35.15
+LT	Lithuania	2015-01-01	28936	35.15
+LT	Lithuania	2014-01-01	28179	35.15
+LT	Lithuania	2013-01-01	26717	35.15
+LT	Lithuania	2012-01-01	24657	35.15
+LT	Lithuania	2011-01-01	22854	32.63
+LT	Lithuania	2010-01-01	20129	33.76
+LT	Lithuania	2009-01-01	18164	37.38
+LT	Lithuania	2008-01-01	20744	35.77
+LT	Lithuania	2007-01-01	19088	34.59
+LT	Lithuania	2006-01-01	16494	34.44
+LT	Lithuania	2005-01-01	14526	35.3
+LT	Lithuania	2004-01-01	13040	35.2
+LT	Lithuania	2003-01-01	12066	35.46
+LT	Lithuania	2002-01-01	10494	31.92
+LT	Lithuania	2001-01-01	9473	32.01
+LT	Lithuania	2000-01-01	8451	31.67
+LU	Luxembourg	2016-01-01	105881	34.79
+LU	Luxembourg	2015-01-01	104206	34.79
+LU	Luxembourg	2014-01-01	101831	34.79
+LU	Luxembourg	2013-01-01	95697	34.79
+LU	Luxembourg	2012-01-01	91622	34.79
+LU	Luxembourg	2011-01-01	92005	32.42
+LU	Luxembourg	2010-01-01	85779	30.9
+LU	Luxembourg	2009-01-01	82362	31.53
+LU	Luxembourg	2008-01-01	86693	32.61
+LU	Luxembourg	2007-01-01	83948	31.28
+LU	Luxembourg	2006-01-01	77996	30.96
+LU	Luxembourg	2005-01-01	68220	31.11
+LU	Luxembourg	2004-01-01	64096	30.25
+LU	Luxembourg	2003-01-01	60035	44.05
+LU	Luxembourg	2002-01-01	58771	44.05
+LU	Luxembourg	2001-01-01	56023	44.05
+LU	Luxembourg	2000-01-01	55306	44.05
+MO	Macao SAR, China	2016-01-01	104168	44.05
+MO	Macao SAR, China	2015-01-01	107024	44.05
+MO	Macao SAR, China	2014-01-01	137736	44.05
+MO	Macao SAR, China	2013-01-01	140037	44.05
+MO	Macao SAR, China	2012-01-01	126863	44.05
+MO	Macao SAR, China	2011-01-01	116752	44.05
+MO	Macao SAR, China	2010-01-01	96198	44.05
+MO	Macao SAR, China	2009-01-01	77553	44.05
+MO	Macao SAR, China	2008-01-01	77584	44.05
+MO	Macao SAR, China	2007-01-01	75131	44.05
+MO	Macao SAR, China	2006-01-01	65307	44.05
+MO	Macao SAR, China	2005-01-01	57162	44.05
+MO	Macao SAR, China	2004-01-01	52457	44.05
+MO	Macao SAR, China	2003-01-01	41266	44.05
+MO	Macao SAR, China	2002-01-01	37145	44.05
+MO	Macao SAR, China	2001-01-01	34408	44.05
+MO	Macao SAR, China	2000-01-01	33469	44.05
+MK	Macedonia, FYR	2016-01-01	15121	44.05
+MK	Macedonia, FYR	2015-01-01	14022	44.05
+MK	Macedonia, FYR	2014-01-01	13516	44.05
+MK	Macedonia, FYR	2013-01-01	12666	44.05
+MK	Macedonia, FYR	2012-01-01	11841	44.05
+MK	Macedonia, FYR	2011-01-01	11611	44.05
+MK	Macedonia, FYR	2010-01-01	11295	44.05
+MK	Macedonia, FYR	2009-01-01	10925	44.05
+MK	Macedonia, FYR	2008-01-01	10417	44.05
+MK	Macedonia, FYR	2007-01-01	9239	42.64
+MK	Macedonia, FYR	2006-01-01	8589	42.64
+MK	Macedonia, FYR	2005-01-01	7759	39.31
+MK	Macedonia, FYR	2004-01-01	7085	38.77
+MK	Macedonia, FYR	2003-01-01	6502	38.72
+MK	Macedonia, FYR	2002-01-01	6305	38.51
+MK	Macedonia, FYR	2001-01-01	6042	34.26
+MK	Macedonia, FYR	2000-01-01	6122	34.26
+MG	Madagascar	2016-01-01	1506	42.65
+MG	Madagascar	2015-01-01	1465	42.65
+MG	Madagascar	2014-01-01	1445	42.65
+MG	Madagascar	2013-01-01	1411	42.65
+MG	Madagascar	2012-01-01	1396	42.65
+MG	Madagascar	2011-01-01	1367	40.63
+MG	Madagascar	2010-01-01	1357	40.63
+MG	Madagascar	2009-01-01	1375	38.88
+MG	Madagascar	2008-01-01	1463	38.88
+MG	Madagascar	2007-01-01	1378	38.88
+MG	Madagascar	2006-01-01	1300	38.88
+MG	Madagascar	2005-01-01	1237	38.88
+MG	Madagascar	2004-01-01	1180	47.44
+MG	Madagascar	2003-01-01	1124	47.44
+MG	Madagascar	2002-01-01	1034	47.44
+MG	Madagascar	2001-01-01	1203	47.44
+MG	Madagascar	2000-01-01	1144	46.12
+MW	Malawi	2016-01-01	1169	46.12
+MW	Malawi	2015-01-01	1159	46.12
+MW	Malawi	2014-01-01	1148	46.12
+MW	Malawi	2013-01-01	1099	46.12
+MW	Malawi	2012-01-01	1058	46.12
+MW	Malawi	2011-01-01	1051	46.12
+MW	Malawi	2010-01-01	1012	46.12
+MW	Malawi	2009-01-01	964	39.87
+MW	Malawi	2008-01-01	910	39.87
+MW	Malawi	2007-01-01	855	39.87
+MW	Malawi	2006-01-01	783	39.87
+MW	Malawi	2005-01-01	748	39.87
+MW	Malawi	2004-01-01	721	39.87
+MW	Malawi	2003-01-01	684	46.26
+MW	Malawi	2002-01-01	652	46.26
+MW	Malawi	2001-01-01	648	46.26
+MW	Malawi	2000-01-01	686	46.26
+MY	Malaysia	2016-01-01	27680	46.26
+MY	Malaysia	2015-01-01	26606	46.26
+MY	Malaysia	2014-01-01	25487	46.26
+MY	Malaysia	2013-01-01	24033	46.26
+MY	Malaysia	2012-01-01	23007	46.26
+MY	Malaysia	2011-01-01	21818	46.26
+MY	Malaysia	2010-01-01	20680	46.26
+MY	Malaysia	2009-01-01	19448	46.26
+MY	Malaysia	2008-01-01	20162	46.05
+MY	Malaysia	2007-01-01	19488	46.05
+MY	Malaysia	2006-01-01	17667	46.05
+MY	Malaysia	2005-01-01	16540	46.05
+MY	Malaysia	2004-01-01	15507	46.05
+MY	Malaysia	2003-01-01	14411	38.37
+MY	Malaysia	2002-01-01	13626	38.37
+MY	Malaysia	2001-01-01	13002	38.37
+MY	Malaysia	2000-01-01	12927	38.37
+MV	Maldives	2016-01-01	13198	38.37
+MV	Maldives	2015-01-01	12770	38.37
+MV	Maldives	2014-01-01	12534	38.37
+MV	Maldives	2013-01-01	11853	38.37
+MV	Maldives	2012-01-01	11373	38.37
+MV	Maldives	2011-01-01	11126	38.37
+MV	Maldives	2010-01-01	10301	38.37
+MV	Maldives	2009-01-01	9681	38.37
+MV	Maldives	2008-01-01	10092	41.31
+MV	Maldives	2007-01-01	9112	41.31
+MV	Maldives	2006-01-01	8443	41.31
+MV	Maldives	2005-01-01	7088	41.31
+MV	Maldives	2004-01-01	7690	41.31
+MV	Maldives	2003-01-01	6788	41.31
+MV	Maldives	2002-01-01	5947	41.31
+MV	Maldives	2001-01-01	5652	33.04
+MV	Maldives	2000-01-01	2117	33.04
+ML	Mali	2016-01-01	2117	33.04
+ML	Mali	2015-01-01	2043	33.04
+ML	Mali	2014-01-01	1964	33.04
+ML	Mali	2013-01-01	1856	33.04
+ML	Mali	2012-01-01	1838	33.04
+ML	Mali	2011-01-01	1874	33.04
+ML	Mali	2010-01-01	1834	33.04
+ML	Mali	2009-01-01	1774	33.04
+ML	Mali	2008-01-01	1737	38.93
+ML	Mali	2007-01-01	1681	38.93
+ML	Mali	2006-01-01	1636	38.93
+ML	Mali	2005-01-01	1567	39.87
+ML	Mali	2004-01-01	1472	39.87
+ML	Mali	2003-01-01	1456	39.87
+ML	Mali	2002-01-01	1349	39.87
+ML	Mali	2001-01-01	1328	39.87
+ML	Mali	2000-01-01	1159	32.42
+MT	Malta	2016-01-01	37899	32.42
+MT	Malta	2015-01-01	35880	32.42
+MT	Malta	2014-01-01	33853	32.42
+MT	Malta	2013-01-01	31240	32.42
+MT	Malta	2012-01-01	29442	32.42
+MT	Malta	2011-01-01	28595	32.42
+MT	Malta	2010-01-01	27862	32.42
+MT	Malta	2009-01-01	26166	32.42
+MT	Malta	2008-01-01	26193	32.42
+MT	Malta	2007-01-01	24883	32.42
+MT	Malta	2006-01-01	23237	32.42
+MT	Malta	2005-01-01	22232	32.42
+MT	Malta	2004-01-01	21416	32.42
+MT	Malta	2003-01-01	20936	32.42
+MT	Malta	2002-01-01	20561	32.42
+MT	Malta	2001-01-01	19666	32.42
+MT	Malta	2000-01-01	19410	32.42
+MH	Marshall Islands	2016-01-01	4072	32.42
+MH	Marshall Islands	2015-01-01	3910	32.42
+MH	Marshall Islands	2014-01-01	3851	32.42
+MH	Marshall Islands	2013-01-01	3827	32.42
+MH	Marshall Islands	2012-01-01	3689	32.42
+MH	Marshall Islands	2011-01-01	3501	32.42
+MH	Marshall Islands	2010-01-01	3381	32.42
+MH	Marshall Islands	2009-01-01	3144	32.42
+MH	Marshall Islands	2008-01-01	3181	32.42
+MH	Marshall Islands	2007-01-01	3177	32.42
+MH	Marshall Islands	2006-01-01	2992	32.42
+MH	Marshall Islands	2005-01-01	2849	32.42
+MH	Marshall Islands	2004-01-01	2685	32.42
+MH	Marshall Islands	2003-01-01	2613	32.42
+MH	Marshall Islands	2002-01-01	2555	32.42
+MH	Marshall Islands	2001-01-01	2451	32.42
+MH	Marshall Islands	2000-01-01	2276	32.42
+MR	Mauritania	2016-01-01	3853	32.42
+MR	Mauritania	2015-01-01	3834	32.42
+MR	Mauritania	2014-01-01	3850	32.42
+MR	Mauritania	2013-01-01	3689	35.69
+MR	Mauritania	2012-01-01	3526	35.69
+MR	Mauritania	2011-01-01	3371	35.69
+MR	Mauritania	2010-01-01	3249	35.69
+MR	Mauritania	2009-01-01	3154	35.69
+MR	Mauritania	2008-01-01	3255	35.69
+MR	Mauritania	2007-01-01	3249	40.17
+MR	Mauritania	2006-01-01	3166	40.17
+MR	Mauritania	2005-01-01	2658	40.17
+MR	Mauritania	2004-01-01	2431	40.17
+MR	Mauritania	2003-01-01	2302	39.03
+MR	Mauritania	2002-01-01	2192	39.03
+MR	Mauritania	2001-01-01	2208	39.03
+MR	Mauritania	2000-01-01	2180	39.03
+MU	Mauritius	2016-01-01	21087	35.84
+MU	Mauritius	2015-01-01	20085	35.84
+MU	Mauritius	2014-01-01	19230	35.84
+MU	Mauritius	2013-01-01	18243	35.84
+MU	Mauritius	2012-01-01	17408	35.84
+MU	Mauritius	2011-01-01	16561	35.65
+MU	Mauritius	2010-01-01	15616	35.65
+MU	Mauritius	2009-01-01	14815	35.65
+MU	Mauritius	2008-01-01	14270	35.65
+MU	Mauritius	2007-01-01	13328	35.65
+MU	Mauritius	2006-01-01	12335	35.65
+MU	Mauritius	2005-01-01	11078	48.21
+MU	Mauritius	2004-01-01	10664	48.21
+MU	Mauritius	2003-01-01	9876	48.21
+MU	Mauritius	2002-01-01	9409	48.21
+MU	Mauritius	2001-01-01	9138	48.21
+MU	Mauritius	2000-01-01	8780	48.21
+MX	Mexico	2016-01-01	17861	48.21
+MX	Mexico	2015-01-01	17244	48.21
+MX	Mexico	2014-01-01	17363	48.21
+MX	Mexico	2013-01-01	16683	48.07
+MX	Mexico	2012-01-01	16457	48.07
+MX	Mexico	2011-01-01	15922	48.13
+MX	Mexico	2010-01-01	14764	48.13
+MX	Mexico	2009-01-01	14092	48.23
+MX	Mexico	2008-01-01	14436	48.23
+MX	Mexico	2007-01-01	13877	48.01
+MX	Mexico	2006-01-01	13298	48.01
+MX	Mexico	2005-01-01	12212	51.11
+MX	Mexico	2004-01-01	11330	46.03
+MX	Mexico	2003-01-01	10713	49.54
+MX	Mexico	2002-01-01	10469	49.54
+MX	Mexico	2001-01-01	10418	51.67
+MX	Mexico	2000-01-01	10428	51.67
+FM	Micronesia, Fed. Sts.	2016-01-01	3593	42.46
+FM	Micronesia, Fed. Sts.	2015-01-01	3497	42.46
+FM	Micronesia, Fed. Sts.	2014-01-01	3347	42.46
+FM	Micronesia, Fed. Sts.	2013-01-01	3415	42.46
+FM	Micronesia, Fed. Sts.	2012-01-01	3491	43.1
+FM	Micronesia, Fed. Sts.	2011-01-01	3410	43.1
+FM	Micronesia, Fed. Sts.	2010-01-01	3269	43.1
+FM	Micronesia, Fed. Sts.	2009-01-01	3140	43.1
+FM	Micronesia, Fed. Sts.	2008-01-01	3071	43.1
+FM	Micronesia, Fed. Sts.	2007-01-01	3073	43.1
+FM	Micronesia, Fed. Sts.	2006-01-01	3039	43.1
+FM	Micronesia, Fed. Sts.	2005-01-01	2939	43.1
+FM	Micronesia, Fed. Sts.	2004-01-01	2777	63.26
+FM	Micronesia, Fed. Sts.	2003-01-01	2787	63.26
+FM	Micronesia, Fed. Sts.	2002-01-01	2679	63.26
+FM	Micronesia, Fed. Sts.	2001-01-01	2619	63.26
+FM	Micronesia, Fed. Sts.	2000-01-01	2510	63.26
+MD	Moldova	2007-01-01	3381	34.42
+MD	Moldova	2006-01-01	3190	35.4
+MD	Moldova	2005-01-01	2945	36.28
+MD	Moldova	2004-01-01	2647	35.03
+MD	Moldova	2003-01-01	2393	34.9
+MD	Moldova	2002-01-01	2195	35.85
+MD	Moldova	2001-01-01	2000	37.99
+MD	Moldova	2000-01-01	1839	36.43
+MD	Moldova	2016-01-01	5333	26.83
+MD	Moldova	2015-01-01	5054	26.83
+MD	Moldova	2014-01-01	5017	26.83
+MD	Moldova	2013-01-01	4700	28.53
+MD	Moldova	2012-01-01	4226	29.16
+MD	Moldova	2011-01-01	4179	30.63
+MD	Moldova	2010-01-01	3831	32.05
+MD	Moldova	2009-01-01	3531	32.91
+MD	Moldova	2008-01-01	3723	34.69
+MC	Monaco	2016-01-01	12220	32.04
+MC	Monaco	2015-01-01	12220	32.04
+MC	Monaco	2014-01-01	12220	32.04
+MC	Monaco	2013-01-01	12220	32.04
+MC	Monaco	2012-01-01	12220	32.04
+MC	Monaco	2011-01-01	12220	32.04
+MC	Monaco	2010-01-01	12220	32.04
+MC	Monaco	2009-01-01	12220	32.04
+MC	Monaco	2008-01-01	12220	32.04
+MC	Monaco	2007-01-01	12220	32.04
+MC	Monaco	2006-01-01	12220	32.04
+MC	Monaco	2005-01-01	12220	32.04
+MC	Monaco	2004-01-01	12220	32.04
+MC	Monaco	2003-01-01	12220	32.04
+MC	Monaco	2002-01-01	12220	32.04
+MC	Monaco	2001-01-01	12220	32.04
+MC	Monaco	2000-01-01	12220	32.04
+MN	Mongolia	2016-01-01	12220	32.04
+MN	Mongolia	2015-01-01	12147	32.04
+MN	Mongolia	2014-01-01	11954	32.04
+MN	Mongolia	2013-01-01	11093	33.75
+MN	Mongolia	2012-01-01	9969	33.75
+MN	Mongolia	2011-01-01	8881	33.88
+MN	Mongolia	2010-01-01	7552	33.08
+MN	Mongolia	2009-01-01	7131	35.82
+MN	Mongolia	2008-01-01	7278	35.82
+MN	Mongolia	2007-01-01	6647	35.82
+MN	Mongolia	2006-01-01	5950	32.89
+MN	Mongolia	2005-01-01	5384	32.89
+MN	Mongolia	2004-01-01	4921	32.89
+MN	Mongolia	2003-01-01	4377	32.89
+MN	Mongolia	2002-01-01	4053	32.89
+MN	Mongolia	2001-01-01	3849	31.93
+MN	Mongolia	2000-01-01	3689	31.93
+ME	Montenegro	2016-01-01	16853	31.93
+ME	Montenegro	2015-01-01	16183	31.93
+ME	Montenegro	2014-01-01	15410	31.93
+ME	Montenegro	2013-01-01	14883	32.33
+ME	Montenegro	2012-01-01	13863	32.18
+ME	Montenegro	2011-01-01	14472	30.82
+ME	Montenegro	2010-01-01	13661	28.89
+ME	Montenegro	2009-01-01	12981	31.01
+ME	Montenegro	2008-01-01	13737	30.49
+ME	Montenegro	2007-01-01	12402	31.45
+ME	Montenegro	2006-01-01	10354	30.04
+ME	Montenegro	2005-01-01	8313	30.22
+ME	Montenegro	2004-01-01	7840	40.72
+ME	Montenegro	2003-01-01	7332	40.72
+ME	Montenegro	2002-01-01	7098	40.72
+ME	Montenegro	2001-01-01	6788	40.72
+ME	Montenegro	2000-01-01	5998	40.72
+MA	Morocco	2016-01-01	7837	40.72
+MA	Morocco	2015-01-01	7757	40.72
+MA	Morocco	2014-01-01	7448	40.72
+MA	Morocco	2013-01-01	7239	40.72
+MA	Morocco	2012-01-01	6916	40.72
+MA	Morocco	2011-01-01	6688	40.72
+MA	Morocco	2010-01-01	6312	40.72
+MA	Morocco	2009-01-01	6086	40.72
+MA	Morocco	2008-01-01	5866	40.72
+MA	Morocco	2007-01-01	5496	40.72
+MA	Morocco	2006-01-01	5232	40.72
+MA	Morocco	2005-01-01	4773	40.64
+MA	Morocco	2004-01-01	4530	40.64
+MA	Morocco	2003-01-01	4257	40.64
+MA	Morocco	2002-01-01	3987	40.64
+MA	Morocco	2001-01-01	3854	40.64
+MA	Morocco	2000-01-01	3553	40.64
+MZ	Mozambique	2016-01-01	1217	45.58
+MZ	Mozambique	2015-01-01	1190	45.58
+MZ	Mozambique	2014-01-01	1137	45.58
+MZ	Mozambique	2013-01-01	1070	45.58
+MZ	Mozambique	2012-01-01	1012	45.58
+MZ	Mozambique	2011-01-01	954	45.58
+MZ	Mozambique	2010-01-01	899	45.58
+MZ	Mozambique	2009-01-01	857	45.58
+MZ	Mozambique	2008-01-01	823	45.58
+MZ	Mozambique	2007-01-01	778	47.04
+MZ	Mozambique	2006-01-01	726	47.04
+MZ	Mozambique	2005-01-01	661	47.04
+MZ	Mozambique	2004-01-01	606	47.04
+MZ	Mozambique	2003-01-01	564	47.04
+MZ	Mozambique	2002-01-01	535	47.04
+MZ	Mozambique	2001-01-01	498	60.97
+MZ	Mozambique	2000-01-01	445	60.97
+MM	Myanmar	2016-01-01	5772	60.97
+MM	Myanmar	2015-01-01	5399	60.97
+MM	Myanmar	2014-01-01	5024	60.97
+MM	Myanmar	2013-01-01	4613	60.97
+MM	Myanmar	2012-01-01	4225	60.97
+MM	Myanmar	2011-01-01	3898	60.97
+MM	Myanmar	2010-01-01	3645	60.97
+MM	Myanmar	2009-01-01	3308	60.97
+MM	Myanmar	2008-01-01	2989	60.97
+MM	Myanmar	2007-01-01	2676	60.97
+MM	Myanmar	2006-01-01	2343	60.97
+MM	Myanmar	2005-01-01	2025	60.97
+MM	Myanmar	2004-01-01	1742	60.97
+MM	Myanmar	2003-01-01	1507	60.97
+MM	Myanmar	2002-01-01	1311	60.97
+MM	Myanmar	2001-01-01	1165	60.97
+MM	Myanmar	2000-01-01	1035	60.97
+NA	Namibia	2016-01-01	10584	60.97
+NA	Namibia	2015-01-01	10554	60.97
+NA	Namibia	2014-01-01	10144	60.97
+NA	Namibia	2013-01-01	9581	60.97
+NA	Namibia	2012-01-01	9132	60.97
+NA	Namibia	2011-01-01	8721	60.97
+NA	Namibia	2010-01-01	8289	60.97
+NA	Namibia	2009-01-01	7853	60.97
+NA	Namibia	2008-01-01	7884	63.32
+NA	Namibia	2007-01-01	7629	63.32
+NA	Namibia	2006-01-01	7052	63.32
+NA	Namibia	2005-01-01	6464	63.32
+NA	Namibia	2004-01-01	6177	63.32
+NA	Namibia	2003-01-01	5416	63.32
+NA	Namibia	2002-01-01	5158	32.84
+NA	Namibia	2001-01-01	4919	32.84
+NA	Namibia	2000-01-01	4839	32.84
+NR	Nauru	2016-01-01	13970	32.84
+NR	Nauru	2015-01-01	13064	32.84
+NR	Nauru	2014-01-01	13232	32.84
+NR	Nauru	2013-01-01	10429	32.84
+NR	Nauru	2012-01-01	8050	32.84
+NR	Nauru	2011-01-01	7339	32.84
+NR	Nauru	2010-01-01	6459	32.84
+NR	Nauru	2009-01-01	5617	32.84
+NR	Nauru	2008-01-01	5121	32.84
+NR	Nauru	2007-01-01	3726	32.84
+NR	Nauru	2006-01-01	2467	32.84
+NR	Nauru	2005-01-01	2467	32.84
+NR	Nauru	2004-01-01	2467	32.84
+NR	Nauru	2003-01-01	2467	32.84
+NR	Nauru	2002-01-01	2467	32.84
+NR	Nauru	2001-01-01	2467	32.84
+NR	Nauru	2000-01-01	2467	32.84
+NP	Nepal	2016-01-01	2467	32.84
+NP	Nepal	2015-01-01	2449	32.84
+NP	Nepal	2014-01-01	2387	32.84
+NP	Nepal	2013-01-01	2239	32.84
+NP	Nepal	2012-01-01	2142	32.84
+NP	Nepal	2011-01-01	2031	32.84
+NP	Nepal	2010-01-01	1945	32.84
+NP	Nepal	2009-01-01	1853	43.77
+NP	Nepal	2008-01-01	1777	43.77
+NP	Nepal	2007-01-01	1659	43.77
+NP	Nepal	2006-01-01	1579	43.77
+NP	Nepal	2005-01-01	1499	43.77
+NP	Nepal	2004-01-01	1422	43.77
+NP	Nepal	2003-01-01	1341	43.77
+NP	Nepal	2002-01-01	1285	27.99
+NP	Nepal	2001-01-01	1285	27.99
+NP	Nepal	2000-01-01	1220	27.99
+NL	Netherlands	2016-01-01	50898	27.99
+NL	Netherlands	2015-01-01	49546	27.99
+NL	Netherlands	2014-01-01	49012	27.99
+NL	Netherlands	2013-01-01	48666	27.99
+NL	Netherlands	2012-01-01	46707	27.99
+NL	Netherlands	2011-01-01	46066	28.17
+NL	Netherlands	2010-01-01	44585	28.73
+NL	Netherlands	2009-01-01	44090	28.38
+NL	Netherlands	2008-01-01	45843	29.93
+NL	Netherlands	2007-01-01	43462	30.35
+NL	Netherlands	2006-01-01	40620	30.76
+NL	Netherlands	2005-01-01	37265	29.86
+NL	Netherlands	2004-01-01	35440	30.74
+NL	Netherlands	2003-01-01	33701	47.05
+NL	Netherlands	2002-01-01	33991	47.05
+NL	Netherlands	2001-01-01	32912	47.05
+NL	Netherlands	2000-01-01	31572	47.05
+NC	New Caledonia	2016-01-01	39058	47.05
+NC	New Caledonia	2015-01-01	39058	47.05
+NC	New Caledonia	2014-01-01	39058	47.05
+NC	New Caledonia	2013-01-01	39058	47.05
+NC	New Caledonia	2012-01-01	39058	47.05
+NC	New Caledonia	2011-01-01	39058	47.05
+NC	New Caledonia	2010-01-01	39058	47.05
+NC	New Caledonia	2009-01-01	39058	47.05
+NC	New Caledonia	2008-01-01	39058	47.05
+NC	New Caledonia	2007-01-01	39058	47.05
+NC	New Caledonia	2006-01-01	39058	47.05
+NC	New Caledonia	2005-01-01	39058	47.05
+NC	New Caledonia	2004-01-01	39058	47.05
+NC	New Caledonia	2003-01-01	39058	47.05
+NC	New Caledonia	2002-01-01	39058	47.05
+NC	New Caledonia	2001-01-01	39058	47.05
+NC	New Caledonia	2000-01-01	39058	47.05
+NZ	New Zealand	2016-01-01	39058	47.05
+NZ	New Zealand	2015-01-01	37948	47.05
+NZ	New Zealand	2014-01-01	37182	47.05
+NZ	New Zealand	2013-01-01	36169	47.05
+NZ	New Zealand	2012-01-01	32986	47.05
+NZ	New Zealand	2011-01-01	32734	47.05
+NZ	New Zealand	2010-01-01	31263	47.05
+NZ	New Zealand	2009-01-01	30699	47.05
+NZ	New Zealand	2008-01-01	29860	47.05
+NZ	New Zealand	2007-01-01	29386	47.05
+NZ	New Zealand	2006-01-01	27767	47.05
+NZ	New Zealand	2005-01-01	25677	47.05
+NZ	New Zealand	2004-01-01	25086	47.05
+NZ	New Zealand	2003-01-01	23963	47.05
+NZ	New Zealand	2002-01-01	23306	47.05
+NZ	New Zealand	2001-01-01	22507	47.05
+NZ	New Zealand	2000-01-01	21509	47.05
+NI	Nicaragua	2016-01-01	5541	47.05
+NI	Nicaragua	2015-01-01	5282	47.05
+NI	Nicaragua	2014-01-01	5040	47.05
+NI	Nicaragua	2013-01-01	4779	45.73
+NI	Nicaragua	2012-01-01	4535	45.73
+NI	Nicaragua	2011-01-01	4231	45.73
+NI	Nicaragua	2010-01-01	3947	45.73
+NI	Nicaragua	2009-01-01	3781	45.73
+NI	Nicaragua	2008-01-01	3931	40.49
+NI	Nicaragua	2007-01-01	3776	40.49
+NI	Nicaragua	2006-01-01	3546	40.49
+NI	Nicaragua	2005-01-01	3358	40.49
+NI	Nicaragua	2004-01-01	3161	58.03
+NI	Nicaragua	2003-01-01	2959	58.03
+NI	Nicaragua	2002-01-01	2868	58.03
+NI	Nicaragua	2001-01-01	2842	58.03
+NI	Nicaragua	2000-01-01	2739	33.99
+NE	Niger	2016-01-01	978	33.99
+NE	Niger	2015-01-01	955	33.99
+NE	Niger	2014-01-01	948	33.99
+NE	Niger	2013-01-01	904	31.45
+NE	Niger	2012-01-01	878	31.45
+NE	Niger	2011-01-01	801	31.45
+NE	Niger	2010-01-01	797	37.3
+NE	Niger	2009-01-01	755	37.3
+NE	Niger	2008-01-01	783	37.3
+NE	Niger	2007-01-01	728	37.3
+NE	Niger	2006-01-01	713	44.43
+NE	Niger	2005-01-01	679	44.43
+NE	Niger	2004-01-01	653	42.97
+NE	Niger	2003-01-01	658	42.97
+NE	Niger	2002-01-01	636	42.97
+NE	Niger	2001-01-01	630	42.97
+NE	Niger	2000-01-01	596	42.97
+NG	Nigeria	2016-01-01	5867	42.97
+NG	Nigeria	2015-01-01	6037	42.97
+NG	Nigeria	2014-01-01	5974	42.97
+NG	Nigeria	2013-01-01	5670	42.97
+NG	Nigeria	2012-01-01	5437	42.97
+NG	Nigeria	2011-01-01	5259	42.97
+NG	Nigeria	2010-01-01	5045	42.97
+NG	Nigeria	2009-01-01	4747	42.97
+NG	Nigeria	2008-01-01	4525	40.06
+NG	Nigeria	2007-01-01	4288	40.06
+NG	Nigeria	2006-01-01	4014	40.06
+NG	Nigeria	2005-01-01	3694	40.06
+NG	Nigeria	2004-01-01	3550	40.06
+NG	Nigeria	2003-01-01	2650	40.06
+NG	Nigeria	2002-01-01	2415	25.9
+NG	Nigeria	2001-01-01	2351	25.9
+NG	Nigeria	2000-01-01	2257	25.9
+MP	Northern Mariana Islands	2016-01-01	59301	25.9
+MP	Northern Mariana Islands	2015-01-01	59301	25.9
+MP	Northern Mariana Islands	2014-01-01	59301	25.9
+MP	Northern Mariana Islands	2013-01-01	59301	25.9
+MP	Northern Mariana Islands	2012-01-01	59301	25.9
+MP	Northern Mariana Islands	2011-01-01	59301	25.9
+MP	Northern Mariana Islands	2010-01-01	59301	25.9
+MP	Northern Mariana Islands	2009-01-01	59301	25.9
+MP	Northern Mariana Islands	2008-01-01	59301	25.9
+MP	Northern Mariana Islands	2007-01-01	59301	25.9
+MP	Northern Mariana Islands	2006-01-01	59301	25.9
+MP	Northern Mariana Islands	2005-01-01	59301	25.9
+MP	Northern Mariana Islands	2004-01-01	59301	25.9
+MP	Northern Mariana Islands	2003-01-01	59301	25.9
+MP	Northern Mariana Islands	2002-01-01	59301	25.9
+MP	Northern Mariana Islands	2001-01-01	59301	25.9
+MP	Northern Mariana Islands	2000-01-01	59301	25.9
+NO	Norway	2016-01-01	59301	25.9
+NO	Norway	2015-01-01	62053	25.9
+NO	Norway	2014-01-01	65655	25.9
+NO	Norway	2013-01-01	66959	25.9
+NO	Norway	2012-01-01	65380	25.9
+NO	Norway	2011-01-01	62060	25.54
+NO	Norway	2010-01-01	57995	25.86
+NO	Norway	2009-01-01	55459	26.39
+NO	Norway	2008-01-01	61676	27.14
+NO	Norway	2007-01-01	55847	28.07
+NO	Norway	2006-01-01	54110	27.29
+NO	Norway	2005-01-01	47772	32.27
+NO	Norway	2004-01-01	42516	31.72
+NO	Norway	2003-01-01	38530	30.69
+NO	Norway	2002-01-01	37959	30.69
+NO	Norway	2001-01-01	37873	30.69
+NO	Norway	2000-01-01	36927	30.69
+OM	Oman	2016-01-01	42737	30.69
+OM	Oman	2015-01-01	42737	30.69
+OM	Oman	2014-01-01	42433	30.69
+OM	Oman	2013-01-01	43386	30.69
+OM	Oman	2012-01-01	43822	30.69
+OM	Oman	2011-01-01	42121	30.69
+OM	Oman	2010-01-01	44417	30.69
+OM	Oman	2009-01-01	44172	30.69
+OM	Oman	2008-01-01	43170	30.69
+OM	Oman	2007-01-01	40545	30.69
+OM	Oman	2006-01-01	38978	30.69
+OM	Oman	2005-01-01	36913	30.69
+OM	Oman	2004-01-01	35843	30.69
+OM	Oman	2003-01-01	35298	30.69
+OM	Oman	2002-01-01	36333	30.69
+OM	Oman	2001-01-01	36805	30.69
+OM	Oman	2000-01-01	34848	30.69
+PK	Pakistan	2016-01-01	5249	30.69
+PK	Pakistan	2015-01-01	4998	30.69
+PK	Pakistan	2014-01-01	4820	30.69
+PK	Pakistan	2013-01-01	4619	30.69
+PK	Pakistan	2012-01-01	4447	30.93
+PK	Pakistan	2011-01-01	4309	30.93
+PK	Pakistan	2010-01-01	4196	29.8
+PK	Pakistan	2009-01-01	4166	31.84
+PK	Pakistan	2008-01-01	4104	31.84
+PK	Pakistan	2007-01-01	4040	31.84
+PK	Pakistan	2006-01-01	3831	32.72
+PK	Pakistan	2005-01-01	3573	32.72
+PK	Pakistan	2004-01-01	3282	32.51
+PK	Pakistan	2003-01-01	3037	30.37
+PK	Pakistan	2002-01-01	2900	30.37
+PK	Pakistan	2001-01-01	2826	30.37
+PK	Pakistan	2000-01-01	2770	50.7
+PW	Palau	2016-01-01	15373	50.7
+PW	Palau	2015-01-01	15319	50.7
+PW	Palau	2014-01-01	13986	50.7
+PW	Palau	2013-01-01	13288	50.7
+PW	Palau	2012-01-01	13508	50.7
+PW	Palau	2011-01-01	12952	50.7
+PW	Palau	2010-01-01	12157	50.7
+PW	Palau	2009-01-01	11701	50.7
+PW	Palau	2008-01-01	12844	50.7
+PW	Palau	2007-01-01	13417	50.7
+PW	Palau	2006-01-01	13144	50.7
+PW	Palau	2005-01-01	13182	50.7
+PW	Palau	2004-01-01	12677	50.7
+PW	Palau	2003-01-01	11597	50.7
+PW	Palau	2002-01-01	12219	50.7
+PW	Palau	2001-01-01	11389	50.7
+PW	Palau	2000-01-01	10801	50.7
+PA	Panama	2016-01-01	23014	50.7
+PA	Panama	2015-01-01	22012	50.7
+PA	Panama	2014-01-01	20932	50.7
+PA	Panama	2013-01-01	19721	51.66
+PA	Panama	2012-01-01	18518	51.9
+PA	Panama	2011-01-01	16939	51.83
+PA	Panama	2010-01-01	15107	51.91
+PA	Panama	2009-01-01	14362	52.03
+PA	Panama	2008-01-01	14282	52.63
+PA	Panama	2007-01-01	13130	52.97
+PA	Panama	2006-01-01	11629	55.06
+PA	Panama	2005-01-01	10575	53.99
+PA	Panama	2004-01-01	9736	55.06
+PA	Panama	2003-01-01	8979	56.37
+PA	Panama	2002-01-01	8609	56.59
+PA	Panama	2001-01-01	8453	57.3
+PA	Panama	2000-01-01	8379	57.66
+PG	Papua New Guinea	2016-01-01	2760	43.88
+PG	Papua New Guinea	2015-01-01	2760	43.88
+PG	Papua New Guinea	2014-01-01	2760	43.88
+PG	Papua New Guinea	2013-01-01	2552	43.88
+PG	Papua New Guinea	2012-01-01	2432	43.88
+PG	Papua New Guinea	2011-01-01	2258	43.88
+PG	Papua New Guinea	2010-01-01	2044	43.88
+PG	Papua New Guinea	2009-01-01	1919	43.88
+PG	Papua New Guinea	2008-01-01	1837	51.67
+PG	Papua New Guinea	2007-01-01	1730	51.67
+PG	Papua New Guinea	2006-01-01	1611	51.67
+PG	Papua New Guinea	2005-01-01	1566	51.67
+PG	Papua New Guinea	2004-01-01	1462	51.67
+PG	Papua New Guinea	2003-01-01	1420	51.67
+PG	Papua New Guinea	2002-01-01	1397	51.67
+PG	Papua New Guinea	2001-01-01	1413	51.67
+PG	Papua New Guinea	2000-01-01	1419	51.67
+PY	Paraguay	2016-01-01	9576	51.67
+PY	Paraguay	2015-01-01	9198	51.67
+PY	Paraguay	2014-01-01	8955	51.67
+PY	Paraguay	2013-01-01	8514	48.3
+PY	Paraguay	2012-01-01	7447	48.17
+PY	Paraguay	2011-01-01	7504	52.6
+PY	Paraguay	2010-01-01	7142	51.83
+PY	Paraguay	2009-01-01	6322	49.67
+PY	Paraguay	2008-01-01	6621	51.04
+PY	Paraguay	2007-01-01	6188	52.09
+PY	Paraguay	2006-01-01	5799	53.63
+PY	Paraguay	2005-01-01	5448	51.37
+PY	Paraguay	2004-01-01	5251	52.59
+PY	Paraguay	2003-01-01	4996	55.55
+PY	Paraguay	2002-01-01	4780	57.34
+PY	Paraguay	2001-01-01	4797	54.83
+PY	Paraguay	2000-01-01	4822	44.14
+PE	Peru	2016-01-01	13022	44.14
+PE	Peru	2015-01-01	12529	44.14
+PE	Peru	2014-01-01	12161	44.14
+PE	Peru	2013-01-01	11828	44.73
+PE	Peru	2012-01-01	11145	45.11
+PE	Peru	2011-01-01	10449	45.48
+PE	Peru	2010-01-01	9755	46.21
+PE	Peru	2009-01-01	9010	47.96
+PE	Peru	2008-01-01	8956	48.55
+PE	Peru	2007-01-01	8148	51.35
+PE	Peru	2006-01-01	7404	51.67
+PE	Peru	2005-01-01	6762	51.84
+PE	Peru	2004-01-01	6240	51.2
+PE	Peru	2003-01-01	5858	53.71
+PE	Peru	2002-01-01	5584	54.04
+PE	Peru	2001-01-01	5283	51.83
+PE	Peru	2000-01-01	5202	50.77
+PH	Philippines	2016-01-01	7806	43.04
+PH	Philippines	2015-01-01	7319	43.04
+PH	Philippines	2014-01-01	6937	43.04
+PH	Philippines	2013-01-01	6526	43.04
+PH	Philippines	2012-01-01	6099	43.04
+PH	Philippines	2011-01-01	5707	42.91
+PH	Philippines	2010-01-01	5483	42.91
+PH	Philippines	2009-01-01	5115	42.91
+PH	Philippines	2008-01-01	5100	44.2
+PH	Philippines	2007-01-01	4881	44.2
+PH	Philippines	2006-01-01	4535	44.2
+PH	Philippines	2005-01-01	4255	44.04
+PH	Philippines	2004-01-01	4008	44.04
+PH	Philippines	2003-01-01	3729	44.04
+PH	Philippines	2002-01-01	3554	46.17
+PH	Philippines	2001-01-01	3449	46.17
+PH	Philippines	2000-01-01	3348	46.17
+PL	Poland	2016-01-01	27810	32.08
+PL	Poland	2015-01-01	26855	32.08
+PL	Poland	2014-01-01	25707	32.08
+PL	Poland	2013-01-01	24718	32.55
+PL	Poland	2012-01-01	23832	32.39
+PL	Poland	2011-01-01	22850	32.78
+PL	Poland	2010-01-01	21089	33.25
+PL	Poland	2009-01-01	19266	33.58
+PL	Poland	2008-01-01	18310	33.72
+PL	Poland	2007-01-01	16781	33.51
+PL	Poland	2006-01-01	15150	34.71
+PL	Poland	2005-01-01	13895	34.49
+PL	Poland	2004-01-01	13350	35.43
+PL	Poland	2003-01-01	12256	34.91
+PL	Poland	2002-01-01	11781	34.05
+PL	Poland	2001-01-01	11127	32.85
+PL	Poland	2000-01-01	10644	32.97
+PT	Portugal	2016-01-01	30624	36.04
+PT	Portugal	2015-01-01	29687	36.04
+PT	Portugal	2014-01-01	28806	36.04
+PT	Portugal	2013-01-01	27899	36.04
+PT	Portugal	2012-01-01	26454	36.04
+PT	Portugal	2011-01-01	26780	36.34
+PT	Portugal	2010-01-01	27360	35.84
+PT	Portugal	2009-01-01	26496	34.91
+PT	Portugal	2008-01-01	26631	36.63
+PT	Portugal	2007-01-01	25695	36.75
+PT	Portugal	2006-01-01	24669	38.06
+PT	Portugal	2005-01-01	22739	38.47
+PT	Portugal	2004-01-01	21490	38.9
+PT	Portugal	2003-01-01	20839	27.45
+PT	Portugal	2002-01-01	20367	27.45
+PT	Portugal	2001-01-01	19585	27.45
+PT	Portugal	2000-01-01	18872	27.45
+PR	Puerto Rico	2016-01-01	35023	27.45
+PR	Puerto Rico	2015-01-01	35023	27.45
+PR	Puerto Rico	2014-01-01	35023	27.45
+PR	Puerto Rico	2013-01-01	35023	27.45
+PR	Puerto Rico	2012-01-01	34272	27.45
+PR	Puerto Rico	2011-01-01	34195	27.45
+PR	Puerto Rico	2010-01-01	33756	27.45
+PR	Puerto Rico	2009-01-01	34071	27.45
+PR	Puerto Rico	2008-01-01	34443	27.45
+PR	Puerto Rico	2007-01-01	34198	27.45
+PR	Puerto Rico	2006-01-01	34256	27.45
+PR	Puerto Rico	2005-01-01	33392	27.45
+PR	Puerto Rico	2004-01-01	32122	27.45
+PR	Puerto Rico	2003-01-01	30727	27.45
+PR	Puerto Rico	2002-01-01	29790	27.45
+PR	Puerto Rico	2001-01-01	28866	27.45
+PR	Puerto Rico	2000-01-01	25747	27.45
+QA	Qatar	2016-01-01	127522	27.45
+QA	Qatar	2015-01-01	127500	27.45
+QA	Qatar	2014-01-01	127313	27.45
+QA	Qatar	2013-01-01	126913	27.45
+QA	Qatar	2012-01-01	127610	27.45
+QA	Qatar	2011-01-01	129349	27.45
+QA	Qatar	2010-01-01	122609	27.45
+QA	Qatar	2009-01-01	113312	27.45
+QA	Qatar	2008-01-01	115012	27.45
+QA	Qatar	2007-01-01	111959	27.45
+QA	Qatar	2006-01-01	108831	27.45
+QA	Qatar	2005-01-01	97767	27.45
+QA	Qatar	2004-01-01	100426	27.45
+QA	Qatar	2003-01-01	90348	27.45
+QA	Qatar	2002-01-01	91083	27.45
+QA	Qatar	2001-01-01	87599	27.45
+QA	Qatar	2000-01-01	85860	27.45
+RO	Romania	2016-01-01	23626	27.45
+RO	Romania	2015-01-01	22070	27.45
+RO	Romania	2014-01-01	20796	27.45
+RO	Romania	2013-01-01	19877	27.45
+RO	Romania	2012-01-01	18983	34.88
+RO	Romania	2011-01-01	18094	35.33
+RO	Romania	2010-01-01	17180	35.3
+RO	Romania	2009-01-01	16013	35.24
+RO	Romania	2008-01-01	16302	36.93
+RO	Romania	2007-01-01	13442	30.21
+RO	Romania	2006-01-01	11694	30.46
+RO	Romania	2005-01-01	9723	29.82
+RO	Romania	2004-01-01	9137	30.04
+RO	Romania	2003-01-01	7820	29.91
+RO	Romania	2002-01-01	7179	30.23
+RO	Romania	2001-01-01	6588	29.43
+RO	Romania	2000-01-01	5873	29.32
+RU	Russian Federation	2016-01-01	23162	41.59
+RU	Russian Federation	2015-01-01	23702	41.59
+RU	Russian Federation	2014-01-01	25477	41.59
+RU	Russian Federation	2013-01-01	25480	41.59
+RU	Russian Federation	2012-01-01	25316	41.59
+RU	Russian Federation	2011-01-01	24074	41.04
+RU	Russian Federation	2010-01-01	20497	40.94
+RU	Russian Federation	2009-01-01	19386	39.69
+RU	Russian Federation	2008-01-01	20163	41.42
+RU	Russian Federation	2007-01-01	16648	42.33
+RU	Russian Federation	2006-01-01	14916	41.54
+RU	Russian Federation	2005-01-01	11822	41.37
+RU	Russian Federation	2004-01-01	10231	40.92
+RU	Russian Federation	2003-01-01	9253	40.69
+RU	Russian Federation	2002-01-01	8029	37.28
+RU	Russian Federation	2001-01-01	7367	39.6
+RU	Russian Federation	2000-01-01	6825	37.09
+RW	Rwanda	2016-01-01	1913	50.44
+RW	Rwanda	2015-01-01	1826	50.44
+RW	Rwanda	2014-01-01	1701	50.44
+RW	Rwanda	2013-01-01	1592	50.44
+RW	Rwanda	2012-01-01	1535	51.34
+RW	Rwanda	2011-01-01	1421	51.34
+RW	Rwanda	2010-01-01	1325	51.34
+RW	Rwanda	2009-01-01	1253	52.04
+RW	Rwanda	2008-01-01	1203	52.04
+RW	Rwanda	2007-01-01	1090	52.04
+RW	Rwanda	2006-01-01	1012	52.04
+RW	Rwanda	2005-01-01	920	52.04
+RW	Rwanda	2004-01-01	831	48.55
+RW	Rwanda	2003-01-01	765	48.55
+RW	Rwanda	2002-01-01	746	48.55
+RW	Rwanda	2001-01-01	665	48.55
+RW	Rwanda	2000-01-01	622	48.55
+WS	Samoa	2016-01-01	6345	42.69
+WS	Samoa	2015-01-01	5918	42.69
+WS	Samoa	2014-01-01	5805	42.69
+WS	Samoa	2013-01-01	5681	42.69
+WS	Samoa	2012-01-01	5748	42.69
+WS	Samoa	2011-01-01	5667	42.69
+WS	Samoa	2010-01-01	5290	42.69
+WS	Samoa	2009-01-01	5240	42.69
+WS	Samoa	2008-01-01	5502	42.69
+WS	Samoa	2007-01-01	5379	30.82
+WS	Samoa	2006-01-01	4960	30.82
+WS	Samoa	2005-01-01	4750	30.82
+WS	Samoa	2004-01-01	4447	30.82
+WS	Samoa	2003-01-01	4162	30.82
+WS	Samoa	2002-01-01	3928	30.82
+WS	Samoa	2001-01-01	3729	30.82
+WS	Samoa	2000-01-01	3428	30.82
+SM	San Marino	2016-01-01	3229	30.82
+SM	San Marino	2015-01-01	3229	30.82
+SM	San Marino	2014-01-01	3229	30.82
+SM	San Marino	2013-01-01	3229	30.82
+SM	San Marino	2012-01-01	3229	30.82
+SM	San Marino	2011-01-01	3229	30.82
+SM	San Marino	2010-01-01	3229	30.82
+SM	San Marino	2009-01-01	3229	30.82
+SM	San Marino	2008-01-01	3229	30.82
+SM	San Marino	2007-01-01	3229	30.82
+SM	San Marino	2006-01-01	3229	30.82
+SM	San Marino	2005-01-01	3229	30.82
+SM	San Marino	2004-01-01	3229	30.82
+SM	San Marino	2003-01-01	3229	30.82
+SM	San Marino	2002-01-01	3229	30.82
+SM	San Marino	2001-01-01	3229	30.82
+SM	San Marino	2000-01-01	3229	30.82
+ST	Sao Tome and Principe	2016-01-01	3229	30.82
+ST	Sao Tome and Principe	2015-01-01	3132	30.82
+ST	Sao Tome and Principe	2014-01-01	3047	30.82
+ST	Sao Tome and Principe	2013-01-01	2882	30.82
+ST	Sao Tome and Principe	2012-01-01	2768	30.82
+ST	Sao Tome and Principe	2011-01-01	2695	30.82
+ST	Sao Tome and Principe	2010-01-01	2588	30.82
+ST	Sao Tome and Principe	2009-01-01	2452	32.13
+ST	Sao Tome and Principe	2008-01-01	2431	32.13
+ST	Sao Tome and Principe	2007-01-01	2256	32.13
+ST	Sao Tome and Principe	2006-01-01	2178	32.13
+ST	Sao Tome and Principe	2005-01-01	1983	32.13
+ST	Sao Tome and Principe	2004-01-01	1837	32.13
+ST	Sao Tome and Principe	2003-01-01	1764	32.13
+ST	Sao Tome and Principe	2002-01-01	1661	32.13
+ST	Sao Tome and Principe	2001-01-01	1635	32.13
+ST	Sao Tome and Principe	2000-01-01	54430	32.13
+SA	Saudi Arabia	2016-01-01	54430	40.29
+SA	Saudi Arabia	2015-01-01	54007	40.29
+SA	Saudi Arabia	2014-01-01	52626	40.29
+SA	Saudi Arabia	2013-01-01	51264	40.29
+SA	Saudi Arabia	2012-01-01	50573	40.29
+SA	Saudi Arabia	2011-01-01	48524	40.29
+SA	Saudi Arabia	2010-01-01	44502	40.29
+SA	Saudi Arabia	2009-01-01	43055	40.29
+SA	Saudi Arabia	2008-01-01	44841	40.29
+SA	Saudi Arabia	2007-01-01	42520	40.29
+SA	Saudi Arabia	2006-01-01	41782	40.29
+SA	Saudi Arabia	2005-01-01	40547	40.29
+SA	Saudi Arabia	2004-01-01	38293	40.29
+SA	Saudi Arabia	2003-01-01	35550	40.29
+SA	Saudi Arabia	2002-01-01	32262	40.29
+SA	Saudi Arabia	2001-01-01	33621	40.29
+SA	Saudi Arabia	2000-01-01	34139	40.29
+SN	Senegal	2016-01-01	2567	40.29
+SN	Senegal	2015-01-01	2445	40.29
+SN	Senegal	2014-01-01	2339	40.29
+SN	Senegal	2013-01-01	2269	40.29
+SN	Senegal	2012-01-01	2223	40.29
+SN	Senegal	2011-01-01	2154	40.29
+SN	Senegal	2010-01-01	2136	39.22
+SN	Senegal	2009-01-01	2084	39.22
+SN	Senegal	2008-01-01	2077	39.22
+SN	Senegal	2007-01-01	2020	39.22
+SN	Senegal	2006-01-01	1926	39.22
+SN	Senegal	2005-01-01	1873	39.22
+SN	Senegal	2004-01-01	1765	41.23
+SN	Senegal	2003-01-01	1665	41.23
+SN	Senegal	2002-01-01	1571	41.23
+SN	Senegal	2001-01-01	1577	41.23
+SN	Senegal	2000-01-01	1511	29.06
+RS	Serbia	2016-01-01	14511	29.06
+RS	Serbia	2015-01-01	14111	29.06
+RS	Serbia	2014-01-01	13806	29.06
+RS	Serbia	2013-01-01	13772	29.06
+RS	Serbia	2012-01-01	13107	29.65
+RS	Serbia	2011-01-01	12967	29.65
+RS	Serbia	2010-01-01	12098	29.65
+RS	Serbia	2009-01-01	11841	28.67
+RS	Serbia	2008-01-01	11921	28.18
+RS	Serbia	2007-01-01	10472	29.43
+RS	Serbia	2006-01-01	9615	29.67
+RS	Serbia	2005-01-01	8707	33.43
+RS	Serbia	2004-01-01	8070	32.98
+RS	Serbia	2003-01-01	7197	32.83
+RS	Serbia	2002-01-01	6800	31.97
+RS	Serbia	2001-01-01	6151	46.82
+RS	Serbia	2000-01-01	5721	46.82
+SC	Seychelles	2016-01-01	28391	46.82
+SC	Seychelles	2015-01-01	27177	46.82
+SC	Seychelles	2014-01-01	26564	46.82
+SC	Seychelles	2013-01-01	25655	46.82
+SC	Seychelles	2012-01-01	24251	42.77
+SC	Seychelles	2011-01-01	22556	42.77
+SC	Seychelles	2010-01-01	19953	42.77
+SC	Seychelles	2009-01-01	19131	42.77
+SC	Seychelles	2008-01-01	19274	42.77
+SC	Seychelles	2007-01-01	19755	42.77
+SC	Seychelles	2006-01-01	17516	42.77
+SC	Seychelles	2005-01-01	15859	33.99
+SC	Seychelles	2004-01-01	14161	33.99
+SC	Seychelles	2003-01-01	14134	33.99
+SC	Seychelles	2002-01-01	14559	33.99
+SC	Seychelles	2001-01-01	14607	33.99
+SC	Seychelles	2000-01-01	14626	33.99
+SL	Sierra Leone	2016-01-01	1473	33.99
+SL	Sierra Leone	2015-01-01	1401	33.99
+SL	Sierra Leone	2014-01-01	1782	33.99
+SL	Sierra Leone	2013-01-01	1712	33.99
+SL	Sierra Leone	2012-01-01	1428	33.99
+SL	Sierra Leone	2011-01-01	1246	33.99
+SL	Sierra Leone	2010-01-01	1192	40.17
+SL	Sierra Leone	2009-01-01	1144	40.17
+SL	Sierra Leone	2008-01-01	1110	40.17
+SL	Sierra Leone	2007-01-01	1059	40.17
+SL	Sierra Leone	2006-01-01	982	40.17
+SL	Sierra Leone	2005-01-01	933	40.17
+SL	Sierra Leone	2004-01-01	901	40.17
+SL	Sierra Leone	2003-01-01	862	40.17
+SL	Sierra Leone	2002-01-01	811	26.12
+SL	Sierra Leone	2001-01-01	661	26.12
+SL	Sierra Leone	2000-01-01	723	26.12
+SG	Singapore	2016-01-01	87855	26.12
+SG	Singapore	2015-01-01	86128	26.12
+SG	Singapore	2014-01-01	84593	26.12
+SG	Singapore	2013-01-01	81287	26.12
+SG	Singapore	2012-01-01	77429	26.12
+SG	Singapore	2011-01-01	75013	26.12
+SG	Singapore	2010-01-01	70646	26.12
+SG	Singapore	2009-01-01	61646	26.12
+SG	Singapore	2008-01-01	63438	26.12
+SG	Singapore	2007-01-01	64466	26.12
+SG	Singapore	2006-01-01	59999	26.12
+SG	Singapore	2005-01-01	55172	26.12
+SG	Singapore	2004-01-01	50911	26.12
+SG	Singapore	2003-01-01	45799	26.12
+SG	Singapore	2002-01-01	42367	26.12
+SG	Singapore	2001-01-01	40408	26.12
+SG	Singapore	2000-01-01	40978	26.12
+SX	Sint Maarten (Dutch part)	2016-01-01	36327	26.12
+SX	Sint Maarten (Dutch part)	2015-01-01	36327	26.12
+SX	Sint Maarten (Dutch part)	2014-01-01	36327	26.12
+SX	Sint Maarten (Dutch part)	2013-01-01	36327	26.12
+SX	Sint Maarten (Dutch part)	2012-01-01	36327	26.12
+SX	Sint Maarten (Dutch part)	2011-01-01	36327	26.12
+SX	Sint Maarten (Dutch part)	2010-01-01	30631	26.12
+SX	Sint Maarten (Dutch part)	2009-01-01	30631	26.12
+SX	Sint Maarten (Dutch part)	2008-01-01	30631	26.12
+SX	Sint Maarten (Dutch part)	2007-01-01	30631	26.12
+SX	Sint Maarten (Dutch part)	2006-01-01	30631	26.12
+SX	Sint Maarten (Dutch part)	2005-01-01	30631	26.12
+SX	Sint Maarten (Dutch part)	2004-01-01	30631	26.12
+SX	Sint Maarten (Dutch part)	2003-01-01	30631	26.12
+SX	Sint Maarten (Dutch part)	2002-01-01	30631	26.12
+SX	Sint Maarten (Dutch part)	2001-01-01	30631	26.12
+SX	Sint Maarten (Dutch part)	2000-01-01	30631	26.12
+SK	Slovak Republic	2016-01-01	30631	26.12
+SK	Slovak Republic	2015-01-01	29907	26.12
+SK	Slovak Republic	2014-01-01	29020	26.12
+SK	Slovak Republic	2013-01-01	27897	26.12
+SK	Slovak Republic	2012-01-01	26647	26.12
+SK	Slovak Republic	2011-01-01	25835	26.58
+SK	Slovak Republic	2010-01-01	25010	27.32
+SK	Slovak Republic	2009-01-01	23082	26.02
+SK	Slovak Republic	2008-01-01	23691	26.08
+SK	Slovak Republic	2007-01-01	21156	24.74
+SK	Slovak Republic	2006-01-01	18875	27.71
+SK	Slovak Republic	2005-01-01	16616	29.33
+SK	Slovak Republic	2004-01-01	15198	28.94
+SK	Slovak Republic	2003-01-01	14138	25.59
+SK	Slovak Republic	2002-01-01	13294	25.59
+SK	Slovak Republic	2001-01-01	12399	25.59
+SK	Slovak Republic	2000-01-01	11347	25.59
+SI	Slovenia	2016-01-01	32884	25.59
+SI	Slovenia	2015-01-01	31964	25.59
+SI	Slovenia	2014-01-01	30994	25.59
+SI	Slovenia	2013-01-01	29531	25.59
+SI	Slovenia	2012-01-01	28841	25.59
+SI	Slovenia	2011-01-01	28804	24.87
+SI	Slovenia	2010-01-01	27792	24.94
+SI	Slovenia	2009-01-01	27504	24.83
+SI	Slovenia	2008-01-01	29624	23.72
+SI	Slovenia	2007-01-01	27594	24.37
+SI	Slovenia	2006-01-01	25777	24.48
+SI	Slovenia	2005-01-01	23945	24.63
+SI	Slovenia	2004-01-01	22792	24.84
+SI	Slovenia	2003-01-01	21132	30.87
+SI	Slovenia	2002-01-01	20305	29.12
+SI	Slovenia	2001-01-01	18998	46.1
+SI	Slovenia	2000-01-01	18036	46.1
+SB	Solomon Islands	2016-01-01	2235	46.1
+SB	Solomon Islands	2015-01-01	2186	46.1
+SB	Solomon Islands	2014-01-01	2128	46.1
+SB	Solomon Islands	2013-01-01	2103	46.1
+SB	Solomon Islands	2012-01-01	2053	46.1
+SB	Solomon Islands	2011-01-01	1969	46.1
+SB	Solomon Islands	2010-01-01	1746	46.1
+SB	Solomon Islands	2009-01-01	1651	46.1
+SB	Solomon Islands	2008-01-01	1759	46.1
+SB	Solomon Islands	2007-01-01	1648	46.1
+SB	Solomon Islands	2006-01-01	1532	46.1
+SB	Solomon Islands	2005-01-01	1424	46.1
+SB	Solomon Islands	2004-01-01	1342	63.38
+SB	Solomon Islands	2003-01-01	1277	63.38
+SB	Solomon Islands	2002-01-01	1206	63.38
+SB	Solomon Islands	2001-01-01	1255	63.38
+SB	Solomon Islands	2000-01-01	1370	63.38
+SO	Somalia	2016-01-01	13225	63.38
+SO	Somalia	2015-01-01	13225	63.38
+SO	Somalia	2014-01-01	13225	63.38
+SO	Somalia	2013-01-01	13225	63.38
+SO	Somalia	2012-01-01	13225	63.38
+SO	Somalia	2011-01-01	13225	63.38
+SO	Somalia	2010-01-01	13225	63.38
+SO	Somalia	2009-01-01	13225	63.38
+SO	Somalia	2008-01-01	13225	63.38
+SO	Somalia	2007-01-01	13225	63.38
+SO	Somalia	2006-01-01	13225	63.38
+SO	Somalia	2005-01-01	13225	63.38
+SO	Somalia	2004-01-01	13225	63.38
+SO	Somalia	2003-01-01	13225	63.38
+SO	Somalia	2002-01-01	13225	63.38
+SO	Somalia	2001-01-01	13225	63.38
+SO	Somalia	2000-01-01	13225	63.38
+ZA	South Africa	2016-01-01	13225	63.38
+ZA	South Africa	2015-01-01	13229	63.38
+ZA	South Africa	2014-01-01	13127	63.38
+ZA	South Africa	2013-01-01	12879	63.38
+ZA	South Africa	2012-01-01	12556	63.38
+ZA	South Africa	2011-01-01	12243	63.38
+ZA	South Africa	2010-01-01	11785	63.01
+ZA	South Africa	2009-01-01	11462	63.01
+ZA	South Africa	2008-01-01	11716	63.01
+ZA	South Africa	2007-01-01	11289	64.79
+ZA	South Africa	2006-01-01	10577	64.79
+ZA	South Africa	2005-01-01	9846	57.77
+ZA	South Africa	2004-01-01	9177	57.77
+ZA	South Africa	2003-01-01	8650	57.77
+ZA	South Africa	2002-01-01	8339	57.77
+ZA	South Africa	2001-01-01	8017	57.77
+ZA	South Africa	2000-01-01	7700	57.77
+SS	South Sudan	2016-01-01	1925	46.34
+SS	South Sudan	2015-01-01	1925	46.34
+SS	South Sudan	2014-01-01	2095	46.34
+SS	South Sudan	2013-01-01	2054	46.34
+SS	South Sudan	2012-01-01	1846	46.34
+SS	South Sudan	2011-01-01	3482	46.34
+SS	South Sudan	2010-01-01	3713	46.34
+SS	South Sudan	2009-01-01	3620	46.34
+SS	South Sudan	2008-01-01	3570	35.89
+SS	South Sudan	2007-01-01	36309	35.89
+SS	South Sudan	2006-01-01	36309	35.89
+SS	South Sudan	2005-01-01	36309	35.89
+SS	South Sudan	2004-01-01	36309	35.89
+SS	South Sudan	2003-01-01	36309	35.89
+SS	South Sudan	2002-01-01	36309	35.89
+SS	South Sudan	2001-01-01	36309	35.89
+SS	South Sudan	2000-01-01	36309	35.89
+ES	Spain	2016-01-01	36309	35.89
+ES	Spain	2015-01-01	34696	35.89
+ES	Spain	2014-01-01	33658	35.89
+ES	Spain	2013-01-01	32602	35.89
+ES	Spain	2012-01-01	31986	35.89
+ES	Spain	2011-01-01	32067	36.1
+ES	Spain	2010-01-01	31984	35.79
+ES	Spain	2009-01-01	32423	35.39
+ES	Spain	2008-01-01	33463	34.8
+ES	Spain	2007-01-01	32584	33.86
+ES	Spain	2006-01-01	30832	32.67
+ES	Spain	2005-01-01	27702	32.5
+ES	Spain	2004-01-01	26198	33.38
+ES	Spain	2003-01-01	25054	39.16
+ES	Spain	2002-01-01	24363	39.16
+ES	Spain	2001-01-01	22963	39.16
+ES	Spain	2000-01-01	21517	39.16
+LK	Sri Lanka	2016-01-01	12316	39.16
+LK	Sri Lanka	2015-01-01	11777	39.16
+LK	Sri Lanka	2014-01-01	11219	39.16
+LK	Sri Lanka	2013-01-01	10595	39.16
+LK	Sri Lanka	2012-01-01	10163	39.16
+LK	Sri Lanka	2011-01-01	9213	36.39
+LK	Sri Lanka	2010-01-01	8389	36.39
+LK	Sri Lanka	2009-01-01	7731	36.39
+LK	Sri Lanka	2008-01-01	7467	40.25
+LK	Sri Lanka	2007-01-01	6964	40.25
+LK	Sri Lanka	2006-01-01	6400	40.25
+LK	Sri Lanka	2005-01-01	5811	40.96
+LK	Sri Lanka	2004-01-01	5339	40.96
+LK	Sri Lanka	2003-01-01	4965	40.96
+LK	Sri Lanka	2002-01-01	4630	40.96
+LK	Sri Lanka	2001-01-01	4419	35.39
+LK	Sri Lanka	2000-01-01	4422	35.39
+KN	St. Kitts and Nevis	2016-01-01	26685	35.39
+KN	St. Kitts and Nevis	2015-01-01	25681	35.39
+KN	St. Kitts and Nevis	2014-01-01	24736	35.39
+KN	St. Kitts and Nevis	2013-01-01	23180	35.39
+KN	St. Kitts and Nevis	2012-01-01	21711	35.39
+KN	St. Kitts and Nevis	2011-01-01	21689	35.39
+KN	St. Kitts and Nevis	2010-01-01	20979	35.39
+KN	St. Kitts and Nevis	2009-01-01	21435	35.39
+KN	St. Kitts and Nevis	2008-01-01	22178	35.39
+KN	St. Kitts and Nevis	2007-01-01	20689	35.39
+KN	St. Kitts and Nevis	2006-01-01	20423	35.39
+KN	St. Kitts and Nevis	2005-01-01	19702	35.39
+KN	St. Kitts and Nevis	2004-01-01	17782	35.39
+KN	St. Kitts and Nevis	2003-01-01	16939	35.39
+KN	St. Kitts and Nevis	2002-01-01	17476	35.39
+KN	St. Kitts and Nevis	2001-01-01	17016	35.39
+KN	St. Kitts and Nevis	2000-01-01	15989	35.39
+LC	St. Lucia	2016-01-01	11545	35.39
+LC	St. Lucia	2015-01-01	11368	35.39
+LC	St. Lucia	2014-01-01	11084	35.39
+LC	St. Lucia	2013-01-01	10895	35.39
+LC	St. Lucia	2012-01-01	10766	35.39
+LC	St. Lucia	2011-01-01	10789	35.39
+LC	St. Lucia	2010-01-01	10622	35.39
+LC	St. Lucia	2009-01-01	10772	35.39
+LC	St. Lucia	2008-01-01	10844	35.39
+LC	St. Lucia	2007-01-01	10327	35.39
+LC	St. Lucia	2006-01-01	10076	35.39
+LC	St. Lucia	2005-01-01	9245	35.39
+LC	St. Lucia	2004-01-01	9082	35.39
+LC	St. Lucia	2003-01-01	8276	35.39
+LC	St. Lucia	2002-01-01	7809	35.39
+LC	St. Lucia	2001-01-01	7730	35.39
+LC	St. Lucia	2000-01-01	7930	35.39
+MF	St. Martin (French part)	2016-01-01	11605	35.39
+MF	St. Martin (French part)	2015-01-01	11605	35.39
+MF	St. Martin (French part)	2014-01-01	11605	35.39
+MF	St. Martin (French part)	2013-01-01	11605	35.39
+MF	St. Martin (French part)	2012-01-01	11605	35.39
+MF	St. Martin (French part)	2011-01-01	11605	35.39
+MF	St. Martin (French part)	2010-01-01	11605	35.39
+MF	St. Martin (French part)	2009-01-01	11605	35.39
+MF	St. Martin (French part)	2008-01-01	11605	35.39
+MF	St. Martin (French part)	2007-01-01	11605	35.39
+MF	St. Martin (French part)	2006-01-01	11605	35.39
+MF	St. Martin (French part)	2005-01-01	11605	35.39
+MF	St. Martin (French part)	2004-01-01	11605	35.39
+MF	St. Martin (French part)	2003-01-01	11605	35.39
+MF	St. Martin (French part)	2002-01-01	11605	35.39
+MF	St. Martin (French part)	2001-01-01	11605	35.39
+MF	St. Martin (French part)	2000-01-01	11605	35.39
+VC	St. Vincent and the Grenadines	2016-01-01	11605	35.39
+VC	St. Vincent and the Grenadines	2015-01-01	11140	35.39
+VC	St. Vincent and the Grenadines	2014-01-01	10857	35.39
+VC	St. Vincent and the Grenadines	2013-01-01	10548	35.39
+VC	St. Vincent and the Grenadines	2012-01-01	10193	35.39
+VC	St. Vincent and the Grenadines	2011-01-01	9871	35.39
+VC	St. Vincent and the Grenadines	2010-01-01	9714	35.39
+VC	St. Vincent and the Grenadines	2009-01-01	9936	35.39
+VC	St. Vincent and the Grenadines	2008-01-01	10081	35.39
+VC	St. Vincent and the Grenadines	2007-01-01	9279	35.39
+VC	St. Vincent and the Grenadines	2006-01-01	9195	35.39
+VC	St. Vincent and the Grenadines	2005-01-01	8297	35.39
+VC	St. Vincent and the Grenadines	2004-01-01	7856	35.39
+VC	St. Vincent and the Grenadines	2003-01-01	7355	35.39
+VC	St. Vincent and the Grenadines	2002-01-01	6709	35.39
+VC	St. Vincent and the Grenadines	2001-01-01	6223	35.39
+VC	St. Vincent and the Grenadines	2000-01-01	5988	35.39
+SD	Sudan	2016-01-01	4730	35.39
+SD	Sudan	2015-01-01	4568	35.39
+SD	Sudan	2014-01-01	4411	35.39
+SD	Sudan	2013-01-01	4322	35.39
+SD	Sudan	2012-01-01	4172	35.39
+SD	Sudan	2011-01-01	3631	35.39
+SD	Sudan	2010-01-01	3298	35.39
+SD	Sudan	2009-01-01	3231	35.39
+SD	Sudan	2008-01-01	3187	51.45
+SD	Sudan	2007-01-01	2975	51.45
+SD	Sudan	2006-01-01	2668	51.45
+SD	Sudan	2005-01-01	2415	51.45
+SD	Sudan	2004-01-01	2237	51.45
+SD	Sudan	2003-01-01	2154	51.45
+SD	Sudan	2002-01-01	2016	51.45
+SD	Sudan	2001-01-01	1919	51.45
+SD	Sudan	2000-01-01	1812	51.45
+SR	Suriname	2016-01-01	14146	51.45
+SR	Suriname	2015-01-01	15722	51.45
+SR	Suriname	2014-01-01	16141	51.45
+SR	Suriname	2013-01-01	15956	51.45
+SR	Suriname	2012-01-01	15410	51.45
+SR	Suriname	2011-01-01	14887	51.45
+SR	Suriname	2010-01-01	13924	51.45
+SR	Suriname	2009-01-01	13218	51.45
+SR	Suriname	2008-01-01	12869	51.45
+SR	Suriname	2007-01-01	12249	51.45
+SR	Suriname	2006-01-01	11473	51.45
+SR	Suriname	2005-01-01	10834	51.45
+SR	Suriname	2004-01-01	10146	51.45
+SR	Suriname	2003-01-01	9136	51.45
+SR	Suriname	2002-01-01	8542	51.45
+SR	Suriname	2001-01-01	8155	51.45
+SR	Suriname	2000-01-01	7713	51.45
+SZ	Swaziland	2016-01-01	8342	51.45
+SZ	Swaziland	2015-01-01	8575	51.45
+SZ	Swaziland	2014-01-01	8515	51.45
+SZ	Swaziland	2013-01-01	8174	51.45
+SZ	Swaziland	2012-01-01	7668	51.45
+SZ	Swaziland	2011-01-01	7323	51.45
+SZ	Swaziland	2010-01-01	7148	51.45
+SZ	Swaziland	2009-01-01	6932	51.45
+SZ	Swaziland	2008-01-01	6901	53.11
+SZ	Swaziland	2007-01-01	6834	53.11
+SZ	Swaziland	2006-01-01	6476	53.11
+SZ	Swaziland	2005-01-01	6006	53.11
+SZ	Swaziland	2004-01-01	5544	53.11
+SZ	Swaziland	2003-01-01	5243	53.11
+SZ	Swaziland	2002-01-01	4978	53.11
+SZ	Swaziland	2001-01-01	4732	53.11
+SZ	Swaziland	2000-01-01	4628	53.11
+SE	Sweden	2016-01-01	49174	27.32
+SE	Sweden	2015-01-01	47823	27.32
+SE	Sweden	2014-01-01	46404	27.32
+SE	Sweden	2013-01-01	45673	27.32
+SE	Sweden	2012-01-01	44724	27.32
+SE	Sweden	2011-01-01	43755	27.24
+SE	Sweden	2010-01-01	41667	26.81
+SE	Sweden	2009-01-01	39693	26.61
+SE	Sweden	2008-01-01	41853	27.13
+SE	Sweden	2007-01-01	40563	26.92
+SE	Sweden	2006-01-01	37439	26.47
+SE	Sweden	2005-01-01	33967	27.1
+SE	Sweden	2004-01-01	33551	26.43
+SE	Sweden	2003-01-01	31470	31.64
+SE	Sweden	2002-01-01	30587	31.64
+SE	Sweden	2001-01-01	29701	31.64
+SE	Sweden	2000-01-01	29257	31.64
+CH	Switzerland	2004-01-01	39135	31.64
+CH	Switzerland	2003-01-01	37611	31.64
+CH	Switzerland	2002-01-01	37682	31.64
+CH	Switzerland	2001-01-01	36862	31.64
+CH	Switzerland	2000-01-01	35675	31.64
+CH	Switzerland	2016-01-01	62881	31.64
+CH	Switzerland	2015-01-01	62499	31.64
+CH	Switzerland	2014-01-01	61227	31.64
+CH	Switzerland	2013-01-01	59788	31.64
+CH	Switzerland	2012-01-01	57590	31.64
+CH	Switzerland	2011-01-01	55918	31.83
+CH	Switzerland	2010-01-01	52935	32.72
+CH	Switzerland	2009-01-01	51632	32.96
+CH	Switzerland	2008-01-01	52317	33.96
+CH	Switzerland	2007-01-01	49467	34.47
+CH	Switzerland	2006-01-01	44951	30.76
+CH	Switzerland	2005-01-01	40457	30.76
+SY	Syrian Arab Republic	2016-01-01	2980	30.76
+SY	Syrian Arab Republic	2015-01-01	2980	30.76
+SY	Syrian Arab Republic	2014-01-01	2980	30.76
+SY	Syrian Arab Republic	2013-01-01	2980	30.76
+SY	Syrian Arab Republic	2012-01-01	2980	30.76
+SY	Syrian Arab Republic	2011-01-01	2980	30.76
+SY	Syrian Arab Republic	2010-01-01	2980	30.76
+SY	Syrian Arab Republic	2009-01-01	2980	30.76
+SY	Syrian Arab Republic	2008-01-01	2980	30.76
+SY	Syrian Arab Republic	2007-01-01	2980	30.76
+SY	Syrian Arab Republic	2006-01-01	2980	30.76
+SY	Syrian Arab Republic	2005-01-01	2980	30.76
+SY	Syrian Arab Republic	2004-01-01	2980	30.76
+SY	Syrian Arab Republic	2003-01-01	2980	30.76
+SY	Syrian Arab Republic	2002-01-01	2980	30.76
+SY	Syrian Arab Republic	2001-01-01	2980	30.76
+SY	Syrian Arab Republic	2000-01-01	2980	30.76
+TJ	Tajikistan	2016-01-01	2980	30.76
+TJ	Tajikistan	2015-01-01	2811	30.76
+TJ	Tajikistan	2014-01-01	2682	30.76
+TJ	Tajikistan	2013-01-01	2525	30.41
+TJ	Tajikistan	2012-01-01	2367	30.52
+TJ	Tajikistan	2011-01-01	2211	30.77
+TJ	Tajikistan	2010-01-01	2063	30.77
+TJ	Tajikistan	2009-01-01	1957	30.77
+TJ	Tajikistan	2008-01-01	1913	32.19
+TJ	Tajikistan	2007-01-01	1777	32.19
+TJ	Tajikistan	2006-01-01	1641	33.6
+TJ	Tajikistan	2005-01-01	1519	33.6
+TJ	Tajikistan	2004-01-01	1408	33.6
+TJ	Tajikistan	2003-01-01	1268	32.72
+TJ	Tajikistan	2002-01-01	1143	37.78
+TJ	Tajikistan	2001-01-01	1035	37.78
+TJ	Tajikistan	2000-01-01	935	37.78
+TZ	Tanzania	2016-01-01	2786	37.78
+TZ	Tanzania	2015-01-01	2652	37.78
+TZ	Tanzania	2014-01-01	2530	37.78
+TZ	Tanzania	2013-01-01	2397	37.78
+TZ	Tanzania	2012-01-01	2268	37.78
+TZ	Tanzania	2011-01-01	2186	37.78
+TZ	Tanzania	2010-01-01	2048	40.28
+TZ	Tanzania	2009-01-01	1963	40.28
+TZ	Tanzania	2008-01-01	1908	40.28
+TZ	Tanzania	2007-01-01	1830	40.28
+TZ	Tanzania	2006-01-01	1695	37.3
+TZ	Tanzania	2005-01-01	1620	37.3
+TZ	Tanzania	2004-01-01	1495	37.3
+TZ	Tanzania	2003-01-01	1389	37.3
+TZ	Tanzania	2002-01-01	1311	37.3
+TZ	Tanzania	2001-01-01	1239	37.3
+TZ	Tanzania	2000-01-01	1174	37.3
+TH	Thailand	2016-01-01	16916	37.85
+TH	Thailand	2015-01-01	16222	37.85
+TH	Thailand	2014-01-01	15646	37.85
+TH	Thailand	2013-01-01	15293	37.85
+TH	Thailand	2012-01-01	14714	39.26
+TH	Thailand	2011-01-01	13535	37.46
+TH	Thailand	2010-01-01	13213	39.4
+TH	Thailand	2009-01-01	12201	39.75
+TH	Thailand	2008-01-01	12255	40.29
+TH	Thailand	2007-01-01	11878	39.76
+TH	Thailand	2006-01-01	11035	41.82
+TH	Thailand	2005-01-01	10262	42.54
+TH	Thailand	2004-01-01	9604	42.54
+TH	Thailand	2003-01-01	8855	41.94
+TH	Thailand	2002-01-01	8160	41.94
+TH	Thailand	2001-01-01	7635	42.83
+TH	Thailand	2000-01-01	7283	42.83
+TL	Timor-Leste	2016-01-01	2290	31.56
+TL	Timor-Leste	2015-01-01	2290	31.56
+TL	Timor-Leste	2014-01-01	2222	31.56
+TL	Timor-Leste	2013-01-01	2112	31.56
+TL	Timor-Leste	2012-01-01	2069	31.56
+TL	Timor-Leste	2011-01-01	1963	31.56
+TL	Timor-Leste	2010-01-01	1815	31.56
+TL	Timor-Leste	2009-01-01	1650	31.56
+TL	Timor-Leste	2008-01-01	1468	31.56
+TL	Timor-Leste	2007-01-01	1276	31.56
+TL	Timor-Leste	2006-01-01	1133	37.56
+TL	Timor-Leste	2005-01-01	1191	37.56
+TL	Timor-Leste	2004-01-01	1118	37.56
+TL	Timor-Leste	2003-01-01	1123	37.56
+TL	Timor-Leste	2002-01-01	1173	37.56
+TL	Timor-Leste	2001-01-01	1281	37.56
+TL	Timor-Leste	2000-01-01	1102	46.02
+TG	Togo	2016-01-01	1490	46.02
+TG	Togo	2015-01-01	1438	46.02
+TG	Togo	2014-01-01	1385	46.02
+TG	Togo	2013-01-01	1319	46.02
+TG	Togo	2012-01-01	1282	46.02
+TG	Togo	2011-01-01	1233	46.02
+TG	Togo	2010-01-01	1183	42.21
+TG	Togo	2009-01-01	1155	42.21
+TG	Togo	2008-01-01	1137	42.21
+TG	Togo	2007-01-01	1121	42.21
+TG	Togo	2006-01-01	1097	42.21
+TG	Togo	2005-01-01	1051	38.1
+TG	Togo	2004-01-01	1033	38.1
+TG	Togo	2003-01-01	1011	38.1
+TG	Togo	2002-01-01	969	38.1
+TG	Togo	2001-01-01	990	38.1
+TG	Togo	2000-01-01	1012	38.1
+TO	Tonga	2016-01-01	5752	38.1
+TO	Tonga	2015-01-01	5524	38.1
+TO	Tonga	2014-01-01	5299	38.1
+TO	Tonga	2013-01-01	5123	38.1
+TO	Tonga	2012-01-01	5223	38.1
+TO	Tonga	2011-01-01	5101	38.1
+TO	Tonga	2010-01-01	4883	38.1
+TO	Tonga	2009-01-01	4681	38.1
+TO	Tonga	2008-01-01	4568	37.84
+TO	Tonga	2007-01-01	4373	37.84
+TO	Tonga	2006-01-01	4474	37.84
+TO	Tonga	2005-01-01	4404	37.84
+TO	Tonga	2004-01-01	4227	37.84
+TO	Tonga	2003-01-01	4154	37.84
+TO	Tonga	2002-01-01	4013	37.84
+TO	Tonga	2001-01-01	3844	37.84
+TO	Tonga	2000-01-01	3647	35.81
+TT	Trinidad and Tobago	2016-01-01	31907	35.81
+TT	Trinidad and Tobago	2015-01-01	33308	35.81
+TT	Trinidad and Tobago	2014-01-01	33282	35.81
+TT	Trinidad and Tobago	2013-01-01	33038	35.81
+TT	Trinidad and Tobago	2012-01-01	31830	35.81
+TT	Trinidad and Tobago	2011-01-01	31012	35.81
+TT	Trinidad and Tobago	2010-01-01	30628	35.81
+TT	Trinidad and Tobago	2009-01-01	29429	35.81
+TT	Trinidad and Tobago	2008-01-01	30693	35.81
+TT	Trinidad and Tobago	2007-01-01	29252	35.81
+TT	Trinidad and Tobago	2006-01-01	27328	35.81
+TT	Trinidad and Tobago	2005-01-01	23532	35.81
+TT	Trinidad and Tobago	2004-01-01	21572	35.81
+TT	Trinidad and Tobago	2003-01-01	19547	35.81
+TT	Trinidad and Tobago	2002-01-01	16828	35.81
+TT	Trinidad and Tobago	2001-01-01	15420	35.81
+TT	Trinidad and Tobago	2000-01-01	14524	35.81
+TN	Tunisia	2016-01-01	11598	35.81
+TN	Tunisia	2015-01-01	11445	35.81
+TN	Tunisia	2014-01-01	11325	35.81
+TN	Tunisia	2013-01-01	10947	35.81
+TN	Tunisia	2012-01-01	10595	35.81
+TN	Tunisia	2011-01-01	10120	35.81
+TN	Tunisia	2010-01-01	10225	35.81
+TN	Tunisia	2009-01-01	9868	37.73
+TN	Tunisia	2008-01-01	9609	37.73
+TN	Tunisia	2007-01-01	9137	37.73
+TN	Tunisia	2006-01-01	8424	37.73
+TN	Tunisia	2005-01-01	7838	37.73
+TN	Tunisia	2004-01-01	7400	40.81
+TN	Tunisia	2003-01-01	6832	40.81
+TN	Tunisia	2002-01-01	6446	40.81
+TN	Tunisia	2001-01-01	6316	40.81
+TN	Tunisia	2000-01-01	6003	40.81
+TR	Turkey	2016-01-01	24243	40.18
+TR	Turkey	2015-01-01	24054	40.18
+TR	Turkey	2014-01-01	23111	40.18
+TR	Turkey	2013-01-01	22310	40.18
+TR	Turkey	2012-01-01	20639	40.17
+TR	Turkey	2011-01-01	19660	40.04
+TR	Turkey	2010-01-01	17459	38.79
+TR	Turkey	2009-01-01	15501	38.97
+TR	Turkey	2008-01-01	16048	39.02
+TR	Turkey	2007-01-01	14840	38.44
+TR	Turkey	2006-01-01	13628	39.65
+TR	Turkey	2005-01-01	11887	42.61
+TR	Turkey	2004-01-01	10868	41.29
+TR	Turkey	2003-01-01	9603	42.18
+TR	Turkey	2002-01-01	9330	41.4
+TR	Turkey	2001-01-01	9236	41.1
+TR	Turkey	2000-01-01	9576	41.1
+TM	Turkmenistan	2016-01-01	16880	41.1
+TM	Turkmenistan	2015-01-01	15962	41.1
+TM	Turkmenistan	2014-01-01	15097	41.1
+TM	Turkmenistan	2013-01-01	13697	41.1
+TM	Turkmenistan	2012-01-01	12460	41.1
+TM	Turkmenistan	2011-01-01	11212	41.1
+TM	Turkmenistan	2010-01-01	9741	41.1
+TM	Turkmenistan	2009-01-01	8952	41.1
+TM	Turkmenistan	2008-01-01	8496	41.1
+TM	Turkmenistan	2007-01-01	7363	41.1
+TM	Turkmenistan	2006-01-01	6538	41.1
+TM	Turkmenistan	2005-01-01	5783	41.1
+TM	Turkmenistan	2004-01-01	5010	41.1
+TM	Turkmenistan	2003-01-01	4691	41.1
+TM	Turkmenistan	2002-01-01	4498	41.1
+TM	Turkmenistan	2001-01-01	4463	41.1
+TM	Turkmenistan	2000-01-01	4227	41.1
+TC	Turks and Caicos Islands	2016-01-01	3651	41.1
+TC	Turks and Caicos Islands	2015-01-01	3651	41.1
+TC	Turks and Caicos Islands	2014-01-01	3651	41.1
+TC	Turks and Caicos Islands	2013-01-01	3651	41.1
+TC	Turks and Caicos Islands	2012-01-01	3651	41.1
+TC	Turks and Caicos Islands	2011-01-01	3651	41.1
+TC	Turks and Caicos Islands	2010-01-01	3651	41.1
+TC	Turks and Caicos Islands	2009-01-01	3651	41.1
+TC	Turks and Caicos Islands	2008-01-01	3651	41.1
+TC	Turks and Caicos Islands	2007-01-01	3651	41.1
+TC	Turks and Caicos Islands	2006-01-01	3651	41.1
+TC	Turks and Caicos Islands	2005-01-01	3651	41.1
+TC	Turks and Caicos Islands	2004-01-01	3651	41.1
+TC	Turks and Caicos Islands	2003-01-01	3651	41.1
+TC	Turks and Caicos Islands	2002-01-01	3651	41.1
+TC	Turks and Caicos Islands	2001-01-01	3651	41.1
+TC	Turks and Caicos Islands	2000-01-01	3651	41.1
+TV	Tuvalu	2016-01-01	3651	41.1
+TV	Tuvalu	2015-01-01	3538	41.1
+TV	Tuvalu	2014-01-01	3440	41.1
+TV	Tuvalu	2013-01-01	3333	41.1
+TV	Tuvalu	2012-01-01	3266	41.1
+TV	Tuvalu	2011-01-01	3230	41.1
+TV	Tuvalu	2010-01-01	2945	41.1
+TV	Tuvalu	2009-01-01	3017	41.01
+TV	Tuvalu	2008-01-01	3164	41.01
+TV	Tuvalu	2007-01-01	2901	41.01
+TV	Tuvalu	2006-01-01	2685	41.01
+TV	Tuvalu	2005-01-01	2578	41.01
+TV	Tuvalu	2004-01-01	2631	41.01
+TV	Tuvalu	2003-01-01	2629	41.01
+TV	Tuvalu	2002-01-01	2703	41.01
+TV	Tuvalu	2001-01-01	2500	41.01
+TV	Tuvalu	2000-01-01	2428	41.01
+UG	Uganda	2016-01-01	1848	41.01
+UG	Uganda	2015-01-01	1802	41.01
+UG	Uganda	2014-01-01	1755	41.01
+UG	Uganda	2013-01-01	1694	41.01
+UG	Uganda	2012-01-01	1665	41.01
+UG	Uganda	2011-01-01	1628	44.2
+UG	Uganda	2010-01-01	1508	44.2
+UG	Uganda	2009-01-01	1460	44.2
+UG	Uganda	2008-01-01	1405	42.94
+UG	Uganda	2007-01-01	1312	42.94
+UG	Uganda	2006-01-01	1220	42.94
+UG	Uganda	2005-01-01	1106	42.94
+UG	Uganda	2004-01-01	1043	45.17
+UG	Uganda	2003-01-01	984	45.17
+UG	Uganda	2002-01-01	938	45.17
+UG	Uganda	2001-01-01	879	24.09
+UG	Uganda	2000-01-01	845	24.09
+UA	Ukraine	2016-01-01	8271	24.09
+UA	Ukraine	2015-01-01	7948	24.09
+UA	Ukraine	2014-01-01	8683	24.09
+UA	Ukraine	2013-01-01	8629	24.55
+UA	Ukraine	2012-01-01	8475	24.74
+UA	Ukraine	2011-01-01	8281	24.55
+UA	Ukraine	2010-01-01	7666	24.82
+UA	Ukraine	2009-01-01	7239	25.32
+UA	Ukraine	2008-01-01	8395	26.64
+UA	Ukraine	2007-01-01	8005	27.01
+UA	Ukraine	2006-01-01	7184	29.79
+UA	Ukraine	2005-01-01	6452	29.02
+UA	Ukraine	2004-01-01	6042	28.93
+UA	Ukraine	2003-01-01	5206	28.66
+UA	Ukraine	2002-01-01	4628	29.05
+UA	Ukraine	2001-01-01	4289	32.57
+UA	Ukraine	2000-01-01	3802	32.57
+AE	United Arab Emirates	2016-01-01	72418	32.57
+AE	United Arab Emirates	2015-01-01	70245	32.57
+AE	United Arab Emirates	2014-01-01	67551	32.57
+AE	United Arab Emirates	2013-01-01	64713	32.57
+AE	United Arab Emirates	2012-01-01	60914	32.57
+AE	United Arab Emirates	2011-01-01	58404	32.57
+AE	United Arab Emirates	2010-01-01	56415	32.57
+AE	United Arab Emirates	2009-01-01	59160	32.57
+AE	United Arab Emirates	2008-01-01	68902	32.57
+AE	United Arab Emirates	2007-01-01	74698	32.57
+AE	United Arab Emirates	2006-01-01	81305	32.57
+AE	United Arab Emirates	2005-01-01	82205	32.57
+AE	United Arab Emirates	2004-01-01	85090	32.57
+AE	United Arab Emirates	2003-01-01	82571	32.57
+AE	United Arab Emirates	2002-01-01	79388	32.57
+AE	United Arab Emirates	2001-01-01	80488	32.57
+AE	United Arab Emirates	2000-01-01	81818	32.57
+GB	United Kingdom	2016-01-01	42608	32.57
+GB	United Kingdom	2015-01-01	41767	32.57
+GB	United Kingdom	2014-01-01	40709	32.57
+GB	United Kingdom	2013-01-01	39016	32.57
+GB	United Kingdom	2012-01-01	37477	32.57
+GB	United Kingdom	2011-01-01	36456	33.71
+GB	United Kingdom	2010-01-01	35740	34.81
+GB	United Kingdom	2009-01-01	34402	34.67
+GB	United Kingdom	2008-01-01	36068	34.37
+GB	United Kingdom	2007-01-01	35151	35.93
+GB	United Kingdom	2006-01-01	34332	34.84
+GB	United Kingdom	2005-01-01	32274	34.56
+GB	United Kingdom	2004-01-01	31617	36.22
+GB	United Kingdom	2003-01-01	29898	41.06
+GB	United Kingdom	2002-01-01	28630	41.06
+GB	United Kingdom	2001-01-01	27358	41.06
+GB	United Kingdom	2000-01-01	26030	41.06
+US	United States	2016-01-01	57466	41.06
+US	United States	2015-01-01	56207	41.06
+US	United States	2014-01-01	54598	41.06
+US	United States	2013-01-01	52787	41.06
+US	United States	2012-01-01	51450	40.46
+US	United States	2011-01-01	49790	40.46
+US	United States	2010-01-01	48373	40.46
+US	United States	2009-01-01	47001	41.75
+US	United States	2008-01-01	48401	41.75
+US	United States	2007-01-01	48061	41.75
+US	United States	2006-01-01	46437	40.62
+US	United States	2005-01-01	44307	40.62
+US	United States	2004-01-01	41921	40.62
+US	United States	2003-01-01	39677	40.46
+US	United States	2002-01-01	38166	40.46
+US	United States	2001-01-01	37273	40.46
+US	United States	2000-01-01	36449	40.46
+UY	Uruguay	2016-01-01	21625	41.6
+UY	Uruguay	2015-01-01	21115	41.6
+UY	Uruguay	2014-01-01	20886	41.6
+UY	Uruguay	2013-01-01	19942	41.87
+UY	Uruguay	2012-01-01	18817	41.32
+UY	Uruguay	2011-01-01	17904	43.37
+UY	Uruguay	2010-01-01	16736	45.32
+UY	Uruguay	2009-01-01	15391	46.28
+UY	Uruguay	2008-01-01	14705	46.27
+UY	Uruguay	2007-01-01	13501	47.63
+UY	Uruguay	2006-01-01	12376	47.2
+UY	Uruguay	2005-01-01	11553	45.87
+UY	Uruguay	2004-01-01	10421	47.13
+UY	Uruguay	2003-01-01	9654	46.22
+UY	Uruguay	2002-01-01	9383	46.66
+UY	Uruguay	2001-01-01	10018	46.17
+UY	Uruguay	2000-01-01	10204	44.39
+UZ	Uzbekistan	2016-01-01	6514	35.27
+UZ	Uzbekistan	2015-01-01	6069	35.27
+UZ	Uzbekistan	2014-01-01	5657	35.27
+UZ	Uzbekistan	2013-01-01	5244	35.27
+UZ	Uzbekistan	2012-01-01	4853	35.27
+UZ	Uzbekistan	2011-01-01	4469	35.27
+UZ	Uzbekistan	2010-01-01	4153	35.27
+UZ	Uzbekistan	2009-01-01	3890	35.27
+UZ	Uzbekistan	2008-01-01	3632	35.27
+UZ	Uzbekistan	2007-01-01	3321	35.27
+UZ	Uzbekistan	2006-01-01	2985	35.27
+UZ	Uzbekistan	2005-01-01	2732	35.27
+UZ	Uzbekistan	2004-01-01	2503	35.27
+UZ	Uzbekistan	2003-01-01	2288	35.27
+UZ	Uzbekistan	2002-01-01	2178	33.04
+UZ	Uzbekistan	2001-01-01	2088	36.1
+UZ	Uzbekistan	2000-01-01	1984	36.1
+VU	Vanuatu	2016-01-01	3081	37.19
+VU	Vanuatu	2015-01-01	2988	37.19
+VU	Vanuatu	2014-01-01	3046	37.19
+VU	Vanuatu	2013-01-01	2990	37.19
+VU	Vanuatu	2012-01-01	2952	37.19
+VU	Vanuatu	2011-01-01	2915	37.19
+VU	Vanuatu	2010-01-01	2888	37.19
+VU	Vanuatu	2009-01-01	2874	46.94
+VU	Vanuatu	2008-01-01	2828	46.94
+VU	Vanuatu	2007-01-01	2669	46.94
+VU	Vanuatu	2006-01-01	2533	46.94
+VU	Vanuatu	2005-01-01	2323	46.94
+VU	Vanuatu	2004-01-01	2192	46.94
+VU	Vanuatu	2003-01-01	2105	46.94
+VU	Vanuatu	2002-01-01	2030	46.94
+VU	Vanuatu	2001-01-01	2159	46.94
+VU	Vanuatu	2000-01-01	2237	46.94
+VE	Venezuela, RB	2016-01-01	18281	46.94
+VE	Venezuela, RB	2015-01-01	18281	46.94
+VE	Venezuela, RB	2014-01-01	18281	46.94
+VE	Venezuela, RB	2013-01-01	18281	46.94
+VE	Venezuela, RB	2012-01-01	18004	46.94
+VE	Venezuela, RB	2011-01-01	16981	46.94
+VE	Venezuela, RB	2010-01-01	16210	46.94
+VE	Venezuela, RB	2009-01-01	16507	46.94
+VE	Venezuela, RB	2008-01-01	17192	46.94
+VE	Venezuela, RB	2007-01-01	16276	46.94
+VE	Venezuela, RB	2006-01-01	14821	46.94
+VE	Venezuela, RB	2005-01-01	13309	52.36
+VE	Venezuela, RB	2004-01-01	11891	49.82
+VE	Venezuela, RB	2003-01-01	9957	50.37
+VE	Venezuela, RB	2002-01-01	10775	50.56
+VE	Venezuela, RB	2001-01-01	11858	48.22
+VE	Venezuela, RB	2000-01-01	11424	37.59
+VN	Vietnam	2016-01-01	6424	37.59
+VN	Vietnam	2015-01-01	6034	37.59
+VN	Vietnam	2014-01-01	5656	37.59
+VN	Vietnam	2013-01-01	5300	38.7
+VN	Vietnam	2012-01-01	5000	38.7
+VN	Vietnam	2011-01-01	4715	42.68
+VN	Vietnam	2010-01-01	4395	42.68
+VN	Vietnam	2009-01-01	4123	38.15
+VN	Vietnam	2008-01-01	3924	38.15
+VN	Vietnam	2007-01-01	3681	37.44
+VN	Vietnam	2006-01-01	3383	37.44
+VN	Vietnam	2005-01-01	3102	37.17
+VN	Vietnam	2004-01-01	2828	37.17
+VN	Vietnam	2003-01-01	2590	37.32
+VN	Vietnam	2002-01-01	2403	37.32
+VN	Vietnam	2001-01-01	2252	34.46
+VN	Vietnam	2000-01-01	2100	34.46
+VI	Virgin Islands (U.S.)	2016-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2015-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2014-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2013-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2012-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2011-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2010-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2009-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2008-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2007-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2006-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2005-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2004-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2003-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2002-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2001-01-01	2943	34.46
+VI	Virgin Islands (U.S.)	2000-01-01	2943	34.46
+PS	West Bank and Gaza	2016-01-01	2943	34.46
+PS	West Bank and Gaza	2015-01-01	2865	34.46
+PS	West Bank and Gaza	2014-01-01	2960	34.46
+PS	West Bank and Gaza	2013-01-01	2992	34.46
+PS	West Bank and Gaza	2012-01-01	2787	34.46
+PS	West Bank and Gaza	2011-01-01	2664	34.46
+PS	West Bank and Gaza	2010-01-01	2338	34.46
+PS	West Bank and Gaza	2009-01-01	1963	34.46
+PS	West Bank and Gaza	2008-01-01	1855	35.61
+PS	West Bank and Gaza	2007-01-01	1575	35.61
+PS	West Bank and Gaza	2006-01-01	1441	33.96
+PS	West Bank and Gaza	2005-01-01	1455	34.72
+PS	West Bank and Gaza	2004-01-01	1337	33.97
+PS	West Bank and Gaza	2003-01-01	1257	55.62
+PS	West Bank and Gaza	2002-01-01	1156	55.62
+PS	West Bank and Gaza	2001-01-01	1335	55.62
+PS	West Bank and Gaza	2000-01-01	1476	55.62
+YE	Yemen, Rep.	2016-01-01	2508	55.62
+YE	Yemen, Rep.	2015-01-01	2811	55.62
+YE	Yemen, Rep.	2014-01-01	3967	55.62
+YE	Yemen, Rep.	2013-01-01	4007	55.62
+YE	Yemen, Rep.	2012-01-01	3863	55.62
+YE	Yemen, Rep.	2011-01-01	3805	55.62
+YE	Yemen, Rep.	2010-01-01	4388	55.62
+YE	Yemen, Rep.	2009-01-01	4135	55.62
+YE	Yemen, Rep.	2008-01-01	4061	55.62
+YE	Yemen, Rep.	2007-01-01	3949	55.62
+YE	Yemen, Rep.	2006-01-01	3827	55.62
+YE	Yemen, Rep.	2005-01-01	3699	55.62
+YE	Yemen, Rep.	2004-01-01	3490	55.62
+YE	Yemen, Rep.	2003-01-01	3360	55.62
+YE	Yemen, Rep.	2002-01-01	3267	55.62
+YE	Yemen, Rep.	2001-01-01	3184	55.62
+YE	Yemen, Rep.	2000-01-01	3086	55.62
+ZM	Zambia	2016-01-01	3922	55.62
+ZM	Zambia	2015-01-01	3861	55.62
+ZM	Zambia	2014-01-01	3826	55.62
+ZM	Zambia	2013-01-01	3701	55.62
+ZM	Zambia	2012-01-01	3574	55.62
+ZM	Zambia	2011-01-01	3361	55.62
+ZM	Zambia	2010-01-01	3212	55.62
+ZM	Zambia	2009-01-01	2961	54.62
+ZM	Zambia	2008-01-01	2768	54.62
+ZM	Zambia	2007-01-01	2589	54.62
+ZM	Zambia	2006-01-01	2392	54.62
+ZM	Zambia	2005-01-01	2210	54.29
+ZM	Zambia	2004-01-01	2051	54.29
+ZM	Zambia	2003-01-01	1916	42.06
+ZM	Zambia	2002-01-01	1804	42.06
+ZM	Zambia	2001-01-01	1746	43.15
+ZM	Zambia	2000-01-01	1666	43.15
+ZW	Zimbabwe	2016-01-01	2006	43.15
+ZW	Zimbabwe	2015-01-01	2013	43.15
+ZW	Zimbabwe	2014-01-01	2010	43.15
+ZW	Zimbabwe	2013-01-01	1967	43.15
+ZW	Zimbabwe	2012-01-01	1882	43.15
+ZW	Zimbabwe	2011-01-01	1663	43.15
+ZW	Zimbabwe	2010-01-01	1430	
+ZW	Zimbabwe	2009-01-01	1248	
+ZW	Zimbabwe	2008-01-01	1161	
+ZW	Zimbabwe	2007-01-01	1407	
+ZW	Zimbabwe	2006-01-01	1445	
+ZW	Zimbabwe	2005-01-01	1472	
+ZW	Zimbabwe	2004-01-01	1532	
+ZW	Zimbabwe	2003-01-01	1601	
+ZW	Zimbabwe	2002-01-01	1911	
+ZW	Zimbabwe	2001-01-01	2089	
+ZW	Zimbabwe	2000-01-01	2037	
