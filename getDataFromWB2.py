@@ -58,7 +58,8 @@ cols = dfu.columns.tolist()
 cols = cols[-1:] + cols[:-1]
 dfu = dfu[cols]
 
-dfu = dfu.dropna(axis=0, how='any')
+#dfu = dfu.dropna(axis=0, how='any')
+dfu = dfu.fillna(method='bfill')
 
 # CLEAN DATA
 
